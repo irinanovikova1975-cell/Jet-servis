@@ -1,0 +1,453 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Jet Service — люксові товари з Європи</title>
+<link rel="icon" href="https://i.postimg.cc/wBYpXSS6/IMG-7238.jpg">
+<style>
+  :root {
+    --cream: #f4f0e8; --cream-2: #eae3d6;
+    --gold: #b8965a; --gold-light: #d4b87a;
+    --dark: #1c1a17; --text: #3a332a;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: Georgia, "Times New Roman", serif; background: var(--cream); color: var(--text); letter-spacing: 0.4px; }
+  a { text-decoration: none; color: inherit; }
+
+  header {
+    position: fixed; top: 0; left: 0; right: 0; z-index: 100;
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 12px 40px; background: rgba(244,240,232,0.97);
+    border-bottom: 1px solid var(--cream-2);
+  }
+  .brand { display: flex; align-items: center; gap: 14px; }
+  .logo-mark, .logo-img {
+    width: 44px; height: 44px; border-radius: 50%; flex-shrink: 0;
+    background: var(--cream-2); border: 1px solid var(--gold);
+    display: flex; align-items: center; justify-content: center;
+    font-size: 17px; color: var(--gold);
+  }
+  .logo-img { object-fit: cover; }
+  .brand-name { font-size: 20px; letter-spacing: 4px; color: var(--dark); white-space: nowrap; }
+  nav { display: flex; gap: 30px; font-size: 12px; letter-spacing: 2px; font-family: Arial, sans-serif; }
+  nav a { padding-bottom: 4px; border-bottom: 1px solid transparent; transition: border 0.3s; color: var(--dark); }
+  nav a:hover { border-bottom: 1px solid var(--gold); }
+
+  .ribbon { overflow: hidden; background: var(--dark); padding: 16px 0; margin-top: 68px; }
+  .ribbon-track {
+    display: inline-block; white-space: nowrap; color: var(--gold-light);
+    font-family: Arial, sans-serif; font-size: 14px; letter-spacing: 6px;
+    animation: slide 25s linear infinite;
+  }
+  @keyframes slide { from { transform: translateX(0); } to { transform: translateX(-50%); } }
+
+  .hero {
+    position: relative;
+    min-height: 94vh;
+    padding: 120px 20px 80px;
+    display: flex; flex-direction: column; justify-content: center; align-items: center;
+    text-align: center;
+    background: var(--cream);
+    overflow: hidden;
+  }
+  .hero .logo-mark, .hero .logo-img { width: 90px; height: 90px; font-size: 34px; margin-bottom: 30px; background: transparent; }
+  .hero .hero-bg {
+    position: absolute; top: -40px; bottom: -40px; left: -40px; right: -40px;
+    background: url('https://i.postimg.cc/XqQLKjbg/059CF1FC-9433-4A53-A58B-11B10529B3C3.png') center/cover no-repeat;
+    animation: heroZoom 26s ease-in-out infinite alternate;
+  }
+  .hero .hero-veil {
+    position: absolute; top: 0; bottom: 0; left: 0; right: 0;
+    background: linear-gradient(180deg, rgba(244,240,232,0.15) 0%, rgba(244,240,232,0.28) 55%, rgba(244,240,232,0.60) 100%);
+  }
+  .hero h1, .hero .sub, .hero .btn, .hero .hero-line { position: relative; z-index: 2; }
+  .hero h1 {
+    font-size: 54px; font-weight: 400; letter-spacing: 10px;
+    color: var(--dark); margin-bottom: 22px;
+    animation: heroUp 1.2s ease both;
+  }
+  .hero .hero-line {
+    width: 0; height: 1px; background: var(--gold);
+    margin-bottom: 22px; animation: heroLine 1.2s ease 0.6s forwards;
+  }
+  .hero .sub {
+    font-family: Arial, sans-serif; font-size: 13px; letter-spacing: 3px;
+    color: var(--text); margin-bottom: 36px;
+    animation: heroUp 1.2s ease 0.35s both;
+  }
+  .hero .btn {
+    background: var(--dark); color: var(--cream);
+    animation: heroUp 1.2s ease 0.7s both, heroPulse 2.8s ease-in-out 1.8s infinite;
+  }
+  .hero .btn:hover { background: #000; }
+  @keyframes heroZoom { from { transform: scale(1); } to { transform: scale(1.07); } }
+  @keyframes heroUp { from { opacity: 0; transform: translateY(26px); } to { opacity: 1; transform: translateY(0); } }
+  @keyframes heroLine { to { width: 130px; } }
+  @keyframes heroPulse {
+    0%, 100% { box-shadow: 0 0 0 0 rgba(28,26,23,0.35); }
+    50% { box-shadow: 0 0 0 16px rgba(28,26,23,0); }
+  }
+
+  .btn {
+    display: inline-block; padding: 16px 48px; background: var(--gold); color: var(--dark);
+    font-size: 12px; letter-spacing: 3px; font-family: Arial, sans-serif; transition: all 0.4s;
+  }
+  .btn:hover { background: var(--gold-light); }
+  .btn-outline {
+    display: inline-block; padding: 15px 44px; border: 1px solid var(--gold); color: var(--gold);
+    font-size: 12px; letter-spacing: 3px; font-family: Arial, sans-serif; transition: all 0.4s;
+  }
+  .btn-outline:hover { background: var(--gold); color: var(--dark); }
+
+  section { padding: 100px 40px; }
+  .section-title { text-align: center; font-size: 30px; font-weight: 400; letter-spacing: 4px; margin-bottom: 14px; color: var(--dark); }
+  .gold-line { width: 60px; height: 1px; background: var(--gold); margin: 0 auto 40px; }
+  .section-sub { text-align: center; color: #8a7f6e; font-size: 13px; letter-spacing: 1px; margin-bottom: 40px; font-family: Arial, sans-serif; }
+  .updated-note { text-align: center; color: #b5a98f; font-size: 11px; letter-spacing: 1px; margin-top: -24px; margin-bottom: 30px; font-family: Arial, sans-serif; }
+
+  .filter-bar { display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 40px; font-family: Arial, sans-serif; }
+  .chip {
+    padding: 9px 22px; border: 1px solid var(--gold); color: var(--gold);
+    font-size: 11px; letter-spacing: 2px; cursor: pointer; background: transparent; transition: all 0.3s;
+  }
+  .chip.active, .chip:hover { background: var(--gold); color: var(--dark); }
+
+  .grid { display: grid; gap: 30px; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); max-width: 1200px; margin: 0 auto; }
+  .card { background: #fff; padding-bottom: 22px; border: 1px solid var(--cream-2); cursor: pointer; transition: transform 0.3s; }
+  .card:hover { transform: translateY(-4px); }
+  .card-img { position: relative; height: 340px; background-color: var(--cream-2); background-size: cover; background-position: center; }
+  .card h3 { font-size: 15px; font-weight: 400; letter-spacing: 1px; margin: 18px 18px 6px; min-height: 20px; color: var(--dark); }
+  .card .price { font-size: 14px; color: var(--gold); margin: 0 18px; }
+  .card .order {
+    display: inline-block; margin: 14px 18px 0; padding: 10px 26px;
+    border: 1px solid var(--gold); font-size: 11px; letter-spacing: 2px; color: var(--gold);
+    font-family: Arial, sans-serif; transition: all 0.3s;
+  }
+  .card .order:hover { background: var(--gold); color: var(--dark); }
+
+  .perks { display: grid; gap: 24px; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); max-width: 1100px; margin: 0 auto; }
+  .perk { text-align: center; padding: 30px 20px; background: #fff; border: 1px solid var(--cream-2); }
+  .perk .ico { font-size: 30px; margin-bottom: 14px; }
+  .perk h3 { font-size: 17px; font-weight: 400; color: var(--dark); margin-bottom: 10px; }
+  .perk p { font-size: 13px; color: #8a7f6e; line-height: 1.8; font-family: Arial, sans-serif; }
+
+  .modal {
+    display: none; position: fixed; inset: 0; z-index: 200;
+    background: rgba(28,26,23,0.75); padding: 20px;
+    align-items: center; justify-content: center;
+  }
+  .modal.open { display: flex; }
+  .modal-box { background: var(--cream); max-width: 900px; width: 100%; max-height: 90vh; overflow-y: auto; padding: 30px; position: relative; }
+  .modal-close { position: absolute; top: 10px; right: 14px; font-size: 30px; background: none; border: none; cursor: pointer; color: var(--dark); z-index: 2; }
+  .modal-img { width: 100%; height: 420px; max-height: 50vh; background-color: var(--cream-2); background-size: contain; background-position: center; background-repeat: no-repeat; overflow: hidden; }
+  .modal-thumbs { display: flex; gap: 8px; margin: 14px 0; flex-wrap: wrap; }
+  .modal-thumbs .thumb { width: 64px; height: 64px; border: 1px solid var(--cream-2); background-size: cover; background-position: center; cursor: pointer; }
+  .modal-thumbs .thumb.active { border-color: var(--gold); }
+  .modal h3 { font-size: 24px; font-weight: 400; letter-spacing: 1px; margin: 10px 0 6px; color: var(--dark); }
+  .modal .m-price { font-size: 18px; color: var(--gold); margin-bottom: 16px; }
+  .modal .m-desc { font-size: 14px; line-height: 1.9; color: var(--text); margin-bottom: 24px; white-space: pre-line; font-family: Arial, sans-serif; }
+
+  .float-tg {
+    position: fixed; bottom: 22px; right: 22px; z-index: 150;
+    width: 58px; height: 58px; border-radius: 50%;
+    background: var(--gold); color: #fff; font-size: 26px;
+    display: flex; align-items: center; justify-content: center;
+    box-shadow: 0 6px 20px rgba(0,0,0,0.25); transition: transform 0.3s;
+  }
+  .float-tg:hover { transform: scale(1.1); }
+
+  .reveal { opacity: 0; transform: translateY(40px); transition: all 0.9s ease; }
+  .reveal.visible { opacity: 1; transform: translateY(0); }
+
+  .contact-line { text-align: center; font-size: 14px; letter-spacing: 2px; line-height: 2.6; }
+  .contact-line a { border-bottom: 1px solid var(--gold); }
+  .contact-line a:hover { opacity: 0.6; }
+
+  footer { background: var(--dark); color: var(--cream); padding: 60px 40px; text-align: center; font-size: 12px; letter-spacing: 2px; font-family: Arial, sans-serif; }
+  footer .logo-mark, footer .logo-img { margin: 0 auto 18px; background: transparent; }
+  footer .brand-name { color: var(--gold-light); font-size: 18px; }
+  footer p { color: #8a7f6e; margin-top: 20px; }
+  footer a { color: var(--cream); border-bottom: 1px solid var(--gold); }
+
+  @media (max-width: 768px) {
+    header { padding: 10px 16px; }
+    nav { display: none; }
+    .brand-name { font-size: 16px; letter-spacing: 2px; }
+    .hero h1 { font-size: 30px; letter-spacing: 5px; }
+    .hero .sub { font-size: 11px; letter-spacing: 2px; }
+    .hero { min-height: 85vh; }
+    section { padding: 60px 20px; }
+    .modal-box { padding: 18px; }
+    .modal-img { height: 300px; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="brand">
+    <div class="logo-mark">JS</div>
+    <div class="brand-name">Jet Service</div>
+  </div>
+  <nav>
+    <a href="#products">ТОВАРИ</a>
+    <a href="#kontakty">КОНТАКТИ</a>
+  </nav>
+</header>
+
+<div class="ribbon">
+  <div class="ribbon-track">DIOR · HERMÈS · SAINT LAURENT · DOLCE &amp; GABBANA · CHANEL · PRADA · FENDI · DIOR · HERMÈS · SAINT LAURENT · DOLCE &amp; GABBANA · CHANEL · PRADA · FENDI ·&nbsp;</div>
+</div>
+
+<div class="hero">
+  <div class="hero-bg"></div>
+  <div class="hero-veil"></div>
+  <div class="logo-mark">JS</div>
+  <h1>JET SERVICE</h1>
+  <div class="hero-line"></div>
+  <p class="sub">ВИКУП ЛЮКСОВИХ ТОВАРІВ З ЄВРОПИ · ДОСТАВКА В УКРАЇНУ</p>
+  <a href="#products" class="btn">ДИВИТИСЯ ТОВАРИ</a>
+</div>
+
+
+<section id="products">
+  <h2 class="section-title reveal">Нові надходження</h2>
+  <div class="gold-line reveal"></div>
+  <p class="section-sub reveal">Натисніть на товар, щоб побачити опис, фото та відео</p>
+  <p class="updated-note" id="updated-note"></p>
+  <div class="filter-bar" id="filter-bar"></div>
+  <div class="grid" id="tg-products">
+    <p style="text-align:center;color:#8a7f6e;grid-column:1/-1;font-family:Arial,sans-serif">Завантажую товари…</p>
+  </div>
+  <div style="text-align:center;margin-top:50px" class="reveal">
+    <a href="https://t.me/JetBuyerService" target="_blank" class="btn-outline">ДИВИТИСЯ КАНАЛ</a>
+  </div>
+</section>
+
+<section id="perevagy">
+  <h2 class="section-title reveal">Чому Jet Service</h2>
+  <div class="gold-line reveal"></div>
+  <div class="perks">
+    <div class="perk reveal"><div class="ico">✈️</div><h3>Викуп у Європі</h3><p>Особисто перевіряємо кожну річ перед викупом</p></div>
+    <div class="perk reveal"><div class="ico">🛡️</div><h3>100% оригінал</h3><p>Тільки автентичні товари від офіційних бутиків</p></div>
+    <div class="perk reveal"><div class="ico">🎁</div><h3>Подарункова коробка</h3><p>Кожне замовлення — у фірмовій упаковці Jet Service</p></div>
+    <div class="perk reveal"><div class="ico">📦</div><h3>Доставка в Україну</h3><p>Надійна доставка до вашого відділення за 5–10 днів</p></div>
+  </div>
+</section>
+
+<section id="kontakty" style="background:var(--cream-2)">
+  <h2 class="section-title reveal">Контакти</h2>
+  <div class="gold-line reveal"></div>
+  <p class="section-sub reveal">Пишіть особисто — підберемо, привеземо, розкажемо про наявність</p>
+  <div class="contact-line reveal">
+    <p>📞 <a href="tel:+380930172112">+38 (093) 017-21-12</a></p>
+    <p>💬 <a href="https://t.me/jetAssistant" target="_blank">Замовити товар: @jetAssistant</a></p>
+    <p>✈️ <a href="https://t.me/JetBuyerService" target="_blank">Telegram-канал: Jet Service</a></p>
+    <p>📸 <a href="https://www.instagram.com/1st.jetservice/" target="_blank">Instagram: 1st.jetservice</a></p>
+  </div>
+  <div style="text-align:center;margin-top:40px" class="reveal">
+    <a href="https://t.me/jetAssistant" target="_blank" class="btn">НАПИСАТИ В TELEGRAM</a>
+  </div>
+</section>
+
+<footer>
+  <div class="logo-mark">JS</div>
+  <div class="brand-name">Jet Service</div>
+  <p><a href="https://t.me/jetAssistant" target="_blank">✈️ Замовлення: @jetAssistant</a> · <a href="tel:+380930172112">+38 093 017 21 12</a></p>
+  <p>© 2025 Jet Service. Всі права захищені.</p>
+</footer>
+
+<a class="float-tg" href="https://t.me/jetAssistant" target="_blank">✈</a>
+
+<div class="modal" id="modal">
+  <div class="modal-box">
+    <button class="modal-close" id="modal-close">×</button>
+    <div class="modal-img" id="m-img"></div>
+    <div class="modal-thumbs" id="m-thumbs"></div>
+    <h3 id="m-title"></h3>
+    <div class="m-price" id="m-price"></div>
+    <div class="m-desc" id="m-desc"></div>
+    <a class="btn" id="m-order" target="_blank">ЗАМОВИТИ В TELEGRAM</a>
+    <a id="m-post" target="_blank" style="display:inline-block;margin-left:14px;font-size:12px;color:var(--gold);border-bottom:1px solid var(--gold)">Дивитися пост у Telegram →</a>
+  </div>
+</div>
+
+<script>
+  const CHANNEL = 'JetBuyerService';
+  const ORDER_LINK = 'https://t.me/jetAssistant';
+  const LOGO_URL = 'https://i.postimg.cc/wBYpXSS6/IMG-7238.jpg';
+
+  /* ===== ЛОГОТИП ===== */
+  if (LOGO_URL) {
+    document.querySelectorAll('.logo-mark').forEach(el => {
+      const img = document.createElement('img');
+      img.className = 'logo-img';
+      img.src = LOGO_URL;
+      img.onerror = function () {
+        const back = document.createElement('div');
+        back.className = 'logo-mark';
+        back.textContent = 'JS';
+        this.replaceWith(back);
+      };
+      el.replaceWith(img);
+    });
+  }
+
+  /* ===== АНІМАЦІЯ ПОЯВИ ===== */
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach(e => { if (e.isIntersecting) e.target.classList.add('visible'); });
+  }, { threshold: 0.15 });
+  document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
+
+  /* =====================================================================
+     ТОВАРИ: тепер читаємо готовий products.json (без проксі, без CORS).
+     Файл products.json оновлюється автоматично через GitHub Actions —
+     дивись README.md у цьому проєкті для налаштування.
+  ===================================================================== */
+  let PRODUCTS = [];
+
+  function formatUpdated(iso) {
+    if (!iso) return '';
+    try {
+      const d = new Date(iso);
+      return 'Оновлено: ' + d.toLocaleString('uk-UA', { day: '2-digit', month: '2-digit', hour: '2-digit', minute: '2-digit' });
+    } catch (e) { return ''; }
+  }
+
+  async function loadProducts() {
+    const box = document.getElementById('tg-products');
+    try {
+      const res = await fetch('./products.json', { cache: 'no-store' });
+      if (!res.ok) throw new Error('HTTP ' + res.status);
+      const data = await res.json();
+      PRODUCTS = Array.isArray(data.products) ? data.products : [];
+      document.getElementById('updated-note').textContent = formatUpdated(data.updatedAt);
+      renderProducts(PRODUCTS);
+    } catch (e) {
+      box.innerHTML = '<p style="text-align:center;color:#8a7f6e;grid-column:1/-1;font-family:Arial,sans-serif">Не вдалося завантажити товари. Спробуйте оновити сторінку.</p>';
+    }
+  }
+
+  function renderProducts(products) {
+    const box = document.getElementById('tg-products');
+    const bar = document.getElementById('filter-bar');
+    box.innerHTML = '';
+    bar.innerHTML = '';
+
+    if (!products.length) {
+      box.innerHTML = '<p style="text-align:center;color:#8a7f6e;grid-column:1/-1;font-family:Arial,sans-serif">Товари будуть тут після публікації в каналі.</p>';
+      return;
+    }
+
+    /* зібрати всі теги для фільтра */
+    const TAGS = new Map();
+    products.forEach(p => (p.tags || []).forEach(key => {
+      if (!TAGS.has(key)) TAGS.set(key, key.toUpperCase());
+    }));
+
+    products.forEach((p, i) => {
+      const cover = (p.photos && p.photos[0]) || (p.videos && p.videos[0] && p.videos[0].poster) || '';
+      const badge = (p.videos && p.videos.length && (!p.photos || !p.photos.length))
+        ? '<div style="position:absolute;top:12px;right:12px;width:40px;height:40px;border-radius:50%;background:rgba(28,26,23,0.75);color:var(--gold-light);display:flex;align-items:center;justify-content:center;font-size:16px">▶</div>'
+        : '';
+
+      const card = document.createElement('div');
+      card.className = 'card';
+      card.setAttribute('data-tags', (p.tags || []).join(','));
+      card.innerHTML =
+        '<div class="card-img" style="' + (cover ? "background-image:url('" + cover + "')" : '') + '">' + badge + '</div>' +
+        '<h3>' + (p.title || 'Товар').slice(0, 60) + '</h3>' +
+        (p.price ? '<div class="price">' + p.price.slice(0, 60) + '</div>' : '') +
+        '<span class="order">ДЕТАЛІ</span>';
+      card.addEventListener('click', () => openModal(p));
+      box.appendChild(card);
+    });
+
+    if (TAGS.size > 0) {
+      bar.innerHTML = '<button class="chip active" data-tag="">УСЕ</button>';
+      TAGS.forEach((name, key) => {
+        bar.innerHTML += '<button class="chip" data-tag="' + key + '">' + name.replace(/&/g, '&amp;') + '</button>';
+      });
+      bar.querySelectorAll('.chip').forEach(ch => {
+        ch.addEventListener('click', () => {
+          bar.querySelectorAll('.chip').forEach(c => c.classList.remove('active'));
+          ch.classList.add('active');
+          const tag = ch.getAttribute('data-tag');
+          box.querySelectorAll('.card').forEach(c => {
+            const ct = c.getAttribute('data-tags');
+            c.style.display = (!tag || (ct && ct.indexOf(tag) !== -1)) ? '' : 'none';
+          });
+        });
+      });
+    }
+  }
+
+  /* ===== ВІКНО ТОВАРА (фото + відео) ===== */
+  function openModal(p) {
+    if (!p) return;
+    document.getElementById('m-title').textContent = p.title || '';
+    document.getElementById('m-price').textContent = p.price || '';
+    document.getElementById('m-desc').textContent = p.description || '';
+    document.getElementById('m-order').href = ORDER_LINK;
+    document.getElementById('m-post').href = p.postUrl || ('https://t.me/' + CHANNEL);
+
+    const mi = document.getElementById('m-img');
+    const mt = document.getElementById('m-thumbs');
+
+    function setMedia(item) {
+      mi.innerHTML = '';
+      if (item && item.type === 'video') {
+        mi.style.backgroundImage = 'none';
+        const v = document.createElement('video');
+        v.controls = true;
+        v.playsInline = true;
+        if (item.poster) v.poster = item.poster;
+        v.style.cssText = 'width:100%;height:100%;object-fit:contain;background:#000';
+        const s = document.createElement('source');
+        s.src = item.src;
+        s.type = 'video/mp4';
+        v.appendChild(s);
+        mi.appendChild(v);
+      } else {
+        mi.style.backgroundImage = item && item.src ? "url('" + item.src + "')" : 'none';
+      }
+    }
+
+    const media = [];
+    (p.photos || []).forEach(u => media.push({ type: 'photo', src: u }));
+    (p.videos || []).forEach(v => media.push({ type: 'video', src: v.src, poster: v.poster }));
+
+    setMedia(media[0]);
+
+    mt.innerHTML = '';
+    if (media.length > 1) {
+      media.forEach((item, i) => {
+        const th = document.createElement('div');
+        th.className = 'thumb' + (i === 0 ? ' active' : '');
+        const bg = item.type === 'video' ? item.poster : item.src;
+        if (bg) th.style.backgroundImage = "url('" + bg + "')";
+        if (item.type === 'video') {
+          th.innerHTML = '<div style="display:flex;align-items:center;justify-content:center;height:100%;color:var(--gold);font-size:20px">▶</div>';
+        }
+        th.addEventListener('click', () => {
+          setMedia(item);
+          mt.querySelectorAll('.thumb').forEach(x => x.classList.remove('active'));
+          th.classList.add('active');
+        });
+        mt.appendChild(th);
+      });
+    }
+
+    document.getElementById('modal').classList.add('open');
+  }
+  document.getElementById('modal-close').addEventListener('click', () => document.getElementById('modal').classList.remove('open'));
+  document.getElementById('modal').addEventListener('click', (e) => {
+    if (e.target.id === 'modal') document.getElementById('modal').classList.remove('open');
+  });
+
+  loadProducts();
+</script>
+
+</body>
+</html>

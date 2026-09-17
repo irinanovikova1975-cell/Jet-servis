@@ -1,0 +1,12 @@
+{
+  "name": "jet-service-updater",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Server-side script that mirrors the Jet Service Telegram channel into products.json",
+  "scripts": {
+    "update": "node scripts/update-products.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  }
+}
