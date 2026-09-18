@@ -301,11 +301,11 @@
   document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
 
   /* =====================================================================
-     ТОВАРИ: тепер читаємо готовий products.json (без проксі, без CORS).
-     Файл products.json оновлюється автоматично через GitHub Actions —
-     дивись README.md у цьому проєкті для налаштування.
+     ТОВАРИ: читаємо products.json, ділимо на "в наявності" / "під замовлення"
   ===================================================================== */
   let PRODUCTS = [];
+  let currentCategory = 'stock';
+  let currentTag = '';
 
   function formatUpdated(iso) {
     if (!iso) return '';
@@ -323,131 +323,22 @@
       const data = await res.json();
       PRODUCTS = Array.isArray(data.products) ? data.products : [];
       document.getElementById('updated-note').textContent = formatUpdated(data.updatedAt);
-      renderProducts(PRODUCTS);
+      renderCategoryBar();
+      renderProducts();
     } catch (e) {
       box.innerHTML = '<p style="text-align:center;color:#8a7f6e;grid-column:1/-1;font-family:Arial,sans-serif">Не вдалося завантажити товари. Спробуйте оновити сторінку.</p>';
     }
   }
 
-  function renderProducts(products) {
-    const box = document.getElementById('tg-products');
-    const bar = document.getElementById('filter-bar');
-    box.innerHTML = '';
-    bar.innerHTML = '';
+  function renderCategoryBar() {
+    const catBar = document.getElementById('category-bar');
+    if (!catBar) return;
+    const stockCount = PRODUCTS.filter(p => p.category === 'stock').length;
+    const orderCount = PRODUCTS.filter(p => p.category === 'order').length;
+    catBar.innerHTML =
+      '<button class="chip' + (currentCategory === 'stock' ? ' active' : '') + '" data-cat="stock">В НАЯВНОСТІ (' + stockCount + ')</button>' +
+      '
 
-    if (!products.length) {
-      box.innerHTML = '<p style="text-align:center;color:#8a7f6e;grid-column:1/-1;font-family:Arial,sans-serif">Товари будуть тут після публікації в каналі.</p>';
-      return;
-    }
-
-    /* зібрати всі теги для фільтра */
-    const TAGS = new Map();
-    products.forEach(p => (p.tags || []).forEach(key => {
-      if (!TAGS.has(key)) TAGS.set(key, key.toUpperCase());
-    }));
-
-    products.forEach((p, i) => {
-      const cover = (p.photos && p.photos[0]) || (p.videos && p.videos[0] && p.videos[0].poster) || '';
-      const badge = (p.videos && p.videos.length && (!p.photos || !p.photos.length))
-        ? '<div style="position:absolute;top:12px;right:12px;width:40px;height:40px;border-radius:50%;background:rgba(28,26,23,0.75);color:var(--gold-light);display:flex;align-items:center;justify-content:center;font-size:16px">▶</div>'
-        : '';
-
-      const card = document.createElement('div');
-      card.className = 'card';
-      card.setAttribute('data-tags', (p.tags || []).join(','));
-      card.innerHTML =
-        '<div class="card-img" style="' + (cover ? "background-image:url('" + cover + "')" : '') + '">' + badge + '</div>' +
-        '<h3>' + (p.title || 'Товар').slice(0, 60) + '</h3>' +
-        (p.price ? '<div class="price">' + p.price.slice(0, 60) + '</div>' : '') +
-        '<span class="order">ДЕТАЛІ</span>';
-      card.addEventListener('click', () => openModal(p));
-      box.appendChild(card);
-    });
-
-    if (TAGS.size > 0) {
-      bar.innerHTML = '<button class="chip active" data-tag="">УСЕ</button>';
-      TAGS.forEach((name, key) => {
-        bar.innerHTML += '<button class="chip" data-tag="' + key + '">' + name.replace(/&/g, '&amp;') + '</button>';
-      });
-      bar.querySelectorAll('.chip').forEach(ch => {
-        ch.addEventListener('click', () => {
-          bar.querySelectorAll('.chip').forEach(c => c.classList.remove('active'));
-          ch.classList.add('active');
-          const tag = ch.getAttribute('data-tag');
-          box.querySelectorAll('.card').forEach(c => {
-            const ct = c.getAttribute('data-tags');
-            c.style.display = (!tag || (ct && ct.indexOf(tag) !== -1)) ? '' : 'none';
-          });
-        });
-      });
-    }
-  }
-
-  /* ===== ВІКНО ТОВАРА (фото + відео) ===== */
-  function openModal(p) {
-    if (!p) return;
-    document.getElementById('m-title').textContent = p.title || '';
-    document.getElementById('m-price').textContent = p.price || '';
-    document.getElementById('m-desc').textContent = p.description || '';
-    document.getElementById('m-order').href = ORDER_LINK;
-    document.getElementById('m-post').href = p.postUrl || ('https://t.me/' + CHANNEL);
-
-    const mi = document.getElementById('m-img');
-    const mt = document.getElementById('m-thumbs');
-
-    function setMedia(item) {
-      mi.innerHTML = '';
-      if (item && item.type === 'video') {
-        mi.style.backgroundImage = 'none';
-        const v = document.createElement('video');
-        v.controls = true;
-        v.playsInline = true;
-        if (item.poster) v.poster = item.poster;
-        v.style.cssText = 'width:100%;height:100%;object-fit:contain;background:#000';
-        const s = document.createElement('source');
-        s.src = item.src;
-        s.type = 'video/mp4';
-        v.appendChild(s);
-        mi.appendChild(v);
-      } else {
-        mi.style.backgroundImage = item && item.src ? "url('" + item.src + "')" : 'none';
-      }
-    }
-
-    const media = [];
-    (p.photos || []).forEach(u => media.push({ type: 'photo', src: u }));
-    (p.videos || []).forEach(v => media.push({ type: 'video', src: v.src, poster: v.poster }));
-
-    setMedia(media[0]);
-
-    mt.innerHTML = '';
-    if (media.length > 1) {
-      media.forEach((item, i) => {
-        const th = document.createElement('div');
-        th.className = 'thumb' + (i === 0 ? ' active' : '');
-        const bg = item.type === 'video' ? item.poster : item.src;
-        if (bg) th.style.backgroundImage = "url('" + bg + "')";
-        if (item.type === 'video') {
-          th.innerHTML = '<div style="display:flex;align-items:center;justify-content:center;height:100%;color:var(--gold);font-size:20px">▶</div>';
-        }
-        th.addEventListener('click', () => {
-          setMedia(item);
-          mt.querySelectorAll('.thumb').forEach(x => x.classList.remove('active'));
-          th.classList.add('active');
-        });
-        mt.appendChild(th);
-      });
-    }
-
-    document.getElementById('modal').classList.add('open');
-  }
-  document.getElementById('modal-close').addEventListener('click', () => document.getElementById('modal').classList.remove('open'));
-  document.getElementById('modal').addEventListener('click', (e) => {
-    if (e.target.id === 'modal') document.getElementById('modal').classList.remove('open');
-  });
-
-  loadProducts();
-</script>
 
 </body>
 </html>
