@@ -5,6 +5,7 @@ const cheerio = require('cheerio');
 
 const CHANNEL = 'JetBuyerService';
 const TG_URL = `https://t.me/s/${CHANNEL}`;
+const MAX_PER_CATEGORY = 50;
 
 function cleanLine(s) {
   return s
@@ -26,11 +27,13 @@ async function main() {
   const html = await res.text();
   const $ = cheerio.load(html);
 
-  const posts = $('.tgme_widget_message');
+  const posts = [...$('.tgme_widget_message')].reverse(); // найновіші спочатку
   const products = [];
+  let stockCount = 0;
+  let orderCount = 0;
 
-  posts.each((_, postEl) => {
-    if (products.length >= 20) return;
+  posts.forEach((postEl) => {
+    if (stockCount >= MAX_PER_CATEGORY && orderCount >= MAX_PER_CATEGORY) return;
     const post = $(postEl);
 
     const textEl = post.find('.tgme_widget_message_text').first();
@@ -61,6 +64,8 @@ async function main() {
     }
 
     const allText = lines.join('\n');
+    const allTextLower = allText.toLowerCase();
+
     const cardTags = [];
     (allText.match(/#[^\s#.,!?;:()]+/g) || []).forEach(t => {
       const key = t.slice(1).toUpperCase().replace(/[^0-9A-Za-zА-Яа-яІіЇїЄєҐґ]/g, '').toLowerCase();
@@ -87,10 +92,23 @@ async function main() {
       }
     }
 
+    if (!price) return;
+
+    let category = 'order';
+    if (allTextLower.includes('у наявності') || allTextLower.includes('в наявності')) {
+      category = 'stock';
+    } else if (allTextLower.includes('доставка')) {
+      category = 'order';
+    }
+
+    if (category === 'stock' && stockCount >= MAX_PER_CATEGORY) return;
+    if (category === 'order' && orderCount >= MAX_PER_CATEGORY) return;
+    if (category === 'stock') stockCount++; else orderCount++;
+
     const dataPost = post.attr('data-post') || '';
     const postUrl = dataPost ? `https://t.me/${dataPost}` : `https://t.me/${CHANNEL}`;
 
-    products.push({ title, price, photos, videos, description: allText, postUrl, tags: cardTags });
+    products.push({ title, price, photos, videos, description: allText, postUrl, tags: cardTags, category });
   });
 
   const outPath = path.join(__dirname, '..', 'products.json');
@@ -99,7 +117,7 @@ async function main() {
     JSON.stringify({ updatedAt: new Date().toISOString(), products }, null, 2),
     'utf-8'
   );
-  console.log(`Saved ${products.length} products to ${outPath}`);
+  console.log(`Saved ${products.length} products (${stockCount} в наявності, ${orderCount} під замовлення)`);
 }
 
 main().catch(err => {
