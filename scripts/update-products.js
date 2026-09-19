@@ -6,6 +6,37 @@ const cheerio = require('cheerio');
 const CHANNEL = 'JetBuyerService';
 const BASE_URL = `https://t.me/s/${CHANNEL}`;
 const MAX_PER_CATEGORY = 50;
+const BRAND_LABELS = {
+  louisvuitton: 'LOUIS VUITTON',
+  dolcegabbana: 'DOLCE & GABBANA',
+  saintlaurent: 'SAINT LAURENT',
+  ysl: 'SAINT LAURENT',
+  hermes: 'HERMÈS',
+  dior: 'DIOR',
+  chanel: 'CHANEL',
+  prada: 'PRADA',
+  fendi: 'FENDI',
+  loropiana: 'LORO PIANA',
+  gucci: 'GUCCI',
+  balenciaga: 'BALENCIAGA',
+  bottegaveneta: 'BOTTEGA VENETA',
+  celine: 'CÉLINE',
+  valentino: 'VALENTINO',
+  versace: 'VERSACE',
+  burberry: 'BURBERRY',
+  miumiu: 'MIU MIU',
+  vancleefarpels: 'VAN CLEEF & ARPELS',
+  cartier: 'CARTIER',
+  rolex: 'ROLEX',
+  iphone: 'IPHONE',
+  apple: 'APPLE',
+  dyson: 'DYSON',
+  tiffany: 'TIFFANY & CO.',
+  bulgari: 'BVLGARI',
+  omega: 'OMEGA',
+  patekphilippe: 'PATEK PHILIPPE'
+};
+
 const MAX_PAGES = 8; // скільки "сторінок" історії гортати назад
 
 function cleanLine(s) {
