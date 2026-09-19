@@ -302,7 +302,12 @@
 function prettyBrand(key) {
   return BRAND_LABELS[key] || key.toUpperCase();
 }
-
+const TAG_ALIASES = {
+  ysl: 'saintlaurent'
+};
+function normalizeTag(key) {
+  return TAG_ALIASES[key] || key;
+}
 
   /* ===== ЛОГОТИП ===== */
   if (LOGO_URL) {
@@ -389,13 +394,15 @@ function prettyBrand(key) {
       }
 
       const TAGS = new Map();
-      categoryProducts.forEach(p => (p.tags || []).forEach(key => {
-        if (!TAGS.has(key)) TAGS.set(key, prettyBrand(key));
-      }));
+categoryProducts.forEach(p => (p.tags || []).forEach(rawKey => {
+  const key = normalizeTag(rawKey);
+  if (!TAGS.has(key)) TAGS.set(key, prettyBrand(key));
+}));
 
       const visibleProducts = currentTag
-        ? categoryProducts.filter(p => (p.tags || []).includes(currentTag))
-        : categoryProducts;
+  ? categoryProducts.filter(p => (p.tags || []).some(t => normalizeTag(t) === currentTag))
+  : categoryProducts;
+
 
       visibleProducts.forEach((p) => {
         const cover = (p.photos && p.photos[0]) || (p.videos && p.videos[0] && p.videos[0].poster) || '';
