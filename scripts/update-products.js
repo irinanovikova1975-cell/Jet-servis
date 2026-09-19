@@ -125,19 +125,28 @@ async function main() {
     if (titleIdx === -1 && lines.length) { title = cleanLine(lines[0]) || 'Товар'; titleIdx = 0; }
 
     let price = '';
-    if (titleIdx > -1) {
-      for (let i = titleIdx + 1; i < lines.length; i++) {
-        if (/[€]|грн/i.test(lines[i])) { price = cleanLine(lines[i]); break; }
-      }
-      if (!price) {
-        for (let i = titleIdx + 1; i < lines.length; i++) {
-          const c = cleanLine(lines[i]);
-          if (/\d/.test(c) && c.length < 30) { price = c; break; }
-        }
-      }
+    let price = '';
+let priceLineIdx = -1;
+if (titleIdx > -1) {
+  for (let i = titleIdx + 1; i < lines.length; i++) {
+    if (/[€]|грн/i.test(lines[i])) { price = cleanLine(lines[i]); priceLineIdx = i; break; }
+  }
+  if (!price) {
+    for (let i = titleIdx + 1; i < lines.length; i++) {
+      const c = cleanLine(lines[i]);
+      if (/\d/.test(c) && c.length < 30) { price = c; priceLineIdx = i; break; }
     }
+  }
+}
 
-    if (!price) return;
+if (!price) return;
+
+const descLines = lines.filter((line, idx) => {
+  if (idx === titleIdx || idx === priceLineIdx) return false;
+  return line.replace(/#[^\s#.,!?;:()]+/g, '').trim().length > 0;
+});
+const descriptionBody = descLines.map(cleanLine).join('\n');
+
 
     let category = 'order';
     if (allTextLower.includes('у наявності') || allTextLower.includes('в наявності')) {
@@ -153,8 +162,8 @@ async function main() {
     const dataPost = post.attr('data-post') || '';
     const postUrl = dataPost ? `https://t.me/${dataPost}` : `https://t.me/${CHANNEL}`;
 
-    products.push({ title, price, photos, videos, description: allText, postUrl, tags: cardTags, category });
-  });
+    products.push({ title, price, photos, videos, description: descriptionBody, postUrl, tags: cardTags, category });
+
 
   const outPath = path.join(__dirname, '..', 'products.json');
   fs.writeFileSync(
