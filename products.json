@@ -1,12 +1,29 @@
 {
-  "updatedAt": "2026-09-19T06:13:13.208Z",
+  "updatedAt": "2026-09-19T09:04:25.189Z",
   "products": [
+    {
+      "title": "Speedy Bandoulière 25",
+      "price": "2 550+10%=2805 € + доставка",
+      "photos": [
+        "https://cdn4.telesco.pe/file/k8Iav9ssb1Fie8o1HEmdSCfu5YJ1Gu1SrdYQ9Y9OEwV_DXlSLa7PExlxdFX_xFJHyMOwFsFLUzCbbMv2eA88yC6q9y17VhVLr8rAll_PiN25jhYKDGKjOwJF1YaXfT0UfOI24HV00u_gOMhD6PJBpckoXbLAhDDvdVUmw6WzdEXEhjxSF6_ctySxFBVlHVC7o8m8tS6ktw2aHpzpJn6924OSZkG_1vO_W85w5nlosDZVbwB5XOa3j08d1IpoaU0LnBSnt-8RbgG2RD0guQyFGY0sPtQer3UzUH9GwCdu20ChY9_RFUsTQX2_6fcFivtSmj137HJsw5bi5HT4IBu97w.jpg",
+        "https://cdn4.telesco.pe/file/oyh0TWqcxwz7d93LyI3I2jdhUcbXyVibzmExEH7x8xQNwYJr86ExHBr8HI3D8WXw-zTPwOy-XZqyXKTW27q25qhSuggG15uVudHytPU55W68G-Oms0dWR432MTHzMiU_yCRFcwLF18Cvm7c6QdmWT0WXoOy7KzQgP6RPQk1jd-_ZfbhM9H21G_kFL_0f65HNHWbDcv4zOLYo4Zku21sg33YRVZ2s_0S_ecIO9u6nH1RcDgAxoeZ3_ZdefylSd79XbviTTNqYTM8so7IlQXcl8J3nFX5SmC2xyw82e7AsStyLhdi76cfcwnlyUPhxw2fKblbdIQFRjXpfk-j9Tur6eg.jpg",
+        "https://cdn4.telesco.pe/file/hydOcqDvibAXFmAlnOIrcVhNgdkXOpQuYd8V4_7rKYtuaBNYXB5hydT-vaVMjS3Y0ypv7-_DGRFEvjCdgmBNXevlRXzS88LTFBws6poIHqrzq_9e7QwgbYtjUAzVabNxhgphlnS_ZgvfdCibAt6roVjCHaqUstkbTq9DrI6XIXHqT-oO9R3dWi6UsRTPczN3BR3Nvfj2J4gJnYWVZfykRBRdbdEiQE3WuDzI7uqRdNeObo91NjW219uUyqyeHHD8BvSH--hkpvJQ_uAT2wAQjP7sd0ibl-DzCUI8_YRl0971qgsmiSBoSliu6-_W1zVr6vT_lZ80cmSuRsTump1g6g.jpg",
+        "https://cdn4.telesco.pe/file/pl76CPAFpnl5hiGR4vsqzQilXoKNFJaALjXmCb88a6FCunpYfRNe-LB4ZWsDirRcL3gt96EKLvSTZiTi2rurNHcQbh9qTy7_kiwq5YLbtYycVojOj8-wIDMbjEQfvA6bQLcIHh20E_DOEZWsxduvXW2jgypv_ClzTtSZYwKMPk-W_6woPlml4lO2-jWWwchiQIUOroMi2C1hlnEmFWA6BL5nsSVmkgA7gBUsy4nkvFSyxAw-UVM_MF2B4cu6LwhhUt8KRfQ8h09U2qHA_ci-XuXLkjHD8DA8YrsA0YJP8gi1DHzSp7wX5Pl3b6vcV7Jl8FimepeZldxqcpThPON2zQ.jpg"
+      ],
+      "videos": [],
+      "description": "#LouisVuitton\nSpeedy Bandoulière 25\n2 550+10%=2805 € + доставка",
+      "postUrl": "https://t.me/JetBuyerService/7121",
+      "tags": [
+        "louisvuitton"
+      ],
+      "category": "order"
+    },
     {
       "title": "NECKLACE Long",
       "price": "1650€",
       "photos": [
         "https://cdn4.telesco.pe/file/T-A-Hi3aGsf8c_A-dPjXZiFBW5lHT_j94XTxIeJ8N5zyhBALBC-GLB-RPwNq1JEnpg06N--OKRtIDyVlOIqjITmWifscUbSHIJEZOdRutTBOg1ZsHVfe4idawl1FHDKDh3CqTcRA2hp0Q1i4NR1yTkxsNfXwt1u1iNk8qfFj7U5jzLCmRnzzuFqUbNXIGjGPhPi3UVHvkwUpGnKhcSSH33tRipGoudDmspbmmoFmxLkJt04aq5Go3zUnNoTPE7pMarrgW57T1IH8BP00LH7-wcEfYjID8zYpm9fqEYerf-VtmWe39XnsTKKWaZ1H10zpleITI20zIMyq_zIgaB-AuQ.jpg",
-        "https://cdn4.telesco.pe/file/k1_RaRDqxzshTB0SiQ8DMq8XFGC9CSxQJoHjACw9ST_V5uEJbHid0vdlFOPDJ0LhkeRkOi1WvpuLyWWOZ-NwCSa6PkfGYbnkfxcV82404ZEFP6zA5VKAkT9HDIJFm2smyUOnkS3Ele5Jl7gLzgku29Oz-GMESmTZBKmtUCnuE5HRHVJ2ovayefytbn5iv8xnlOCqgmzWgkNhakizX2QwfArfB-RuBTzhrpbhotPm5p9JtGKDdjEzJZzzFFIlqpi5LzWQHKwC0O9TfWpZSRbIpl2qTTu9zOKoXGORPf4j_r5P8iVxng8SlDiaOmBQBgzeQtFhu_Q4_TzpE-HC2_y6GQ.jpg",
+        "https://cdn4.telesco.pe/file/c2juZidPWgTBe0zFygqS8PtcuxotwRceR1j5qYomG3MziOi0hWxModP-EoXFzsVsEHewIXNVZJV7yHJIML845YzZdFm-PduRb_eUmntWuZJDJACkqmUl1YM-Vi0azvUdJALQFTdNj0iIDf_7dnM7ZtlycMqmYIyjfMluXoBqxogkZa4noqgnqJFJ_jHYcDLmDKvonTkbP2cEld93DIM25FXC-oML0S0ZchM-iuVgsU47Vy5Xxh8fPPtwIFmc9zuv2iG-Of-PCpNsIN4KT8LhXykEXJ2otV8VJW1nhy3qwwATF1AzKNvxI5PjxaoQzbKvC2DjuwtYqZqlCrMmT8DxzQ.jpg",
         "https://cdn4.telesco.pe/file/nxeYdkEzy5OH41S-XpBbA8JnxhlcMKtzluLctH3cxX_bQNYBpnz8_vCMA8oh7E6iLXTwwteECgrHbpuyLNffrOOVmDNqSlV3viEfMUJeYLPeoTxSrzjMJuK4e2HGcs9R7LmB_fCLVbMB-xPdt_cey8Hp1x4GIsqX7Hq1wAjs3MKFDX40Jm9jykqvQaparsiVEXEY050LFcssmFMwpIiHe792EIQ4PtAXKrkd5uBJRB_j7R4JujEFfjaRYBMB-Z866jact82pMYA6bl7W-1C3nlKbmo0pwb1JotYrKYQtQTsc8OF8sSF7ALuuNHuVcK6tEWP6Fg9x8WWGF0Num8aoRg.jpg"
       ],
       "videos": [],
@@ -21,8 +38,8 @@
       "title": "Chypre Sandals",
       "price": "1 050 €",
       "photos": [
-        "https://cdn4.telesco.pe/file/F8VU5gM9BooKbaEw3gJeYNy2iCutzK9P1AuXqU2mfdNGk0-QmfXQs2awKpPtXweZMjUJh5qUV7Uph_qsIA1zhtYpGGdkFk2Igm2WXL6PAC81DuIUYO0_2x92lToxpA6dJ6NKxB5RNR2YVcXu-UZKUSkYGYmwKOIlUOdm5PQ2hRmA-LYTB7-3KTJ-ikMYuWkPkhR-fMyE-fxShu9UzZV8fpnMdioDESNA50U3e2dTwCYM5ipDHkKT-qqKZz3w4BQbkIb2x7ABG_L0SZqt67c5JiWMtuRsXbOSQ9fNf8mVzaGag_qj_Fm1ctmIKS7iJ94ziZ0YF5u1_h8P--GHCbBm7A.jpg",
-        "https://cdn4.telesco.pe/file/bGBfiP20wJs4LpT5yxUXz6l99Un-DvkQxEvJRJyg12UAYQi-UO-nfUyuLFGHLcjyO3-lHS76xf3Lz1dnILnMLU0MNcQ-3lUT6pkUk34NNZFfikrZWE_d2J4oi2Ay-R-IPiBAJHiY4zg2hzC9NcqEzrUQXmd7wG1QiVsUPZ3L5mh0_lfdRYOS8Qk_NsCd7ZArK9a1GRV-_71A9_pxYQ0_EvOmLrMDzFruMHyx2GssSF2mr_bb4wcsZkbgF22K57shLSkJBlZ495XW6Od5R3QFkaxJ1cu8dwEFMc97PZFb4929tHMvhFamhMHHmJ1VhuKO4l8KHzYIki1UIxVBiYhYFA.jpg"
+        "https://cdn4.telesco.pe/file/lhYvByA0XliDYNgRk6SAoZBskGlOQM4hPWE7q7kJ7UdWB60VuXFpdUGoGT3frw9b2EUde-MdHg-ciMwlSSd6MaBnfNxD-Fxi-Cg-8P9UX4vz31KT6pWVFxo9mCkSCU8I3Wu5kAkOJXcQ7CX-hjd_9fmAXkk2AOC6AvSiND0tR4E4gUlQiq_6FXC3l0Be0BM_53Gc34ecefCvzNqrdWEwHaBvBVAV2pFaut0uAdMkgoX-pKI_Aj3hRPVsBS9IRa6ymED04bZc4lqQosW1B6E6ZQkFPMbw-NpJ8HeHc_S6UO96QPl5coDPtLAi1oKqtc0XuBL5LtMj0TcA_12fDrLv_A.jpg",
+        "https://cdn4.telesco.pe/file/cKIbp74Hislltw-0jPHRFMvz7J9AVW2QMRwe_UBtEqhumwdI6DDjaj3sU_AJk22mxLlf1d-G3U8n2yV4nQo8sU93BQobySTBvFsaoJVTE0xxrn_qQEsbPkC_8D7rl6oNGH7eRHfgJtfj6hrAYpyyUGvaGJ5FoP23KOGYRySuVnw5vQLxJpdLUfFOORLbPKAgs54PI6HQvKHxu4zpb3ZUvcrmNH706e2BARFnM8k26sc1qPG_qZx3rI9d7AMPqG3wIh7y1cwOeKFk2ZwFdBE_wj-LZ7aDb3ezyAAj2tIHRCTlh9OTtm9SL1nLNBE8JvdFG5CUzk7YQRzbyETtZFtP-Q.jpg"
       ],
       "videos": [],
       "description": "🧡#Hermes\nChypre Sandals\nКолір: Noir · Розмір: 39\n💰 1 050 €\n📦 у наявності 🇺🇦\n🚀 Швидка відправка · Повний комплект",
@@ -36,13 +53,13 @@
       "title": "Kelly Belt · Rose Gold",
       "price": "1 300 €",
       "photos": [
-        "https://cdn4.telesco.pe/file/sjxhkxSoGjzrOE5YKs_4mAB_5tQaNOPNAyrSbK_NP_cwFawddALCBkhiC7uyfLhQLZnHWifzWnwjW4VNjQhuS7_J-jD9i69t9JVT5_O9ha1WXup_p1sDaEg66kkbaiBxaUa8MNKMGnbnkdcGqnuvJWlkaHp3poT5awG99MpDZsuGpYcXxILLypcxABnlsnfZ7CFDGbDPpJ4-dcK3uIAiup6VoVTvmfciA4BjJf7s092wjStDBeVfR1Om2PYivPmdhdZTX6IKRnri8AYBgxW-HkVmas3XXp_CBXcGaXm8YDuRVHMlioTLKHLLy0S6kmY5fel327DNnp67j0Mi4T3kNg.jpg",
+        "https://cdn4.telesco.pe/file/gg0eMPGTJs8oi3zD9sZ_8brclKaBcre8laJO3DntV6qd2ojU1HinlXuPTe_ghS4tAFGi70G478-wy31hMO6sVRuXW3vZDFLXHB1wG6Cjfjx6DS8Ym7j6mI85mkdvo6t5H1seX9XOeMs7aaKndBhB4ONxV1Wso-1t1mxKsleVQSF8AF5sQVoly-gNfU4XCim58ktazoA1t0K_ZEqm7DnR0zKKa12S877zXD75Veun8rnw7HjHGeVz2w0OmNfsOflGh4VZhAUpZvCcgqHXU4euks72drusK4wQYvGvJg7mInf3o2LPCGzjOG8qvE1Po3PB5iRKD7gRBEiYjNgPdLL-vw.jpg",
         "https://cdn4.telesco.pe/file/Jhnp1AR4Rg-Ly5bHWhEnCcInGPkp4GUiobfJMac57JAyEkzsHemEMzYVqWBicdU-cCZ14nILgxYMirdo_jOFUrIH1jjOV_XfNqPg1Z3fcaSWnf8WyGLt_X7BfK5LkaN3WBCRfhUMo-kfoj0Mgwgi5RIrc5-Eue4ERA9hvFUZZkIafoCYaKE7191iazC8VK3aLR98pKgKrifzmNhkVms_jyDmdinTUA7Z19Lro9V56iUNy5f-zLf7AT0refh86b0UXY9qh-0nFocE6MBjPXvjEci1AWxaUwkIE6arjB3t4cOmujFOU_laaieyGGVr_RE0fT9vJF5LiGADHlXQUxce2A.jpg"
       ],
       "videos": [
         {
-          "src": "https://cdn4.telesco.pe/file/6aaa7b3b2a.mp4?token=ERsbmgXmxvJJ6w-JzTYXVa-3Fs1Ud53mah2bIu1IMInUevSE8EcsV-twZbdRDsfBhBnV8GgbbrE3aAxOD26lhp-RWYYNhmG2-tHa6TCxaQYyYrMnIEShx07u4OukhFctX2E_OH4yRehFnbXQs_HOwcbvbWduFf50OYxqtHXYxhkpk4WDFLeotGueXDasHJtW17BNI4ZUVSdP-oAQLq8W73l9GmftlLMscoDIjRZ9OT0GS4viBsDr3nGCup3GVEIxs-sV9VHSQT_1RTyCPVmly7lTke15n35SkDG3C0jJwSGdCqBAUQACcgwz0z2AO7RVnyjmBuYgLZm_CjFLMWAQXYWOpGPPJgrUDPjvR3m_yJOfwRxPGsEpzEljmzYPM_ib305LxFaLPd8quvZ40nG9StDJNw4Nax8aoRuL-b8n-6oBPvwGr8dv3EhiyaKqNfG_gV9yGSa5ZYGah72x-eD3NdPOT5KFLz0rHzzCgVpF21iBWL2Mh-pu7emhKtuQ6RrzYc-exPxNBiFoTJJ4PSz4BcA7I0RbPUvvLPVvJS478EhQjqh_St8RHpk-3Wpaz8lMgpmY2V0l6NDEKTgkiX0IrwOxzwQ6jsb7EQRO3f6H6YGX2g2aDZYSErWvG97giqxzjDm64dEXG5M0_9VmmbDUMpm4EEasNpxSft6FvnJPxA8",
-          "poster": "https://cdn4.telesco.pe/file/sjxhkxSoGjzrOE5YKs_4mAB_5tQaNOPNAyrSbK_NP_cwFawddALCBkhiC7uyfLhQLZnHWifzWnwjW4VNjQhuS7_J-jD9i69t9JVT5_O9ha1WXup_p1sDaEg66kkbaiBxaUa8MNKMGnbnkdcGqnuvJWlkaHp3poT5awG99MpDZsuGpYcXxILLypcxABnlsnfZ7CFDGbDPpJ4-dcK3uIAiup6VoVTvmfciA4BjJf7s092wjStDBeVfR1Om2PYivPmdhdZTX6IKRnri8AYBgxW-HkVmas3XXp_CBXcGaXm8YDuRVHMlioTLKHLLy0S6kmY5fel327DNnp67j0Mi4T3kNg.jpg"
+          "src": "https://cdn4.telesco.pe/file/6aaa7b3b2a.mp4?token=putzt2RmI5s_KgUAHn0XHzSaU0OpLaZhg6yEYlhymImBB-hNIKzdZokC8ttKjwT7apeR83F7bp-AxjNP3CIP9Yn6PFRurShe5Cn81o-PmuDPCnNaxS5j7mz1UMYR7-CVbpL3aRz1Pe8uD2Ib62FsW6jTkuqyNTB07klTgVVXBpcKD8iTal0fGoqSogHfJHdUpAY4xp70v1TxFUN-DskPvVgeFP3_SCH4WzrnMpb4pdLa0h3unnoGqul2niUKTfHFUHLBwBW86Bh7rvuodgYSaTTdQwpbJi6bCQJxsBE4K01J1tMLJTLgJzu5hpxTuQxSe3Dgz9fLqd9WutmPEWBuGYWOpGPPJgrUDPjvR3m_yJOfwRxPGsEpzEljmzYPM_ib305LxFaLPd8quvZ40nG9StDJNw4Nax8aoRuL-b8n-6oBPvwGr8dv3EhiyaKqNfG_gV9yGSa5ZYGah72x-eD3NdPOT5KFLz0rHzzCgVpF21iBWL2Mh-pu7emhKtuQ6RrzYc-exPxNBiFoTJJ4PSz4BcA7I0RbPUvvLPVvJS478EhQjqh_St8RHpk-3Wpaz8lMgpmY2V0l6NDEKTgkiX0IrwOxzwQ6jsb7EQRO3f6H6YGX2g2aDZYSErWvG97giqxzjDm64dEXG5M0_9VmmbDUMpm4EEasNpxSft6FvnJPxA8",
+          "poster": "https://cdn4.telesco.pe/file/gg0eMPGTJs8oi3zD9sZ_8brclKaBcre8laJO3DntV6qd2ojU1HinlXuPTe_ghS4tAFGi70G478-wy31hMO6sVRuXW3vZDFLXHB1wG6Cjfjx6DS8Ym7j6mI85mkdvo6t5H1seX9XOeMs7aaKndBhB4ONxV1Wso-1t1mxKsleVQSF8AF5sQVoly-gNfU4XCim58ktazoA1t0K_ZEqm7DnR0zKKa12S877zXD75Veun8rnw7HjHGeVz2w0OmNfsOflGh4VZhAUpZvCcgqHXU4euks72drusK4wQYvGvJg7mInf3o2LPCGzjOG8qvE1Po3PB5iRKD7gRBEiYjNgPdLL-vw.jpg"
         }
       ],
       "description": "🧡 #Hermes\nKelly Belt · Rose Gold\nЧорна шкіра epsom · Rose Gold фурнітура\nКласика, яка не потребує пояснень ✨\n💰 1 300 €\n📦 у наявності 🇺🇦 · Швидка відправка",
@@ -56,14 +73,10 @@
       "title": "Kelly 18 Belt · Palladium",
       "price": "1 300 €",
       "photos": [
-        "https://cdn4.telesco.pe/file/fbqei5o-t13xYRjx-ZBIEgJVj1BuwHr01yRpqNU1oca6aZLjpCkMEE1ZKdS72RrDSBf7XjAwcddduNT4CezZ7mn7d1aHpKhEbyFiVUbx6LrbPU3-HT0iCxoRDK2waJvSgeH0skd-_lDISiS4b8A7Wpi1bRzLZZGqEiSLGRjbjgPg2_gdAfDeK1bZYYrUui_My7wstRzN5HWQ5nNF21KBFTEupf6w4pNzwBXz0KVDdR4NFIyXlxZiJ9o6YG4JJsTixMTNOCn3cOpBGm9u2C2iW0QuPNxp-6vGDbj1yEpF7DowL0sZvyoXKqWOx3K3pRV6sFYGHjyMYvJdJUeuoXZ0vg.jpg"
+        "https://cdn4.telesco.pe/file/OVJ69gNoE6mr0_fZf4IQEFDlxV92vRYFTwhsKiuxy3IxXkDq19F7Ao1zNxLwHVnztsGVkKSd6vjFdqSpvVUPlIru6CMohhF-ufcXTjOLyhSCczeKKNqD0ASe2JrEedlzWsCrqSYWds2XjmkKvZiom_Rz1C9LBVidz8yDLb0RI1OZkS5cVdyNKtEsoXNw3RAiB2M3yvFNjQBTxiPc0aY0c32d_d6Y-gsKTTHRFyKnZQKONbfSd2unlEEo46Iz3DEp62xaoi_8UsTVzzp9a8ioEM7TVGd_hHnd1ssijgUlDGJZr-0qSh--KKrhtYWGaQb7-xcveXPWgEHLyC1x5jaJiQ.jpg",
+        "https://cdn4.telesco.pe/file/ufBk2tWrVCoUCJu1b50sJUf7473adHZNi6LckSNOUDubmFbr6ZhzOppg-bI03fv4idDxNvU9LyWHsh-NjnCnn6idmJdNJ338dPflWkjWEgJf9CKeZDN-IXCLw_Gm51wWkT6bptSmEXQAzu_3IaCQcrerfy4qzRQvZoigDkTxTWC0SOldpb8ierI74J9i-4p3q5DTmehaGYIMM4QfLPxs3o5GjS36t1ualETCyZ6eShbkIJMWloEvXSwqaYqm5GAEGj6y9wuML26Hu-Qx74tl4C4lkOBwDj1tlc6g_KU8YDDPnsCzdtwRBwla62gImZHD5q2Dp9Ay9ODDy8Yi19fH_g.jpg"
       ],
-      "videos": [
-        {
-          "src": "https://cdn4.telesco.pe/file/06e1c49c9c.mp4?token=vLIW01-UIv--qOThQCtKJzx9S0m8FPYwU6SIngwRyEY_ClqRIagUorOUbnv0hRuujD3hB0JF4iWhmV5NRPxS-X0tum2NpGsr8wohkim8R5W9YVZfTqUAI_84HjFcr3f7wxtfHb7mfT8Mthe7PDpp7zTzsnCW0ngv1glAoP1mXLErpXSVxMfGDFk996ZE4FmLU1y88ZoCaZBfHFHIKku3biGXCG7lGMh-KbvLXR9Iyl8bq2ZC63WYx6i1VVtLHuOcHBvnBOBhz-iO8031cZA3nxcIP7tgSR0_3JlyrSjISJaxpKOfg-r4tLFJLjbeCfkujB2PLt0WKElDFSb3ajCtFA",
-          "poster": "https://cdn4.telesco.pe/file/fbqei5o-t13xYRjx-ZBIEgJVj1BuwHr01yRpqNU1oca6aZLjpCkMEE1ZKdS72RrDSBf7XjAwcddduNT4CezZ7mn7d1aHpKhEbyFiVUbx6LrbPU3-HT0iCxoRDK2waJvSgeH0skd-_lDISiS4b8A7Wpi1bRzLZZGqEiSLGRjbjgPg2_gdAfDeK1bZYYrUui_My7wstRzN5HWQ5nNF21KBFTEupf6w4pNzwBXz0KVDdR4NFIyXlxZiJ9o6YG4JJsTixMTNOCn3cOpBGm9u2C2iW0QuPNxp-6vGDbj1yEpF7DowL0sZvyoXKqWOx3K3pRV6sFYGHjyMYvJdJUeuoXZ0vg.jpg"
-        }
-      ],
+      "videos": [],
       "description": "#Hermes\nKelly 18 Belt · Palladium\nЧорна шкіра epsom · Платина\n💰 1 300 €\n📦 у наявності 🇺🇦\n🚀 Швидка відправка",
       "postUrl": "https://t.me/JetBuyerService/7111",
       "tags": [
@@ -75,9 +88,9 @@
       "title": "Хайлайтер Plein Air H Trio — сяйво, яке виглядає дорого",
       "price": "115€ — обмежена кількість",
       "photos": [
-        "https://cdn4.telesco.pe/file/NdOdmU8SIx6jpmgW0p31ynjhp4ohH9mGbC4rjFh4mi8QnsottacgpMH7ytqk24gFOxQpILc6gbsqgYx2AwNPNJt1jUZ5WoF33Els43ua5mMEvHyhxYcKQSo5yXJLp9lQ_gnHKYsTpHoOueoi-DB1-8YGEDhxWWtEIrfZrR226ujndgp6cNQm5kfdHDvgWeB4y9VrMQetndAI-eR9imqSOnIFFkK5u5Re9Z4mDFmAIXo96aI_NkMJ-sQlNX44-HrU8PNCUGMxKRaYIVZHiZSP9N13tKIO-Y_d7gDNN-XxqO9mv1b0UKGoo6JIOxRyFE-J5BcXk-HuwrCyRXztghq1ag.jpg",
-        "https://cdn4.telesco.pe/file/s5huy3WmBZM5KHzRT4NYB6gZ1koRpVAjKM5cDNXV1EIXi2m1W-FwI5PyxEFzJklSVTt3g4GCLF5ysWf83bsyqSnrQ5u214IcGtniNpRQdX9NvwAfQrBkYUvn5gGs5VFV7uPP5XKe-kM8AyR6rhPq7QYLBsp8FNcF-2ahhDK8jHxj9KI2igomSC6hvcURMyjzIIy4IqDmolfNRvC9yMA_En2VMFa82LZjCKD-sXZUzFeT8bVa5PCTz-Ze65qfwKFNBPxIVLI3l5DEMnJgQDaVZCtlem1T39hf-Y67i59hSR3sM0QK3ZDRUjliZ1zGJ3uu4Ojsi3ZHz-bIwpFrj6LwIg.jpg",
-        "https://cdn4.telesco.pe/file/L7JejTHQ49rzM-m8Jp5gTDGMFhUm4DwMSLTbWs31GjXfuYcjyDRhsKAD58fN6PyxlfQUaHq87RqnLLGycKsrWUAL4EpVxmWOTsaGY714tUJG0ONpRX5qu3Zois7WFylpyQ0FNQIAmrzcWoJyoN1aXvjsEe0vwKY6MnSiNdPyKA7d2JIkRott2T35MnTsflq3GZ8VTquOZlmnS_ewCw4fCxE1c5oa6plH-vllsTAuR3HkRrGpogm6oyVaNHvI9il5ZhCkIuBZNYb8tpfyC4hkX6Lqtr2rgusjm2-fWX4XDXb5Q_iPsAYliOYjtglrX8QOeEZ0S76TIepUF_b2w8QMHA.jpg"
+        "https://cdn4.telesco.pe/file/MXZug2gT6tNp--kzMW0dO_kNru-K7HBfrIQjqw-UiVFTcDOuoaVSZFzUMNkuXrOj4jFZBeleT8M0WaIydBjiNGOJHq8plCUgh7kPqwGP9ESBNdtxTEa8sl2iu8bM4PGiAnJM0aztOCSk5m0VVYUZB5oYR47iIeOj4PKd-609QlYP-Ulnvb9LxndCIhjJ97KicG3UhuUpbe-Zbh5OG9LpCvjhWEarTIpgWpiK9NJm2sF_D42pZGRVOA35xqjqKL5xeqTn-qY3m3StWzcN7ex0k6_Uese0YfcQRRzBW6PmQmuPE8BkqZdhb-80lzeGuIa-tFnDvJ17wxe1dfUTj0CWPg.jpg",
+        "https://cdn4.telesco.pe/file/Q0AfRz8nY1JaT5u8-XMKfW89KgMic-tXhsH5HhVZXpYXAW7lgCtTR5o8BTLIO2oVFzM5L0Wpd7EyNSJy1iayjLS0IzThq97Hf9qFGqHQ6dq_vs_BT_ObZQX_KAsG_f8z7AqE1GKkVwySEKbsHk-JJCUAh4tG3zdoVr52Kto9VtPmGBoFsrLhyyYs_zGcz4GMnFyN0bv72d1-g3PmQ9hhcabo7x9x8Idz1G79t9q9ouooPDy3opZDQaLINojmgs4lNxck9B7EADN1vAFjLox6lzjDUgeIslL_ig7JTojpHjeYy_u3eYi15MiPI5Cdac4_exFoIhD6gkNHMs0_J0riww.jpg",
+        "https://cdn4.telesco.pe/file/WR6M9zwjW7f_381eW0npdXadyuOvQCbeR14JD0_yVwEdpxHsc6ee4k61ORUBVILAL_5PO9by8A9zXLD7SW0uleVJGBDIJe_HGa6OEWC9A1yeTBOl1F8BvvYECmAGTysQyfyCaqB84RCHgqKVfDufrpVh1HRcDORlpbN11iIF2LRVSsuHzebpX2BP9CVTtWQpaWQw_WEMgb-o0raYQ-iHsldHJ7tGKryM61rPUhh6Humm9Bmb1_Ee9zfQupmgof-uqthghbfqGxwvYkVOUyZTQEQM21baZINYv1XpVF8a1uDmTnNVbv5s6EWNfCOf2gAyFEsdALjxp1A-zZ5eK1z_wQ.jpg"
       ],
       "videos": [],
       "description": "#Hermès\n✨ Хайлайтер Plein Air H Trio — сяйво, яке виглядає дорого\n01 · Rose Atacama\n💧 88% інгредієнтів природного походження\n💎 Висока концентрація перламутру — ефект світлодифузії, а не просто блиску\n♻️ Рефілований кейс — можна поповнювати без нового компакту\nу наявності 🇺🇦✨\n📦 115€ — обмежена кількість 💌",
@@ -91,50 +104,16 @@
       "title": "ROSY LIP GLOSSY ENHANCER, ROSE CONFETTI",
       "price": "85€",
       "photos": [
-        "https://cdn4.telesco.pe/file/YHsc8CvRaoqlaTs4krVNp_i_cm5psxAERBIZGJJ9SlOGf-PvuqTSw_yTLSQ2ImMMNGKa7e970oOtXz6z3_q-_XBU5B3ET0XM4FuoHzK6v16IspDB8AU9KSdGng7iHYTfBOmhN9ujLcOu_GnnXDKCIc61m43LMw3rkVU26LtK-WAigPaF37E1gkuvpS-Lip9G9HMbmtj7LFazakDVMCq01N8FRhP3Qnj_jea3edhtnGlS-7ek4cgOcq8TqdfdU4KWPZCVSuH4_QGiaAIxa4Fp1vhPwBNOaYC3JY3JpLDvf-dCdCSt4hsPG2mqRRr3TzX4u3cF3PMjDQg8S5xmYw14Og.jpg",
-        "https://cdn4.telesco.pe/file/dHskKDby3XjGcquEnq8LkyBATh08Q8PhLM4olU4ugP9T8vooAbO-uVB1DZr39kCo9vDyH7qd7L12_zfKQqwt7ZbEHx79jrxqSDm81jDT14FT87cOBy1jr200Yf0rJjgSy6QIH8mNEqmmT0oQSlQ9Dp0hSEA7FJ7hR7GpZntyX-nPlVZXRmsB_j4Um67Jc0G9nIYu3Cfo1NKyj83RtERj9lmnT94UXbnU9tu6vRvgsR3XISzA9Zz8nQL0LPX-3DTxE21njq6upaWWeALU-BX76POWicuHcFYXEFCHbm5dOh9ISkUprBGNYgwQVXVIDCQc02JZ7Y32KclniGakgvdIyA.jpg",
-        "https://cdn4.telesco.pe/file/AH7VH6KVlumeAt-S6lLqNpxyLHrqWMVAS5co8mo6DntLHVGTsgvXTClP1VbFJpfPrJeplSi6kL67jRaO1saf980XW41qqdg680lNNByu1ZqXxXNwEexIHnfXJXm9e789ur8rAmVtfuBEvQ_grGyMFqjqLCDlrhVE8YpQSC8hbDjtxbiOJ4_zgdC1wvwX4PCUCk-_WBwjARAQJe2ymSvj6y48ZLtLrGkJvJTYi2WfohAGlgehejuixyLmolUGQp8SZQap3-5prN30WfE27LTaJIzJWJchiTE7TosWl437HuL687TxhYXBc_XhxzZqU2VF5EBAEywp3WHmnKHVJ07uiA.jpg"
+        "https://cdn4.telesco.pe/file/WryvklSZvHLFO27Y7Q451KRp3Mmq7VvXOxPLFvXHwFyjRx4aKFPf6m25sp9ZqrVLKuhzJibwNTiKH4R_reYtsHFD818_I66jbxHn6pZ_nD34EqPZIyLRpNXfzuYzVg2W4rM2kgrI7y7qUYpjNjaz_uTOmcrtIBEm16Lo3xyysGfFE-EtNrbkoYxCUInvkRXISa3ay0t7UgVNTTLJ1ozGHyX1MyfZ_tvcWWLI7NtjNrtx0_JgCC67bIGSwpGPMSylKCkyp1Fq3WtmbK8wxG9ZGo95wqkxmMzl9Nw6DElPsEji04YrZNX3b_VCpv1Qcc-gnat9z_M1_lHmG1aKKczcbw.jpg",
+        "https://cdn4.telesco.pe/file/kwwnx8ciKdK2u0abDPGKI56xgRM6eI0zTiVsNkNRioOAd8zlbxKRMTTnxTrUCrqLn8XHUDtnABeubmSxHtVp3NeXOFibmPAZPYQCltJsJ9OtKJ0HaQk7qaFk4KtFckdLatTFSKVVGz5TfHphdDbAER2aKHXzyOqZS8O1_zfWNmpST3dj5QsLjl8rbDreXYBnZeOzReexU8oKxTRn9yWbRPOvuBm79Vo2Mzu3CDI_o__AHNqpxFtMOE1jXni1wim6bKNkbrr5PfA9vmssoW4Qm-8iBMdJIIGyb0g3oimdgFjR_OZSE0WHRZOpHVLyDtEKiJl3u6VBNZU5fSbpve-KQQ.jpg",
+        "https://cdn4.telesco.pe/file/rCSq3HUI_fK_fOhZGzWGJ8-zGQHKxZjilAsJsS4fOah94YStiIg7DXLONFw61UALkDTzISlvuTkTLSseE1GNliJKSOAeFdjF8UzNY3WwGpEhS357GpeIXSnexXavpwEwSBFEilaQOKGPxHZ0BCTQzHZfZO0G7feNtiLKCJM0blY5BNbEbYflKs-KW54eF7MxatlnLVxTLEq7DYybsLw98W6d7VIR-0y_oWmCqya9DT1Estxrv7n3HA1xigGTWokFJg5UJHozN0zfWuFM_fFQ46QCVEXZvJW22duJIttE_EQMJ7TDdd2rhVX8hEB5Qby3IqjoWgvDRSVGW8epfMqDNA.jpg",
+        "https://cdn4.telesco.pe/file/YHsc8CvRaoqlaTs4krVNp_i_cm5psxAERBIZGJJ9SlOGf-PvuqTSw_yTLSQ2ImMMNGKa7e970oOtXz6z3_q-_XBU5B3ET0XM4FuoHzK6v16IspDB8AU9KSdGng7iHYTfBOmhN9ujLcOu_GnnXDKCIc61m43LMw3rkVU26LtK-WAigPaF37E1gkuvpS-Lip9G9HMbmtj7LFazakDVMCq01N8FRhP3Qnj_jea3edhtnGlS-7ek4cgOcq8TqdfdU4KWPZCVSuH4_QGiaAIxa4Fp1vhPwBNOaYC3JY3JpLDvf-dCdCSt4hsPG2mqRRr3TzX4u3cF3PMjDQg8S5xmYw14Og.jpg"
       ],
-      "videos": [
-        {
-          "src": "https://cdn4.telesco.pe/file/5deda5e4e8.mp4?token=A-yMAoz6WYL6F931qEs-UM1BlENSusud4VxHp83K-weUtiyVTlCzcazBrAnxJQ7TyIC6U8TMdbqbpduIjmfAPdXGVmIe-0TJPqY7V93o98pHJUTWs4iKdsmH4z7zHCzoyJfAT1p1PMtGIBpkC6HWnOyvk7FJNrgGdK980ynf2h2YrgE1RqJMBcjtRj-G100hLP57xNcl6WcEnfTp9MDGD6dGmwPUrInTN_R-TpEwVm3_AJFrj-K4zfNsmAZPEVuSIhK8SqCdtE0TAoDqYnLechMW1Ewt6sVyUz1gKxEcR7qJOeNKEevxrw3UzTUXACaN4LXM4tAhBLhv2ersPGEMAg",
-          "poster": "https://cdn4.telesco.pe/file/YHsc8CvRaoqlaTs4krVNp_i_cm5psxAERBIZGJJ9SlOGf-PvuqTSw_yTLSQ2ImMMNGKa7e970oOtXz6z3_q-_XBU5B3ET0XM4FuoHzK6v16IspDB8AU9KSdGng7iHYTfBOmhN9ujLcOu_GnnXDKCIc61m43LMw3rkVU26LtK-WAigPaF37E1gkuvpS-Lip9G9HMbmtj7LFazakDVMCq01N8FRhP3Qnj_jea3edhtnGlS-7ek4cgOcq8TqdfdU4KWPZCVSuH4_QGiaAIxa4Fp1vhPwBNOaYC3JY3JpLDvf-dCdCSt4hsPG2mqRRr3TzX4u3cF3PMjDQg8S5xmYw14Og.jpg"
-        }
-      ],
+      "videos": [],
       "description": "✨ROSY LIP GLOSSY ENHANCER, ROSE CONFETTI\nНатхненна м'якістю шкіри Milo, тонка, непомітна текстура ковзає по губах, залишаючи легку завісу кольору для природного вигляду.\n85€\nУ наявності 🇺🇦",
       "postUrl": "https://t.me/JetBuyerService/7104",
       "tags": [],
       "category": "stock"
-    },
-    {
-      "title": "— SUMMER CHARMS WALK, ARGO BLUE MELANGE",
-      "price": "1 150 € у наявності",
-      "photos": [
-        "https://cdn4.telesco.pe/file/lynMw647uFroXqiHrPLC_LiA4ap1YAanKKo6Oi3xsSWKXmx_1EDcQCQVV0Oj7GkoKLVtcX9nw38v_zKccI3m71iTdURENXl6_OD6Bm3JqVPa697fU-Vcu8HMWsbuWMeuWZZKyjYKL1pJx0p4caMu0_kvrfRINAiwIHzztcvJUlykrRcZ5IBZNTRf-E7Hu0O4GDE0bwyxP_A2GOvg-eY8aKYdxk-orBb1q_lFFeGRnCCsKDJjOdOND7mBSDZ4fetk7-eMT-c8RNFvcGHMFn5DMshy0ti4Or4Ntlo6shwNirC1o0xqvyr503wd8tfkuAggtLUcwXzrhd1Nyg1AMWXEFw.jpg"
-      ],
-      "videos": [],
-      "description": "🤎 #LOROPIANA — SUMMER CHARMS WALK, ARGO BLUE MELANGE\nМ'яка замша насиченого синього відтінку, фірмовий срібний шарм-підвіска, легка контрастна підошва — впізнаваний мінімалізм Loro Piana в кожній деталі.\nРозмір: 37\n💶 1 150 € у наявності",
-      "postUrl": "https://t.me/JetBuyerService/7103",
-      "tags": [
-        "loropiana"
-      ],
-      "category": "stock"
-    },
-    {
-      "title": "— COLORADO ANKLE BOOT",
-      "price": "1360+10%=1496 € + доставка",
-      "photos": [
-        "https://cdn4.telesco.pe/file/GRjEAQqoreACa8w1iWo5_NhZPf1-46mrB_vj2j5Bl7jt_GFBLH3EqOUt0X6SlpfP453ug1WjZ6nOwuuIhBdmCJe6f-zQ9suoVBE3rTJK9D3xA9yVkQ5umWwvzw2_AvFha3SnoF-ALFu8bMCdr4JLz0xCgBChboN09B4eqaa_0T1NQzGz_m5Yr6HSm9Exr2atmhgkIJTp2vJoqfuZyfZ_A3TWLhS-On-0EIt3uGZnRebd2mljBjEb5GKMkmO6pqmX4aEAcStGUD9tpW9UZhBWOo5pBqS4GXD8IJGY_yRv005J3_M5HMwANJuCWaZwfP-dZKI3sXp5Qcd2zpP-Lk8JJg.jpg",
-        "https://cdn4.telesco.pe/file/p3jKymIDYwvSb7SaQ1bo1nKPTYNzr0VCTt59_kZHd3gjB9g28w5oNZRBkxexVufm7NrOQyja-j2cIzDKQF5APC2gtQcAWSVh0D6bCxiyH-SHa7tjjrV0YqJYvvmo3G5AMbtElKClKiyDVLRX7VWOhzJn2P--BxbQBtlqqubz-6Y_7FFw_rCS1qfH16TeBK5w0_hFa9UbviX2OIIbQM-HTmrdKwFXvb2hclk3eVA4ckeAC18A0YvMVhsI6gxMs6hVg1UVqkovSCPzghwC7lg5kdoWx98XkJW-GLjAww2V9XCih4z0bNr2zvNokjnZj1IZsYfvPat3K5nxfZo99_zk_Q.jpg",
-        "https://cdn4.telesco.pe/file/SG8DnDOin6rAuM9Bc1B5fYOhKaXetBXJ744M0_aRl_WLS2M-QrKVSZdfH4ItQdi_ecZsZh17St3i16TJ7z2lfS-jmfI07MctVklhFQ50Ok6Pe2sc3VJ6fyhT3Huxjz2tl-M2gBBdnfwMIXAXlROQK8_bZMtipchx-qjHa4f9Qmk7_KuhcTTVw7xqOG9crEgeaBnwTksNgR8R2P9oDOx-CSSk0HdRFqxwz0pjkwnMMpjRCl_dybFe3qoxrsLv0carWxlzMLFXCbK7xPvKvvTKQpMjqbH4OEDxiRU5dk5e4cfYCiIYGFR2t9S2mE1bcFb23612rOTll12Sc39KzdtnXA.jpg"
-      ],
-      "videos": [],
-      "description": "🥾 #LouisVuitton — COLORADO ANKLE BOOT\nЛегкий стиль pull-on з фірмовою перфорацією Monogram (натхнення лінії Mahina), замшева телячна шкіра, регульований ремінець із гравійованою золотою пряжкою, підкладка з шерлінгу для тепла та комфорту.\nДва кольори: Brown та Beige Clair\n💶 1360+10%=1496 € + доставка",
-      "postUrl": "https://t.me/JetBuyerService/7100",
-      "tags": [
-        "louisvuitton"
-      ],
-      "category": "order"
     }
   ]
 }
