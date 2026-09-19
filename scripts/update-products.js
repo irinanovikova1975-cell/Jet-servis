@@ -125,7 +125,6 @@ async function main() {
     if (titleIdx === -1 && lines.length) { title = cleanLine(lines[0]) || 'Товар'; titleIdx = 0; }
 
     let price = '';
-    let price = '';
 let priceLineIdx = -1;
 if (titleIdx > -1) {
   for (let i = titleIdx + 1; i < lines.length; i++) {
