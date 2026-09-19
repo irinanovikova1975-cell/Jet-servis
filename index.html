@@ -390,7 +390,7 @@ function prettyBrand(key) {
 
       const TAGS = new Map();
       categoryProducts.forEach(p => (p.tags || []).forEach(key => {
-        if (!TAGS.has(key)) TAGS.set(key, key.toUpperCase());
+        if (!TAGS.has(key)) TAGS.set(key, prettyBrand(key));
       }));
 
       const visibleProducts = currentTag
