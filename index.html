@@ -279,6 +279,30 @@
   const CHANNEL = 'JetBuyerService';
   const ORDER_LINK = 'https://t.me/jetAssistant';
   const LOGO_URL = 'https://i.postimg.cc/wBYpXSS6/IMG-7238.jpg';
+  const BRAND_LABELS = {
+  louisvuitton: 'LOUIS VUITTON',
+  dolcegabbana: 'DOLCE & GABBANA',
+  saintlaurent: 'SAINT LAURENT',
+  hermes: 'HERMÈS',
+  ysl: 'YSL',
+  dior: 'DIOR',
+  chanel: 'CHANEL',
+  prada: 'PRADA',
+  fendi: 'FENDI',
+  loropiana: 'LORO PIANA',
+  gucci: 'GUCCI',
+  balenciaga: 'BALENCIAGA',
+  bottegaveneta: 'BOTTEGA VENETA',
+  celine: 'CÉLINE',
+  valentino: 'VALENTINO',
+  versace: 'VERSACE',
+  burberry: 'BURBERRY',
+  miumiu: 'MIU MIU'
+};
+function prettyBrand(key) {
+  return BRAND_LABELS[key] || key.toUpperCase();
+}
+
 
   /* ===== ЛОГОТИП ===== */
   if (LOGO_URL) {
