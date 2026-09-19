@@ -118,11 +118,15 @@ async function main() {
     });
 
     let title = 'Товар', titleIdx = -1;
-    for (let i = 0; i < lines.length; i++) {
-      const c = cleanLine(lines[i]);
-      if (c.length > 2) { title = c; titleIdx = i; break; }
-    }
-    if (titleIdx === -1 && lines.length) { title = cleanLine(lines[0]) || 'Товар'; titleIdx = 0; }
+for (let i = 0; i < lines.length; i++) {
+  const c = cleanLine(lines[i]);
+  if (c.length > 2) { title = c; titleIdx = i; break; }
+}
+if (titleIdx === -1 && lines.length) { title = cleanLine(lines[0]) || 'Товар'; titleIdx = 0; }
+
+if (cardTags.length && titleIdx > 0) {
+  title = prettyBrand(cardTags[0]) + ' — ' + title;
+}
 
     let price = '';
 let priceLineIdx = -1;
