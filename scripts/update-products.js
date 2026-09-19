@@ -113,7 +113,7 @@ async function main() {
 
     const cardTags = [];
     (allText.match(/#[^\s#.,!?;:()]+/g) || []).forEach(t => {
-      const key = t.slice(1).toUpperCase().replace(/[^0-9A-Za-zА-Яа-яІіЇїЄєҐґ]/g, '').toLowerCase();
+      const key = t.slice(1).normalize('NFD').replace(/[\u0300-\u036f]/g, '').toUpperCase().replace(/[^0-9A-Za-zА-Яа-яІіЇїЄєҐґ]/g, '').toLowerCase();
       if (key && cardTags.indexOf(key) === -1) cardTags.push(key);
     });
 
