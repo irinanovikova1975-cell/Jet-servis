@@ -196,7 +196,7 @@ const descriptionBody = descLines.map(cleanLine).join('\n');
     const dataPost = post.attr('data-post') || '';
     const postUrl = dataPost ? `https://t.me/${dataPost}` : `https://t.me/${CHANNEL}`;
 
-    products.push({ title, price, photos, videos, description: descriptionBody, postUrl, tags: cardTags, category });
+          products.push({ title, price, photos, videos, description: descriptionBody, postUrl, tags: cardTags, category });
 
 
   const outPath = path.join(__dirname, '..', 'products.json');
