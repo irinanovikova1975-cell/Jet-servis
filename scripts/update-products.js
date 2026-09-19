@@ -6,6 +6,8 @@ const cheerio = require('cheerio');
 const CHANNEL = 'JetBuyerService';
 const BASE_URL = `https://t.me/s/${CHANNEL}`;
 const MAX_PER_CATEGORY = 50;
+const MAX_PAGES = 8;
+
 const BRAND_LABELS = {
   louisvuitton: 'LOUIS VUITTON',
   dolcegabbana: 'DOLCE & GABBANA',
@@ -36,8 +38,9 @@ const BRAND_LABELS = {
   omega: 'OMEGA',
   patekphilippe: 'PATEK PHILIPPE'
 };
-
-const MAX_PAGES = 8; // скільки "сторінок" історії гортати назад
+function prettyBrand(key) {
+  return BRAND_LABELS[key] || key.toUpperCase();
+}
 
 function cleanLine(s) {
   return s
@@ -70,7 +73,7 @@ function getPostId($, postEl) {
 
 async function collectAllPosts() {
   const seenIds = new Set();
-  const orderedPages = []; // кожна сторінка: масив {$ , el, id}, у порядку від новіших до старіших сторінок
+  const orderedPages = [];
   let beforeId = null;
 
   for (let page = 0; page < MAX_PAGES; page++) {
@@ -92,13 +95,12 @@ async function collectAllPosts() {
 
     if (!pageItems.length || minId === null || minId === beforeId) break;
 
-    orderedPages.push(pageItems.reverse()); // в межах сторінки — найновіші спочатку
+    orderedPages.push(pageItems.reverse());
     beforeId = minId;
 
-    if (seenIds.size >= MAX_PER_CATEGORY * 2 + 20) break; // зібрали достатньо з запасом
+    if (seenIds.size >= MAX_PER_CATEGORY * 2 + 20) break;
   }
 
-  // сторінки йдуть від найновішої до найстарішої, всередині кожної вже найновіші спочатку
   return orderedPages.flat();
 }
 
@@ -149,38 +151,37 @@ async function main() {
     });
 
     let title = 'Товар', titleIdx = -1;
-for (let i = 0; i < lines.length; i++) {
-  const c = cleanLine(lines[i]);
-  if (c.length > 2) { title = c; titleIdx = i; break; }
-}
-if (titleIdx === -1 && lines.length) { title = cleanLine(lines[0]) || 'Товар'; titleIdx = 0; }
+    for (let i = 0; i < lines.length; i++) {
+      const c = cleanLine(lines[i]);
+      if (c.length > 2) { title = c; titleIdx = i; break; }
+    }
+    if (titleIdx === -1 && lines.length) { title = cleanLine(lines[0]) || 'Товар'; titleIdx = 0; }
 
-if (cardTags.length && titleIdx > 0) {
-  title = prettyBrand(cardTags[0]) + ' — ' + title;
-}
+    if (cardTags.length && titleIdx > 0) {
+      title = prettyBrand(cardTags[0]) + ' — ' + title;
+    }
 
     let price = '';
-let priceLineIdx = -1;
-if (titleIdx > -1) {
-  for (let i = titleIdx + 1; i < lines.length; i++) {
-    if (/[€]|грн/i.test(lines[i])) { price = cleanLine(lines[i]); priceLineIdx = i; break; }
-  }
-  if (!price) {
-    for (let i = titleIdx + 1; i < lines.length; i++) {
-      const c = cleanLine(lines[i]);
-      if (/\d/.test(c) && c.length < 30) { price = c; priceLineIdx = i; break; }
+    let priceLineIdx = -1;
+    if (titleIdx > -1) {
+      for (let i = titleIdx + 1; i < lines.length; i++) {
+        if (/[€]|грн/i.test(lines[i])) { price = cleanLine(lines[i]); priceLineIdx = i; break; }
+      }
+      if (!price) {
+        for (let i = titleIdx + 1; i < lines.length; i++) {
+          const c = cleanLine(lines[i]);
+          if (/\d/.test(c) && c.length < 30) { price = c; priceLineIdx = i; break; }
+        }
+      }
     }
-  }
-}
 
-if (!price) return;
+    if (!price) return;
 
-const descLines = lines.filter((line, idx) => {
-  if (idx === titleIdx || idx === priceLineIdx) return false;
-  return line.replace(/#[^\s#.,!?;:()]+/g, '').trim().length > 0;
-});
-const descriptionBody = descLines.map(cleanLine).join('\n');
-
+    const descLines = lines.filter((line, idx) => {
+      if (idx === titleIdx || idx === priceLineIdx) return false;
+      return line.replace(/#[^\s#.,!?;:()]+/g, '').trim().length > 0;
+    });
+    const descriptionBody = descLines.map(cleanLine).join('\n');
 
     let category = 'order';
     if (allTextLower.includes('у наявності') || allTextLower.includes('в наявності')) {
@@ -196,9 +197,8 @@ const descriptionBody = descLines.map(cleanLine).join('\n');
     const dataPost = post.attr('data-post') || '';
     const postUrl = dataPost ? `https://t.me/${dataPost}` : `https://t.me/${CHANNEL}`;
 
-  
     products.push({ title, price, photos, videos, description: descriptionBody, postUrl, tags: cardTags, category });
-
+  });
 
   const outPath = path.join(__dirname, '..', 'products.json');
   fs.writeFileSync(
