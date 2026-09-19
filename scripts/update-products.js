@@ -4,8 +4,9 @@ const path = require('path');
 const cheerio = require('cheerio');
 
 const CHANNEL = 'JetBuyerService';
-const TG_URL = `https://t.me/s/${CHANNEL}`;
+const BASE_URL = `https://t.me/s/${CHANNEL}`;
 const MAX_PER_CATEGORY = 50;
+const MAX_PAGES = 8; // скільки "сторінок" історії гортати назад
 
 function cleanLine(s) {
   return s
@@ -19,22 +20,66 @@ function extractBgUrl(styleAttr) {
   return m ? m[1] : '';
 }
 
-async function main() {
-  const res = await fetch(TG_URL, {
+async function fetchPage(beforeId) {
+  const url = beforeId ? `${BASE_URL}?before=${beforeId}` : BASE_URL;
+  const res = await fetch(url, {
     headers: { 'User-Agent': 'Mozilla/5.0 (compatible; JetServiceBot/1.0)' }
   });
   if (!res.ok) throw new Error(`Fetch failed: ${res.status} ${res.statusText}`);
   const html = await res.text();
-  const $ = cheerio.load(html);
+  return cheerio.load(html);
+}
 
-  const posts = [...$('.tgme_widget_message')].reverse(); // найновіші спочатку
+function getPostId($, postEl) {
+  const dataPost = $(postEl).attr('data-post') || '';
+  const parts = dataPost.split('/');
+  const id = parseInt(parts[parts.length - 1], 10);
+  return isNaN(id) ? null : id;
+}
+
+async function collectAllPosts() {
+  const seenIds = new Set();
+  const orderedPages = []; // кожна сторінка: масив {$ , el, id}, у порядку від новіших до старіших сторінок
+  let beforeId = null;
+
+  for (let page = 0; page < MAX_PAGES; page++) {
+    const $ = await fetchPage(beforeId);
+    const postEls = [...$('.tgme_widget_message')];
+    if (!postEls.length) break;
+
+    const pageItems = [];
+    let minId = null;
+    for (const el of postEls) {
+      const id = getPostId($, el);
+      if (id === null) continue;
+      if (!seenIds.has(id)) {
+        seenIds.add(id);
+        pageItems.push({ $, el, id });
+      }
+      if (minId === null || id < minId) minId = id;
+    }
+
+    if (!pageItems.length || minId === null || minId === beforeId) break;
+
+    orderedPages.push(pageItems.reverse()); // в межах сторінки — найновіші спочатку
+    beforeId = minId;
+
+    if (seenIds.size >= MAX_PER_CATEGORY * 2 + 20) break; // зібрали достатньо з запасом
+  }
+
+  // сторінки йдуть від найновішої до найстарішої, всередині кожної вже найновіші спочатку
+  return orderedPages.flat();
+}
+
+async function main() {
+  const posts = await collectAllPosts();
   const products = [];
   let stockCount = 0;
   let orderCount = 0;
 
-  posts.forEach((postEl) => {
+  posts.forEach(({ $, el }) => {
     if (stockCount >= MAX_PER_CATEGORY && orderCount >= MAX_PER_CATEGORY) return;
-    const post = $(postEl);
+    const post = $(el);
 
     const textEl = post.find('.tgme_widget_message_text').first();
     const photoEls = post.find('.tgme_widget_message_photo_wrap');
