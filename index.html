@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Jet Service — люксові товари з Європи</title>
-<link rel="icon" href="jet-logo.svg">
+<link rel="icon" href="https://i.postimg.cc/L4v1vzk4/IMG-4097.jpg">
 <style>
   :root {
     --cream: #f4f0e8; --cream-2: #eae3d6;
@@ -190,7 +190,7 @@ padding: 50px 20px 30px;
     <div class="logo-mark">JS</div>
     <div class="brand-name">Jet Service</div>
   </div>
-  
+
 </header>
 
 <div class="ribbon">
@@ -204,6 +204,7 @@ padding: 50px 20px 30px;
   <h1>JET SERVICE</h1>
   <div class="hero-line"></div>
   <p class="sub">ВИКУП ЛЮКСОВИХ ТОВАРІВ З ЄВРОПИ · ДОСТАВКА В УКРАЇНУ</p>
+  <a href="#products" class="btn">ДИВИТИСЯ ТОВАРИ</a>
   <a href="#products" class="btn">ПЕРЕГЛЯНУТИ НОВІ НАДХОДЖЕННЯ</a>
 </div>
 
@@ -321,8 +322,7 @@ function normalizeTag(key) {
     document.querySelectorAll('.logo-mark').forEach(el => {
       const img = document.createElement('img');
       img.className = 'logo-img';
-      <img src="jet-logo.svg" alt="Jet Service"
-     style="width:88px; height:88px; display:block;">
+      img.src = LOGO_URL;
       img.onerror = function () {
         const back = document.createElement('div');
         back.className = 'logo-mark';
@@ -510,4 +510,5 @@ categoryProducts.forEach(p => (p.tags || []).forEach(rawKey => {
 
 </body>
 </html>
+~
 
