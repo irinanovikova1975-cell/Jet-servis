@@ -12,8 +12,27 @@
     --dark: #1c1a17; --text: #3a332a;
   }
   * { margin: 0; padding: 0; box-sizing: border-box; }
-  body { font-family: Georgia, "Times New Roman", serif; background: var(--cream); color: var(--text); letter-spacing: 0.4px; }
+  body { position: relative; font-family: Georgia, "Times New Roman", serif; background: var(--cream); color: var(--text); letter-spacing: 0.4px; }
   a { text-decoration: none; color: inherit; }
+
+  /* ===== ФІРМОВА ЗОЛОТА НИТКА JET SERVICE ===== */
+  .gold-thread {
+    position: absolute; top: 68px; left: 0; width: 100%; height: calc(100% - 68px);
+    z-index: 1; pointer-events: none; overflow: visible;
+  }
+  .gold-thread path {
+    fill: none; stroke: var(--gold); stroke-width: 0.75; vector-effect: non-scaling-stroke;
+    opacity: 0.72; stroke-linecap: round;
+  }
+  .gold-thread .thread-glow { stroke: var(--gold-light); stroke-width: 2.5; opacity: 0.08; filter: blur(1.5px); }
+  .gold-thread .thread-dot { fill: var(--gold); opacity: 0.9; }
+  .gold-thread .thread-shine { fill: var(--cream); stroke: var(--gold); stroke-width: 0.8; opacity: 0.95; }
+  header, .ribbon, .hero, section, footer { position: relative; z-index: 2; }
+
+  @media (max-width: 768px) {
+    .gold-thread { opacity: 0.62; }
+    .gold-thread path { stroke-width: 0.65; }
+  }
 
   header {
     position: fixed; top: 0; left: 0; right: 0; z-index: 100;
@@ -207,6 +226,13 @@ padding: 50px 20px 30px;
   <a href="#products" class="btn">ПЕРЕГЛЯНУТИ НОВІ НАДХОДЖЕННЯ</a>
 </div>
 
+<!-- Єдина безперервна золота нитка, що веде через увесь сайт -->
+<svg class="gold-thread" viewBox="0 0 100 1000" preserveAspectRatio="none" aria-hidden="true">
+  <path class="thread-glow" d="M50 0 C50 38 50 58 44 72 C35 92 12 95 8 122 C4 150 9 195 8 245 C7 310 7 385 8 470 C9 555 92 585 92 665 C92 750 88 820 92 900 C94 950 90 980 88 1000"/>
+  <path d="M50 0 C50 38 50 58 44 72 C35 92 12 95 8 122 C4 150 9 195 8 245 C7 310 7 385 8 470 C9 555 92 585 92 665 C92 750 88 820 92 900 C94 950 90 980 88 1000"/>
+  <circle class="thread-dot" cx="8" cy="245" r="1.4"/>
+  <circle class="thread-dot" cx="92" cy="665" r="1.4"/>
+</svg>
 
 <section id="products" style="padding-bottom:20px">
   <h2 class="section-title reveal">Нові надходження</h2>
