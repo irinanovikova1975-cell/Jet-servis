@@ -18,16 +18,17 @@
   /* ===== ФІРМОВА ЗОЛОТА НИТКА JET SERVICE ===== */
   .gold-thread {
     position: absolute; top: 68px; left: 0; width: 100%; height: calc(100% - 68px);
-    z-index: 1; pointer-events: none; overflow: visible;
+    z-index: 3; pointer-events: none; overflow: visible;
   }
   .gold-thread path {
-    fill: none; stroke: var(--gold); stroke-width: 0.75; vector-effect: non-scaling-stroke;
-    opacity: 0.72; stroke-linecap: round;
+    fill: none; stroke: #b8965a; stroke-width: 1.15; vector-effect: non-scaling-stroke;
+    opacity: 0.92; stroke-linecap: round; stroke-linejoin: round;
   }
-  .gold-thread .thread-glow { stroke: var(--gold-light); stroke-width: 2.5; opacity: 0.08; filter: blur(1.5px); }
-  .gold-thread .thread-dot { fill: var(--gold); opacity: 0.9; }
-  .gold-thread .thread-shine { fill: var(--cream); stroke: var(--gold); stroke-width: 0.8; opacity: 0.95; }
-  header, .ribbon, .hero, section, footer { position: relative; z-index: 2; }
+  .gold-thread .thread-glow { stroke: #d4b87a; stroke-width: 3; opacity: 0.10; filter: blur(1.5px); }
+  .gold-thread .thread-dot { fill: #b8965a; opacity: 1; }
+  .gold-thread .thread-shine { fill: #f4f0e8; stroke: #b8965a; stroke-width: 1; opacity: 0.95; }
+  header, .ribbon { position: relative; z-index: 5; }
+  .hero, section, footer { position: relative; z-index: 2; }
 
   @media (max-width: 768px) {
     .gold-thread { opacity: 0.62; }
@@ -228,10 +229,10 @@ padding: 50px 20px 30px;
 
 <!-- Єдина безперервна золота нитка, що веде через увесь сайт -->
 <svg class="gold-thread" viewBox="0 0 100 1000" preserveAspectRatio="none" aria-hidden="true">
-  <path class="thread-glow" d="M50 0 C50 38 50 58 44 72 C35 92 12 95 8 122 C4 150 9 195 8 245 C7 310 7 385 8 470 C9 555 92 585 92 665 C92 750 88 820 92 900 C94 950 90 980 88 1000"/>
-  <path d="M50 0 C50 38 50 58 44 72 C35 92 12 95 8 122 C4 150 9 195 8 245 C7 310 7 385 8 470 C9 555 92 585 92 665 C92 750 88 820 92 900 C94 950 90 980 88 1000"/>
-  <circle class="thread-dot" cx="8" cy="245" r="1.4"/>
-  <circle class="thread-dot" cx="92" cy="665" r="1.4"/>
+  <path class="thread-glow" d="M50 0 C50 35 57 52 72 70 C88 90 92 118 91 155 C90 205 84 235 84 275 C84 330 91 360 91 410 C91 465 82 495 82 545 C82 600 91 625 91 680 C91 740 84 770 84 825 C84 885 92 920 88 1000"/>
+  <path d="M50 0 C50 35 57 52 72 70 C88 90 92 118 91 155 C90 205 84 235 84 275 C84 330 91 360 91 410 C91 465 82 495 82 545 C82 600 91 625 91 680 C91 740 84 770 84 825 C84 885 92 920 88 1000"/>
+  <circle class="thread-dot" cx="91" cy="155" r="1.5"/>
+  <circle class="thread-dot" cx="82" cy="545" r="1.5"/>
 </svg>
 
 <section id="products" style="padding-bottom:20px">
