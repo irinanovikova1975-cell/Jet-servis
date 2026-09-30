@@ -119,7 +119,7 @@ async function main() {
     if (!textEl.length && photoEls.length === 0) return;
 
     const textUpper = textEl.text().toUpperCase();
-    if (textUpper.includes('ПРОДАНО')) return;
+    if (textUpper.includes('ПРОДАНО') || textEl.text().includes('❌')) return;
 
     const photos = [];
     photoEls.each((_, ph) => {
