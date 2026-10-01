@@ -1,13 +1,29 @@
 {
-  "updatedAt": "2026-10-01T17:06:25.482Z",
+  "updatedAt": "2026-10-01T21:49:09.597Z",
   "products": [
+    {
+      "title": "PRADA — Re-Nylon down jacket",
+      "price": "2400-10%=2160 €+доставка",
+      "photos": [
+        "https://cdn4.telesco.pe/file/uysfNlIAOZNW5vbQgGoyi-QxnkppVbLozq1on6dvCZcpZ634Wqm9YOU0ulYk2K4zWK7TBoLP4cdYN2e-ahXtlbgEGAv0gdMDdHBUDI-60xMlEQ7XET7nJAs-1_kFdiEN2VK5KXYOONsgnYog-liw97-tKdwmGzzC_79Bz0QWiOVgQHJeGLSo4qBPaeAiENaqoiyNao4-hwwFZkVJx9oCOvG9_uD-PDuNzR5xwCyL35lu_4B6nSml0PPJmKQ3NbFlO6FlNmZ2skIdUp1esKe7Kyl92Mn4j2pfLqHLO3Gc4b1E7Kb83xxskz2U_CzCpJG9TV85qvtK651xZqCGNEtt-w.jpg",
+        "https://cdn4.telesco.pe/file/c7TD6QhL4tQqC6YkDLwl4-4SXCuXE197UFV9s6GdvlafTN3ucBI2LHHtQPC2BQEnl_6OYKVq3iG1-ysEUYb_Wg28Pml22FhwtVfUF5C30Nxpy-B8NFkWFlQodk8Zn-xR4SdwsA5JlugwKBrBEH8LDxvS8lM6w_t7uNsHujT10WeGgWUGji2SxqtplSkqoDFxHK0nCfhFnMbcnNCkepgi-vvbuAk3IYpTYVcpKU9FsltCMaGh2eX3EriLdOeSsmLtcOzPgS6Jqqk-RevaAEiXcBSY7xhEuvXQK_T23-0rAjWlI8xTf9DKqvNV9xOuyo92cM8gcvBe5ILbnhrK0__5pw.jpg",
+        "https://cdn4.telesco.pe/file/kjHBnnGAaYpDblT0_VGC7mfdUQcO4b1P_aRmAmuVurHiUWyvnirkK6D88qKjQIHJlSZc2iCl4_mWIgPG1Vr7dzv-TLnYlCYp9ye_-5lT2Gj9H7g7jWEIYz7hPoxDwobvomC6JF-kPXRuJCdUYh-HAf9CAhN8maQOyeF8_Vt1oEE-f-F2UYzkAcnfUc_QDk0I97pZNchmoK0MYSbJ51F_kRjx8SY9OC7oMfPk_nfBv7_BZv4KLTr_wxQyv8BkVjQlRQMf4AJdhBLaayrzPj_3oOBXca3H_n2J5FuId2GIpUGbhdUoGD2MJSRNqIxnRy1MjGJBT1boJY65JYMnEDTNvQ.jpg"
+      ],
+      "videos": [],
+      "description": "",
+      "postUrl": "https://t.me/JetBuyerService/7184",
+      "tags": [
+        "prada"
+      ],
+      "category": "order"
+    },
     {
       "title": "ALAIA — Slingback Bloom in Nappa",
       "price": "1190-30%=833 €+доставка",
       "photos": [
-        "https://cdn4.telesco.pe/file/YfNqZdYPjDLAdic_VQPqCoeKUFRZUT6QF-uUI8yRzf5k13_jrQXyeMOCL32QJG519wdH0NqbiY0go8ah_Qf1qTGCZuyHfbIM6MvR7cl_AvYYKU0hpuuVGoA6YucLhuCfiFsLWGyuivNh15HztFFVGlSaS-Mu22VYZkwP0AJslNqaT4Vp0KyxKGdYH8LnjotcvCTe8yJFClhegrBJospUJNGQJMDa8ZAw107NSdKphEgJBH6Cd85MF_iJ7IlHxKseC4OnvOSCZZONnh_7CFqHHU7a_cytCovSRNiOAKZzYqJUkFStTkZS9UkiS3RTkZn8FdVOIsiEdqikIIpSBrc-lw.jpg",
-        "https://cdn4.telesco.pe/file/surDbXLFwyyJSJrGsQvHYP1od4-pFJYtJjs-dmUQ1J5aL22JVvyDtp1t2BxuA-kpcCr798igIdZsY4qcPvzucKWA-y3xfOhdHZrmglf-bgK35aozfZIsCv3qc5jP3FEeiQSexJBsZqOnj9Nqqugpczbdf6VkBoEUYDLDPkcswWcSuoEBoTZ7XEERskyNduZ_hJRNC7aQFHP09yG8P2yI36PtN4eanKWQILOFw7nq6xeRIfedv-DxEqwqXo70OxXOqhcQmwbwVk8D0GJ6rQSLSpyKplg8sHnjybVJhCvjBuAdUCqQVEOYO9nMS9qcxahc_eneNpNmV1P8VdmusqqYNg.jpg",
-        "https://cdn4.telesco.pe/file/QUCZaqTh25WnMCnu7mh8Ziwm6if2b-5r8NockkuypulqSo4yjHolFeOn41gYwQu5Xb1C4X2h4qqsc2-YoF8LpHBiIoX32zvzgnuFrgbwi55jlYl35ETQUZvLxb07vAAYc3DVB9CWTN50tHLYlMGgcTLA5YDjtvgftjlIXZlshviHLdHdDGv5nNLsBTcXP15_hFuotWVNDbRUKpRtzW0GXif4TPFkiJRIQRv50ask7VXWTbsQGUbRKsTAI6vOKxfMnEO6LHYLcVo98iaQ5LzKUnGg1j_qDk6wTJDIz28fC2-eCPDcYCpHsXFEXC7Y7QVpk1B9t4boFd92IZzISpcHCA.jpg"
+        "https://cdn4.telesco.pe/file/JwWrBlAvix3a2G5janLZjOqG3O0d4HKpAIxW7Hnljs-ngLkShV_s26bshe4Z2VTjPWeERH9vAn4Bd464-0aPQjZCWHFfQ7caTYzepuz0w77Bc_piTQn_upJe93MBUOLXxjqRgYgbyRUp27ar6WfIaiBwW3Y_zuG0A7dTIeVo1H1XSwNio5wPu36KGc9TjNJ5vepMSOPWqL32SfByodDrZXgbXgnZgyEDVpu_L9JRgj-Q9LTzK8WpQA8Lj5Y-Q_fqcc-Jcr9sCHfXjwLurSpHykPtd2wnXO0PT3WW8ZiGnQ_3_PzodmOmRYC3GvPI8tdEdqwAEZclLT5B0vBtQyHj_w.jpg",
+        "https://cdn4.telesco.pe/file/Wsbp0KWCOtBJYoZ_U4d04lRZ6WECkp2kFksGkLNNj1RrTSi5BqrzKTiWs28TDxpBZ1-bJqe8XpVppGUqY94hJa-tEwPBTmstOcAP5BAYs3G4NmDFveKsxRIutOe6ZdAa5EsXOSrfDryoPXjOGmWqRUBNyYuHvsMGR0_o9UY8eYxBm8oQ1mCSHm3QcRWnxyAft4yWJLIgPfBGP2NJOnZia7RJq3lXCyNxVM_fUygX-fOMjQnVKq7kH29wXZh6s48UMyQjme1qwJgKdhfSpdxTumNi2xwcKehXoJsClcWEHcRTWCx2NpFqe2o1g7Ewku6Lzqc9cEbcvjvGDdUi8kVpjA.jpg",
+        "https://cdn4.telesco.pe/file/WIp-H3ua1adQse6B96Mg2MixU0ibMmHFq87Obdaoy-J6q_XU43wL90fsxSLaRUf249_KiFu2rP_bKiNjLwcAzbo6Qa_US6BUlGN9Fefh0llqq9Tj9SJaFCwibxxFY136m26HtGgnHt1AQA52wYyhCrsmlKULvzyckpJOHGMYlNDHNHYWGg7HgusoNTdGg77mZiMGWq2FC18BRzgy6itMyJxQ2N7M7FlQpJfo1KsW3yBGGb00HgtcJzZWCAYgpUSreYHn0IoBRia_OryW2nKGBpm0FXFyYteIAUVmHcHGt9ShazPv_q9hQVIsxOKblDCE9p2nq18ojpO3NgCL1t2GcQ.jpg"
       ],
       "videos": [],
       "description": "38 39 40",
@@ -21,9 +37,9 @@
       "title": "SAINT LAURENT — RENÉE SLINGBACK PUMPS IN MESH",
       "price": "1050-10%=945 €+доставка",
       "photos": [
-        "https://cdn4.telesco.pe/file/Lxk9u1L7ifdyDp0V_c6iJJ3Ze_VrYSAgisigXS9Rci4qBry2WZfEW-1632snMSEnkUDYH44ys2rydisCBZ-cEFtXzdnnMuhs-oLMsl8x1MjFNHDISHwnsi2kJ20NME6MY_2iKDQNkDg17Qfmu2QHXT4A1I7Hs60EK0tfUsr3bBM-51dGFfEv81lZWgIHbZ0RiugumOHva65EP8asTsg3AH-FaJXAWwPgD_ptz4hx9jgRS2xMKwzPokpjY2C5jyETDcZ6hAiMEFjM1bM1VX3hTpZ1xc0H_GuR_Di_VpCDrfV52vf9Fv-xQdSmpoBMCf6x3lfc89FgfGu-JqZuiE0BpQ.jpg",
-        "https://cdn4.telesco.pe/file/VIRfGan1JtZWRX5TNh1UgMheoVABKfBkd6aP83e9HTbOF3XWCOaucVKs_c-NKv_HEzGHTqJILJGwT7h0FrLzrwFVNTrYamRDhZTcOm7q_YXUZTZfHwXTJu3Mc8Kapu_fSKgOQwjnZ2O_E7a4CY20H8syJ5pMmdx0NCLL_UYRuXL5DdzQyKqHo1WfLlWIKHq7odPbV3eiZwsCwZ92drTCenQmYbfE3E17cX0x8L58YQP6VWpg0WTKwQ09LWLNNW6YPaoGr3KI0jqmSOIeLXoCTFi8U92hPBvDhtLqwJndrXrQMQXuMbA2R5aNjuiJZA52jPBYZBxNFy9Q4DRdQ0kqJw.jpg",
-        "https://cdn4.telesco.pe/file/Yn8JjNrE3ZNnXouolMDrHif4HZ5lyrUUTo4cg4XFnlypo7LscH7kzEq-TJL8QRBgLuR5GnwYW4F5Fta-3e_5Fza4kKSqqQ-lMabPhuBNe4krnqHpH69bWaCQdwpDxYFATHqhdW9oXHMMeYf8CQYwbkCDKLtCAVFoJHi_K4y6hjIrKl9M-91MSUEAkPuh2D7_gM5gjXD_sHRhQGnITlMqW0srotEqr1elI3R8Pzu7aM7csxJIZgIYdGTPxkhTU8eqK_5CQh2KRTGFpU7QUwZ89M3xdLxmJaqNTrxfowL-WQWiOOuwy04EoDSroxJfn2w3ajuaq5pDc8-UJbLpfEFtqw.jpg"
+        "https://cdn4.telesco.pe/file/vS9MVmpqszbq3Dv1yKXJ6ow1DqU9X4CFA8w5Rt2lmPK1q3lLeBpEWwrxpkze1oM6Wt2eb14i2fJBVt-DGjnSy2JdTdlD5eW3qdxgNR8zm9zcvLqxHlqaCxAfykT8gj8m-QqcRZpw5OoZ6MY0d-ECLDIS7g0oM8qhGkXqXKd570DlavTeYYO-niMLoeP7ZTAyfYyeOkK3HRZjQoMHAUwk6Me5GSPdS0PBDnLLqETG9XArG1Bn_93VSWmn30nYlnrBL9N2IwqMMfWmVgb8i8zjxQStWUpCNV1WQ5A6-kB8xhhYElD2hW2TCDD3bBjoKuGFdGazVny06g9lkKyzrXp4Nw.jpg",
+        "https://cdn4.telesco.pe/file/d5ltqFm-NurVnryU5sr_LB8A7jhIJmIRwVS1RhtkMLPHXhHybCVYZ7nrDHZZwV0wQ0ux4RwMqS1klsrBZFlfY8NLd-knkrllFHHz38b2aluXAvZg12kYBjUfV5irezGg6iRjC6Lp7ZOB-PxY_ybtiCIUGGfnGOoeyFMK53uS3tBQR6_v8JX1HyL15EjjsX2JIAroCmkd6-KWzUqlGcWsX3a4zappRXhwMf64VpLKQZRR-lHkFjG0s8-Jqwv9OjFd1Tb1y4qzYlsZRr9GJTXsOAwNuj9Sb4p6gLa1_eE4cCloytOl18lrzlQqMfGlyja6GWmq4fOcZHyIf1zhjYnmDg.jpg",
+        "https://cdn4.telesco.pe/file/BQ6bAR5YNwg8DB8qjibqc014jt2IiBujI2J4M9CrKsUlFvmcmWT7gsw8ij_jmKtZOzgOsLkd3eCbWAZXBe-X5AlgfB6OecwyXN4RzXcVRDBUfxWsMV2jCNm27FdvuBpHCxxSmKbW0UnsIT0NMJsof7pyOd19clJl9n5cQmBkZu3tiku04NENz0hdHMj2d7WUOD6afEmrXBUdR0Q3H8LBY_BBA41MwvnEo2TVbi835BkHqJczF4g-3gNbWCYUaQYBwn1lkidsypBOy4vz74IgDPO7KlW6epHqMo-eEhCyAezpnivRVKCJ2fhwD9C50U7F5ZHc527L2aDUJFICaMZ7Ew.jpg"
       ],
       "videos": [],
       "description": "",
@@ -37,9 +53,9 @@
       "title": "CÉLINE — CREWNECK SWEATER IN LAMBSWOOL",
       "price": "1100-15%=935 €+доставка",
       "photos": [
-        "https://cdn4.telesco.pe/file/hbC0sNRta0s36_ugr5TC7mxCdJaAwhThZFX9CEPvQhEMflA7FqOI2Qj9POBr7bpSbB9f63K7KZRvSrmgnhGfaMZ2KLLnUbWiqc3WKBNVCIimcC07RWKEkm8vsVsTSqwjOLzhJ6HBgBOCy7Rx1MTp1clpgXlmEfGpl-Xf4EwPy9TN_3O-Vd4jCez7-JG_PJ4CgVP-RJMF_KalDqH1nOWU2V-cZ05L5gnDycYKEed-R-q18w_04sGLrSxUujfdmPpRSyQKmSUnYt0GWjhOb4Lq24WYrHkVMIr1t-N09oiTTtnxAW0DkA-IsB-vfSXhW6ZcvP5Qnd64tNb56S_-Bqy8Xw.jpg",
-        "https://cdn4.telesco.pe/file/UVT1HrJR0XQY6gFV2XUEY8mLQlD7Z5tKGuSx42ZSavNI0Y4qlAZgMbY3XkEmdYYFCY-JMG0-xMj6Ia7kAXcrkhTE1hG61GYe3FNILZNINxHe_NDrLa1Tyd--rvkYNQ9RL5MEadanOdTMTIUjTPpmiGnL36-znZA-SZXfq8HE_aKghnM0xpKmQXmG8FkAoI4UR2sCIuNEGfV0L9ChlZw42NvBEZV0Lr2Fx-v3tisKx0rXcrHIl6ipZPj3R-h6Yt0RrJoyWp_peWTBplz9FD5WJFgR8i2AbjWXbXoeQQohHuECDMrxLhtvIA8AYxvisPDwdOQAxIqSiijx_QLHZ4Ly5w.jpg",
-        "https://cdn4.telesco.pe/file/IjIrYNv3Yaxl1WEKwtz9hH0tKfyAddiTtUu0CqyPIJ7nQ_1Mm6CsbPhs_ZyDFQtUg0pyVdfKzlze8q90rQ4Q_DDceIejO8JUo-W9E7l0ZgeP_EUSWxldBc1BUx5wxSjhCZJi4id9YnkuT1tG2saqqgdVaknuGBMUuE4ge4_V6IfgiUSlcCkqB15W9qru4yH9HvC_boJOpTg_Q6ulJLCGlu--tqOmWEPhxtw_noEpXoK1R3tqAVtvTa4kB1NTZ7jSWY-CRv8ii0QWxgv9bpfLJGmHcPVVWaDZA41rTFWYySPu1vuP_5B9KeyR2T1IAIDqnoaWXinqkoXQFo7FP7-VRQ.jpg"
+        "https://cdn4.telesco.pe/file/f_im6CbxxqhxGaZawvVdqIZCoj3RC4dkgLtlzb5Zlg8_taTLJIP1bBcOopk2HBpghWgBSbQX1ujvcXalnjoHjoYo-gCKZaBiDGB8AqW3Z1j3FPNV4ZoLDlrxxfuyvjfmiIcJVUNdUPgZL2J_JNX1GTbTE3Ns4veM3Hmz-9Cwz0E4lvFY8zluTj3rI00T7Lj1y7J-6HfPFYuBWFo9N75XNpbc8rile_JqBVdwM6tWy6KQLzjgM0_IDC-XDE3rYolvrLFF3b1Nx_C_Zs10EDGktkDG19DjQMyw5sRGZN-DZTWmtVfWZktmYgJBf-ZdoVvyqXH0LSdm3E1s9H7Z0kVJaw.jpg",
+        "https://cdn4.telesco.pe/file/haEIuKBvPe0xxlRZ560l246Cq9WFNk4wOS-s96FrGgGDdOf6Gbw5rqLzIH7GW6GJ4Z8Jxqi3XxpHb_jbTtNYnhjuI3eKQasRYkXbLIxx6ywdi3AgK9OB3_oCIxH3W0jXL7WJ9Io7_wMDzrAU2W8IVOuImA31EswczmJQgoNLG6cM2sUMQk5ZlZEVgtLHEDm2H-YAmYmuRoyyPqbXNMcbYtQTtGdC78F_8bwBPpYEl7UbhE4bZBeTF6TX_eqBBV8OPT8qxIwwsPGBefJEhe5Js-vmUK1AtkpsJilCfMVrhXLNITdVgkJwLeAaKAr-AEg2ydqbbYsPSLJHrZ3utoY7bA.jpg",
+        "https://cdn4.telesco.pe/file/TsFfcw7GkDJvj5CliCu96tRUUK1upZnYTHmIZGEjBpJJd0-69EC4e9U75cddx4de3-wenvIxrB1OqHDyTAfCaH9i9_tc4leHatGfoHqO2JjEFtFIGRhLkYVjQcb_6zuomKIgQiUP1JRn2VGhFZYhB7mucZlU50i8jGfNvtG4EN2o633bpzZjrY5u1bnBxEU-Q9JrLYq4MGKjotZ_ZULZeWcMMDiXVhLPhZkfnu3yvWtIAZI28j9P7tiZog-5kKpcjXnLp0IAgCPcS3GqHjz_BFk8nyyC21jAlN7k6v2DapmnYTigicLQnV7UQgX1Nq03LoN0FfJyL0T2eOIcO1L8tQ.jpg"
       ],
       "videos": [],
       "description": "",
@@ -53,9 +69,9 @@
       "title": "CÉLINE — CREWNECK SWEATER IN COTTON",
       "price": "1400-15%=1190 €+доставка",
       "photos": [
-        "https://cdn4.telesco.pe/file/JEvPfTdOJqUyZkdRLmcK3gR9XR3TCdXHtApVyO13GLwkJuTUj9PPsgY1hFBjjU_PdfjvZIT9ftMIcY3n--UCay-YjGxhanmBIvcw80IchwTnNjc3JrxDXYbCVYWO7EwfVBxYODC4XgHFUSTynpYjSqAKZUgN0Fn5hVMEChgnB0-mlk_NrCBGXIrL10swtcQmXiNzjBahXmt7bHT1X-NFiKKpDIpzja6_1rTrqKGDq84mkuLdTC5i210l_UeALbRutUVU_dkDwjxE71x0W_XmIkvVu93vqlCVKfxT5u47GXr0zeRFKdcI6jWegk2n5ouGsN_D1JD8sgwvCLrMZtRuag.jpg",
-        "https://cdn4.telesco.pe/file/rds_M9Ny8OChawAoXnXhUkoOlaO7O8GiZyeZakfVYH5IVWoMrIN5mEMucp78F0ncPBbloud--VfX4acoQSJVZ6rMK1TrYa9i3gqwv_6MNeopHzua02GdJsqYugw7r1hf__iKGjmrRsuGjSRZgiWW8twH9ThN8C6w5k6uOiFVWjPLX529trdsAkiNDR4qVjUlqqY5gyh6GHnTpRemFGJfc_Fp5rXWtjXgYh1x0EZqE6ZofVjxSv0Wrl3RFblRbIJ16pAqXYcatF5ELz2Kqd3bDD3gvhG1dWaMXTtL6sAaauqIiOJv3wq78TEDKJ1zLGRDDnEL0Mnd6zx47T9kelyjUg.jpg",
-        "https://cdn4.telesco.pe/file/nNogsNx0Q5g-n0sjfFc0cK5QR-swzGkpfAjZL_-uAhCRphY_43S7WRssw5jolreHrqPio7QNqJvjNqO3_An2KbkIQx7Zt0MGleLVb3tIJuc2-4sWLFrY72-kA0kF8WLlY2rbfIuaoQESccNO2obYT7r772lI3uu8ZaYLwHdR2VP9qFlaJBHf_cM9mwJl9YiG0Y5N57CKSpA-UvhOnRvUW17N3helnkMEvCTjhEtRIoAEQ3itG9n4E1SW3wt5ShD0WgRGhqLseEh7mEJIeLYOJEKMlv6MeBAW_SZ46dh7cXPYD3osFriqAllftumqgtVp56bDPy4Og9Y43LJ9U4nkxQ.jpg"
+        "https://cdn4.telesco.pe/file/fl8DtyUZDmbzt8eZNFSh0LVhQUcfhRx85NndXzT3E5cb8_8YEWdoBnxqn1F45xIsXAZT3wAv9wvLQWtZFh55hr6K2rlcnzvtr0qAZHB8tNbtPVUTbcgVo7RrEciJstZ-k5uu8e-0K6cqZHwoOaHVkd3BkSGZT-AoQfy47fgCI4McXYRY2UDzttdKQuDHw20OqikxgHumzcqyUqHmUXS8pteeKS3gZ_aaBAodkPFS4CeQ-4E41hbyB0HUbnp_hYsqG-ZI-k3OZkyOuV-G5ksDrP8gcEeO6wk-lw80MacsAJIXYU6aY4H9PyNcQlzcjBUhxCYjNH5JiVwxOgmM7DKS8Q.jpg",
+        "https://cdn4.telesco.pe/file/SsleB4GHsbC88kYJyZCugoDL978qpgvbbb4rcUx6nH9DjBAtq22JnzVpjSsfEpNBxPDQJ9wPnOBdldeOP4eANRLqbOyp9JhlOfIUfjPIP-c9NFZTltPKkoaFM7j68JKXfQLUBPy9kr5u-iROYGxYWnN3LhvlbFjIh0VOlNMWHKYm9PQSREYN7pyr8vNwigypRV2NLHUPZrFM1kcwqt_J73DumEIukSvu9YnoWZrxGELlb8Cl4KCdmO6xn4Rf2jyk88WokHNnxBhFfCPUBToYgn0PHCq9IHFk1vsMwvf_kxyB2FZ52NdUEC3zAuv2DjLlofHCAfA4752dS-xdJv40Ug.jpg",
+        "https://cdn4.telesco.pe/file/NNQmzn2YFmxTrKY9-JmFQjgQIyMQ4D_WusfJywukdcQ-hv2WTuPsqZK-zTgQenMpECHtQcRKEjcJa6yXA2_Mxm2FS1fZslmXgOrc06TgdttIlBXH-toZLijBkI2DGWaAJsx1SfDdFcsGEbEr1GM0M0YpOtqLaUNZ30jMjk-cNan4Kk2SkYdxwlMhXdhMimlIDiGdoEos125r1iNtdDyr5b-sXgKRHkVJ5wEVk4N0U55-rx6dEp1gTd0TaoGXWunyn5YTx-uG7L4yJzKr59oJgnwLdSgpQiX5g0mXITIEDadQrjZoJZdkAWd691xUJi8-ex_R4iC_mYuG4Blf1S82Uw.jpg"
       ],
       "videos": [],
       "description": "",
@@ -69,9 +85,9 @@
       "title": "LOEWE — Large Amazona 180 bag in suede",
       "price": "4300-25%=3225 €+доставка",
       "photos": [
-        "https://cdn4.telesco.pe/file/iZ2F2JujTuHiaZo5dxY0pnhku2ZQ-YYOLBTLtDHwgXraEaAJAkUfZdMa0JvZSlw4Uu_NGlXdHFyceQ6jd2fwpyZMJW8RpHeONKJ2gHM47xv_A7UCu3kFQejBiU_5Ad-hRy_RoNcsV3eMImIBFJETQdX90D-7Dcb-Mql2WY2UHxVJ7cgThMm7MCKaHPY9A9OcfFauXSR9z_eSBOAqnTuyGvTY7J9YrPftDil7hX6HIOZVrVCEN98Hpo_qHumc0nfRqocASIKj6fj1Y7-7ZDaJ9L7xhY-9XcLVGjlNf8OYEzavUWtl8QZak2nQMLUMZijKkj6sB7krE_23nALq3rHpxg.jpg",
-        "https://cdn4.telesco.pe/file/GsXNRaaW2wGAChP-0gf3MOjHQz05KojKnzdVBqIHEMzyLXSDqEDNrhJYpPZ032uwwYd6bkqiL1st-gFq4DEqel4ukzI0Sh2PHJkB3-wHOX6e_PotNwJnbW5CtFYfZqtQZ2X1h7hikjWekgU51EkNT0GAdi9VC-w2BFSLvPE3M0tCmwVywpn57eWB8bo682TvNtoKS5Nq00TMEGd0pGW5dym-VnB1VHZQ6vraWX6XX1G2V-hZiWa0cUCS8uPNwfX-UV-X8GDIKK1ZWSDS_MipyUCLdFxeU4FU5W719aC0cQxpvoUaXTmuFqJB_mnAHuwetOKhyX1vvrXd72LCLGR3Aw.jpg",
-        "https://cdn4.telesco.pe/file/D847aQeD9gH53jBajcX4XUEu2xKsDFAkdB78sbiTuhqAZFMWYzfJVgnUo4uJtQGkJGpulnWo8dwR0AnQbz6BIaPpmqn76lOcdpIquxO8NYKNztdH9Nc34bFoskOoOF82Dny0fwo0e-9KBhC_RrleAbcBSoLtIR-kR8_95h83L_LoIDAN-Xs-1uHWyJlSruA61AxpGXCMO_znzbuFFUa_0-2fPkEAcQJvKbV-eT_5ThrAA6UyEE33IufBwAqdG4QzzcKD2njMk1UQJgm3kJm7Ao3ppWDgQASXggsCLPtgLQZ9PUZpKUlZIrwLrExqCKMDNQqP_7cHs2wtZWSCeGuFwg.jpg"
+        "https://cdn4.telesco.pe/file/TpjLaxVzbdUnvQiqwf0xCqdnNLI3PIGWI3r6xZJtNGRWgQ1TZ9BfXyNr8vpHYA8XsApScRhEFR6sJDyKFlgjRjEZjhELZ1Rj3hl7HZ_o03mTM7nzl1NP0IJD_ivVremR9nuOsl9Sb7ImSsCS9uMHx9Xih7Bn611mMg-uMb_AsQFAxvwAxPL9eRssFRJt13EnaHQv7SAnDKKxniKYEpBmwkt6_BPf_oLpg4MftuwZqC1A49h6dV90kox2x3lMCw5lWD_cUhCgHrQ0SOCsPoE1fstxBh0Ev2TnX3kxgUt19EYaGwg7OE9SdhuGE7sS7cDse26mysTECRkoT7VsBShzcg.jpg",
+        "https://cdn4.telesco.pe/file/qrDliPTFimTxj07Bg-ft-aeaJpICcThxYqfSenk_8zc58KE7N75wFVr264TBXA9gnYR1ACnTKyjunsxHWNd4TnJpKGBhjA1yP8kOBAHUET84Feo3ivNk0aoFQO3OdqQlpLA6BG4eGmnNSPm2nv6ty-qPeIMoP2TCFoPhUj6Jcy7Y5-o3DSdT1lqsika-kiO9EzsQIsRtYEKK8emWgrSy86VduYJD0ur566liNMpd2_1xgfTCi9jvXIGxnxMm5otlawo2Mwf0Nth0_qrE3rBNpZ_x4SSWTxu3FJ_wn3wkrdMGmm9ZfyoRuoKQQ7AsTTlQGhqNcOYvL_Erz9V7_tub1A.jpg",
+        "https://cdn4.telesco.pe/file/tS0R-njCfNbcMmf3b9X7lgN5PV59bikOQMlBDIcKmqemaFa8JhMUQsC5F4j3nSNb9mdWFkUwxtVm_KatffSIVagmC4T_9TqmUYbdUR3DVdbdNAPJndKyfGHXlh8vzwGSNcYgmLIKpb_eeeHoC575Rc_g7vGVl4DjKNzbpVLJLIePT5DCTqhfh66QdgwaMqBqB-df2hnmmkTcfnC_X__0sXet2MCpndkQPb7YvqpaKk09cN-yvLJnGuLO6TSY03rbWm24AwkUUJDX_r3DZ12KGXudqWI1PcyFsts8zp2P57ZcSET48Ae8nuImgQJlkmcuwx3p8rASxZG7AgkgabZR-g.jpg"
       ],
       "videos": [],
       "description": "Color : Deep Navy\n27*34,5*14",
@@ -85,9 +101,9 @@
       "title": "LOEWE — Medium Loewe Swing bag in raffia and calfskin",
       "price": "1500-25%=1125 €+доставка",
       "photos": [
-        "https://cdn4.telesco.pe/file/U7UAxxNchvNFFglh4IaYiPjDMRdeou3wUkorrAE5Kqx7uP1MHBIfvJwII86F7RF6nkymsAsg-U_Wb0rY_mcGcK3PW1kdVKW7cjCnmro5pT1e4C6xzdC3m06yT71T6zlq7Vipn70xe8E4fZ2RqdxtGNxgqyIGx8CqVOicY338xVbyO-eXMys7xF2gLCY-vQsG1TgDPsY0XJ3vCwUaw366erqlN2JOvNk6uuqDstL2xiGiLt41oCjvAGAVKRfYIVjcn4A6GHaXGsNft0CmRZx8h9P-yGc-7CDR-PV3162VTozWeox2LkvVBSr4UjrUisauKHgaGve3NClA_QayURBBJw.jpg",
-        "https://cdn4.telesco.pe/file/BypaP-07RZj15NFBL21D1X1Uilr-v9GVmWeOZvT2VCQhpW3Xm5fJH6paoaCRLdxw1Hl5DiWv5zj1KiuUrg4ylhiJMEj2pN-wsk3_Dp4OWq-68hZaraolXyjCgunlpLcsl680eNvrXUrvojlslidtmDkpoYEWN9jiNqyHVmz-e7vmEAWieBEOUa93CsgP7GEFsYwsI5RafVjuCY9GGj66WSRvy1DRQ9FqC3-rWlnHy0P7pkHVmCIhCRL_tPaDpk61DaYQdA8vJxubUrOuQycoZrd5E6Src-UMgcas_Eb2g7pNZMfi_hYHIkxncs2yyo36jiFf5lY56448SOct8pR0mA.jpg",
-        "https://cdn4.telesco.pe/file/Fa_yzNTswWjnbONrka0rsbNjIRc_NiGRxBJr7v3um-Yf6aZN3ovuxmk41r2Lu2rUqVTRT95KjytVxlTNLoZtg7tTIo7bSlPA9ZjgRPbSA0cFiLp8b9YM-Oj9wQIwDzXvww5p_cWHgeRYPirPEl9-CWNWgFgd_Ur92mXDnEqGmBx0JPtBxj0HfmqUdp32Bg-MzS4cIh8RU6CAG6MEGIbY4I9ZNUWK-iuuHmt8tZS2aI-USegF8NjkGGW5PtkO0L-58MwdrZj26nRrjKzShnDT-a7BiGZGXXmaurxclu4x_oOcf1CKDlNWz5PT-16wsbKTHgrbeaWWTmL9ddARz8dmtw.jpg"
+        "https://cdn4.telesco.pe/file/U68VwlH770WZJFFXWJ5q5mREX2MOp-R0FRUAhMC35-0QZxMUrlt9T2jZrLuLrsymt_fp2nM6gxW1n49j3ZMhoz42RowkwZX7eyJ8xaH2Ge8A1CxCgPWNZZnzqnwqNuWYj8xar-K-dA8xF7OPkdND3UcpqFEdeP6oFtNf_x4TGAMlFkDdGZ2i2-O6donEFrYY5g_v2JM-NqKy6myocYqUiADvdBMW9WtVsxE6pJdw5qvyLFcVkAnOIIOp1kXSyHZb7MyrmvUSKMsAkuE7E-Pna6bBfWbK9hozbOppmFmE2xBtQM_l4WBOJZE7Ej5xWzjg2f0RM673EvwX2gu0UpT-eQ.jpg",
+        "https://cdn4.telesco.pe/file/SKO8xm-_XTHOBQnLbSxbN1EMQSBgh05I6Tqo87dJHBMugZl61XlmWmfF_CXQEGVdUmznkY27lqeOi4rTXkcSpYNrVzbeOtTH8JB7JE5LO9SIWfNnVVA4LM-8QhcDtL-OkdmzQWBG-_LCLSEYkvWoEDQYdhyQaIS0xeLkxa5nYOXw93w6KfH2qOypcUn2HYjpcHgoW19hG6FBRBOIgxt0tSbtKzdPCMaQ6lR4CoqAHgSWtpwub1N48H7tkohV2weKvKWOWTglNEQciilHdlf2rNGd1LRNkkFkvzQ_JDrMvDhL0K8B5Lai8Hak5Z8w-d1r-PibCOh3lmACHUFDiiD2bA.jpg",
+        "https://cdn4.telesco.pe/file/GlgxVaXgaukxHkLVyWI6fx9rjtRm-DMbYZ6_UUtpuYBumpKMeadCVm8VnwfAc0fcNqyhIxZBU1cSFjoQJ54jNLAdea1YwgMNH1g9tghoWJ0Rh4JDoBU68DxQFUxyN1nzGpj4I0gfiNQHdVJtP50yN3dJsRduNpU2pmgUPj2c3ggad_eVDKcWyLWBbw9pE-U-qgs13uQfTeWyf1SUeDr74n3YmElPIJD9b243aZhPIiRnnLEC_bsdIh9U7M3hDdapsyBMdzNT4IXmSHIQg4r-y5H6u60ap74nfQfgdYjDHgc9VocKF0FduxsnjgBlI0hEF6aF1Mn5gELWwrJ7rl18VA.jpg"
       ],
       "videos": [],
       "description": "Color : black\n22*35*11",
@@ -101,9 +117,9 @@
       "title": "LOEWE — Medium Loewe Swing bag in raffia and calfskin",
       "price": "1500-25%=1125 €+доставка",
       "photos": [
-        "https://cdn4.telesco.pe/file/PBBMki0FqxQRBRmvRAnKuv81c2Hc2eT3M1Zbd-BsF415Q92YNgTz-23GZhe8SaIByNKGhGIGuFu2pqu2JSoNX9YOatae2dd3vZeIJnl4LlrghmHaXN0IJbAs2PpL6-67u5AzfNX1YrvT6L67bDI_fgA05venGTOADDVijjyRdpkAbrQt5CAbcv--VbvG2Lr7ii8DF3aiknpEHGAB4tCB8bCGfc9FNiS9KfmR6S86-7j_xeiXtG5W51OXRqFDZGhK57z1BagSBVuzj7_rbJRFSHdKrj86DaBGZFI5Oet6sY2MT2huUioftUJOXY69YycsB7rGsMuadIDKgcADofW8OA.jpg",
-        "https://cdn4.telesco.pe/file/DrvncRVXaHlniXXT_NVeJZdBI0gvTDGbHbrYeK1xJpQngYaSotkfeYkapJoZ5uoyUYHJSzF4ZXumP-6DCHWr5FLH-Lt8HLh4jw3at1br1rO1tiJ1bcJh0eJPYls79cWIQTybx21fynOok1LHAQaDY0Ld6jyKeTqvh3jkOGhZviD2cElWin6RYemxpPBZGnZXxqNP1lx6fbnUwDEcytk5XMUVtJWO1sA3dAyCjed1EXICePiaYh2nFrisdG01lH6VpXVjIEdO3gdXJPLmBihQlxs4eQdDorUX8Ynnrdiz3gWITbBTytfnWIpoDo2v2OWmEf6RnziS84BCRj4tWLvcnA.jpg",
-        "https://cdn4.telesco.pe/file/emG2c9Lc3Yi5IXa11qaBvrLEMwDZPJxUP5OqMI5TsbOaSNRq3PG1PM1J0AydM0b2o8ganoxdZzVoayAjp43vhqExx8q4_G5NxEyl6AlL71dW4Pbxi-mEF9lxP35EYPN4afodq9qNww9RPAvRCjxN-kr26c_XHCkEqfwKYVpuUU8WM5sgUtyq88d1wqvpA9w5qWmNIXQPxZ6ePYr2Kou5l3zYUxqYyQ4ex26VhsmDIngXTnjEOd0RHLZ1CBdEgEI7tFJhulZsWOu0QFoSZ1vB6Bec7fmyBjFHxLV8NC05--Cu-BUzdiKSHAYyirQdrvND35Eqm4SoeOWDU5XZTo5VdA.jpg"
+        "https://cdn4.telesco.pe/file/IIjoVNV4wJf5w2D6h27ZMtaieCYeVJFdZ2mgVN4KsuS7-s-k06tTXa4lKH5oNrFjgjTeQ0l2NWu_Z4u7NNq6JC7G6-Aw5Oif3xOOQYXWbsUw-0QJgeUwDCH6mzscdpiK4nud3TRy_34w90a9GMuJ23NYZvdFn3NbbUr_NW7EV05MAcVzXJPUVQNQgcNg7-cgqgMojteYFxU8rLSTTWSWI94Nm_ak1DZt-n5448Zeo6TEdy-hn651C-ahYa-GPvOhuz1yLfA4hjNVxEy3Y8EqFgW4ra8CHBir29LYqax82VTXASzeW81CZYoJDhbkmBd2F7p018hgUTqmNVL664vrIw.jpg",
+        "https://cdn4.telesco.pe/file/vF-eCKu6UnTDKKmdhMKneVAOr4ts1I68bTpWxTlBpnAQ6MFziQskogTerxyeA42mS8yob1xatvqZnQ2Stqyd7wNjpkE1kXoRsTk_01TlCGVUxMbltRu1bTqsDxIRtPHI90jH8UESKsabenJw9O67DjZsN2yyHG8tiSUBe6ZjY2nNFAOeT28xzqtxZh3OQszm8TFWIFkiGYYkcfwl8wAbIRbOuZQWaOys_KnvQwnvM6oXR7f-z8fvx26DA12SXVEyUOYzeqxJzjc7L62FpaFKtD19dfY9BKRrX48tg_keqP28Re1Dkqgkho3EjO8wkQ50HKubBVdDFAiW3gLV54uPkQ.jpg",
+        "https://cdn4.telesco.pe/file/Lmb5z_DBBhOvWhOIqH8pZ7t3brDoR_WGmBdSZp8aCcwOOFBGSyRdu0LRVX_es_1Ge8RyfFY_LEdeOHE9adoazzZszaHpbVyqFQdSCzLhv_K7TsHkDUXl-TATCATijDF7sfEko_Twun_kvZbkrGf6_gDg2lNYpdXGbx-wmDfDW6O1mNjJxlZBRvQB5i8xKkiWSNUbtzMWMVBNpBQARlmE1nmeDD_Pri2RbP0R8USnVx9Wxr5hV-u5KCJBStBzf7yAc7-2RWEEQEnyyZvy5hiDQ5maaw-kZtr4llDXNYVoCxW0xO0E7nw-4s9Isbf5V_S8u6cHZDRFCFiW18ChlrRkew.jpg"
       ],
       "videos": [],
       "description": "Color : Natural/Tan\n22*35*11",
@@ -117,9 +133,9 @@
       "title": "LOEWE — Hammock Flip bag",
       "price": "2900-40%=1740 €+доставка",
       "photos": [
-        "https://cdn4.telesco.pe/file/NwF9A6XXxB27w5PUnAqyq_YfBZSn5pdlHe35NOAu1_LZZEClaQv638Ibu8kWvnJW0KUspqFyBab9m_LFfjer10uRD1uPOV2-kVROF7KdPKg7sdbxi7JCkZZ9Fb7_-HdB90U78Ys23Voev2VY42-x2JyLPSr4PV2txiluEwJlxC1_aWfE2kRFn-Juwh8Jgj26iO6uNBou4FST6qlHfIMrYCdXITyHimGjq5d_iScRBGpIMF82dVhQQHq0k4QBx5x8umjVNc9xvA31eSvP5oujA7QlBmX4khdM4QgQaqh6MdkrF0u-tsphT-6OfI0iUYoLLO2_Dri4FBw9vxonwbkL_w.jpg",
-        "https://cdn4.telesco.pe/file/lED6-HERMvbI0q2Mse2FWYMH6IiTkfd73vbErfWp6puSUQOOltcoPkgnV3lrZApbFX2xSNL6zBftFhLA0nFTue4FyG8_J5eF9fuT0eak88-eLO02BWtD-02Yiag-_5QmufOXU0eq__em0HuQJdXwfbtRB3kWfrt3odAva7G7C2B9meKdGsA_viookqA-qYkrC7_WVAx9Hmn91zqseUgFBLIKaihzLHALEdlpMS5qnG6ggT2OxqGo_fM60RMAvRP9j95Z0wjXwBLQJ4TAeFdwK2QwnKgfRQn_vNTkzFjeq26AnjcI9x2ZhVMFiaLclALaI2P3blCbMGwMvc7BgN6lXw.jpg",
-        "https://cdn4.telesco.pe/file/h1prRm6s9d7FENanNqGpHR3Dja4td9IwfhsFgO-QEoWTTAaIfOI2URuCBPA-Vm_-P_aob5mG-U7G8rMS9HqNphzdoYcnmC9EiMGVT1ptbER_ibavpfwzFLj9ehgsCOX2pA_Ku0NQuacX1GHIDytIXCbP6Ni38Q24sxqZjn04DoAg0m2IojGQRmtZL676ht9zFziWl3IeuUHcWDCrdC8kFPPWAXPrAogr79tCXEjmhhSNRC9Y_e9BURqWzITEYBUDYiT-z8FKWfLizYgkzWhCPLCXGftGGDKJ_Uq8gipm5LoSgyD-VJX8f4OLIAHggvbuFdUVH_BrqPGsHAyxy8A2Jw.jpg"
+        "https://cdn4.telesco.pe/file/c-ItzYHd9SeVI9QHCtpEnNOHAY79AK6pg70Kn01aN9KsZ91vM0hXTahG4ehTtg1mTuWh_zBXldM1JwhR0eeAZZwjm9VtPWp1OosbI68OLeCihKutx5B7GvUQhTlQhyzG8PQa0LWOHd-BTmtrb_sWSkKUnaz-BV0jQQ38TGOis6uFkIaKqPuL5Vc1tN06fJlTcwWvsZ2mpBJ6e9h_-ew3sGL7IXwxnniyAjEH_CjzZK__CqtClIhcjFWH6D7jkluiAf2Y0RBwqhmpkyGVXHNnR5eqkXcj63_aqHoMY4Gt_uXYDzhwXb2rEQRkUZAc7-8S4p48VC6cK1aZ_qTQw6gW9g.jpg",
+        "https://cdn4.telesco.pe/file/D1v5fnJ_O3mttXwj6De1ZS7X03-svQiTh6Luas9V54fpxCrKeQ4X6OtkGjMK3DtS8SNC-5cBcmtxh98qJo8N9eVhZ9AIsF0lsB3Jm0U7q4hOTHKcPhRiV4f7T9a8pFz46mFvMmVQCn0THwt8Cz2S8M0BbK6_mLu4pws-AZo_cZy70HJb9RpqAkSb5K9ho-15tLV5BmkUabHziXcNDeMkiZ0re_sfy8Gx1b_97W964FiuasZNPlPRJfrN7LmOvOsa4PnpR8b8gSKh1UOc0hAoiT2kmyAN3aN8UE8_Nv10NvFeUNDK57VllllNbedbM8nF06pXgawT1cAcUMKrDeozgQ.jpg",
+        "https://cdn4.telesco.pe/file/gc7uwF2DRc2mPjx4imO5K4s4YxjqCQgqd4w-eHKeL9rV5Y1GlXRZTCs0zMSRdsnAJnbhE7mPfCgZBBy82liI-VjNxFcuS5gwlLTH5dUV4TRbqxHKte1c1P8zWWn0A9DPLribBL710BU02FhTK2G0pFHjw85NJgMji9rowECvQ2anRhwpILDc7Hn9U-4Ssr84Nfai2U6TOFQ0-yfonknTGrSs8t9nKoQJoja5Endsq6GMd83wHml1y5Dcei7RLDeMeDy--UUFkXkA_2Xhec37aT8rUnXWrfEMfhwZULlUJkZqokGe7Do1_j5p8Ew7Wej_yHYjcSFrJRe77C1DFRC6gw.jpg"
       ],
       "videos": [],
       "description": "in classic calfskin\nColor : Squirrel\n21*15*22,5",
@@ -133,9 +149,9 @@
       "title": "LOEWE — Medium Featherlight Puzzle bag in nappa lambskin",
       "price": "4300-40%=2580 €+доставка",
       "photos": [
-        "https://cdn4.telesco.pe/file/W7tIqNCzxQvJieNUVae02WSZxgnTSMtAMwlytfbnSijP_95DCC0mElzG8rrlaaGVO-VZVW1U0FixASixU2mHaaGPIQMu496X2BOlzGRDd_x05ltFcwwbJCnPY8-awUDZRoSBdBpGs4Df2BIqN11OxNFKPWXECfJK9BUKp-gyIKCWsRNptrHceqEIR-pTF97yv7lWnMqyn0hNFqjN4gvrM5aJO8jaOkZpgA0s8swN0oBHWdJhCjy4Fr0_fNy4oSENR4vbmz3drQC39q_X7pekFG6MDC86b5MuX0J5OOfxkXQ75ryQwCz1QhDGiJNtZh4nvUCDc_JFRZ_jVvZKHVy2dg.jpg",
-        "https://cdn4.telesco.pe/file/VPZRFzDptBdkwYPcEAKEo9gjq9Ku0SLHzniusD2HsO_KLPjeav_QrHuRW1istAwVzikYo7gvEioY36MYSMBxJLZGAdjkJzwCh63zWi59yWKj0jQwxoq0aIr5kJ2JjB1YCNI9d5NXN7uXhJbBAqxuHiG03ub7m2fK8ckFRqBrdDImeknjAJbbEH1kNyyag6N4DaZL04wfaZn_xya81DNqanf4FCpApdkNLRkmk9D492E7uQvw3tmp91PZw5ieQ2yEjQAdd7WFc8XLXf13kIZZyp6IcpbBzdIfaEt3oYGQHG4nsC15aX94i69bPKdGkt6eHVEUiLYGMTEbkTnCROc2TQ.jpg",
-        "https://cdn4.telesco.pe/file/VX18VprwahdZo9nIP4ImV3AGlQrl-z6lHYu4Ax0FoFKS2gPCudTChnbtuE0qR8qAY5VP3krC-HevxJcGQ2RjnUwIrJIwfrk38iwcBTGEItNDe4cAhM7jITvBewPcLK9HfD2PPDFGvUpmpbsZ805YVOJlZet828P9b1zNIOdGCPgUkWcF6xMelWeHPnIn1QXi2_HXTUxipArUOsAAQvpYMtvyb1rO-sfzqv39lGcQ4LqH1InYmRDkxy_TMq5cpmBLZeheCtq8RI2lLT64YVrZgqHNibbmcMfxgdZEgUfkvWBBzeeSLzuq1vVxUva4eFlomjOWsD34h9Kl6j57Yug6hQ.jpg"
+        "https://cdn4.telesco.pe/file/km3CE6to6MgtSs2bhAZIQvB1Iy5pD1mhPHLcTLPJyQoNq8wQesCkxWUWiT6yxPKC-9vq9G_Q0xlCzJ-2LrNBlIY2ZB7UHEg3OnRUIQHEJFeGhfdwqGl_QKIoCyrjPJfo8WpLwQEr0qktBffxf13acdUM9P2_kxx7AnT1EGZMQnkHrux4Bs4RqP7ivuSdIeWv_VrH-y5qiy_XVKNVPE7HCXzyqXgISdqiOiZeNpmN1sp8RhhAX-3Au_-4VmDiFxLwswSXyT8I63ACZkwZewOaZdKwTCc-34utvRBF8rR_QxmwcCNG2CEHT35wl7BXXUqzDueZm62nGpVl5-NWWhGdPw.jpg",
+        "https://cdn4.telesco.pe/file/XHavSofFNdkfZ1IxFJ4Z57lXm00QKCQlAWJcY88WVTI5tiPbaXlsUo8A8qhjZD6ycfx4YZcxjD7cowxY2AYo0Kp2FILD9xAN3w65oNaSlj7bcUQ2AP3CC5xreKtE-BNyTtV7dn0nzRBGoHt8_sMboB9GpwkAIOtJW2bJXX_w1wmvDZQTDh8NhfUZFIGBkJ_ZxqmKh_aC1L9adXyB2UD7IPlZCUcnNCtGDI-FcqpeBnYPlvUfL0NQx5jUshn9yhTuTADT8iYj2PKRNZk_LX8sokaqXsMCbNmvCOQyVt0kr3ONlswT6pT2RCgSpbbZP7NS78JC-KInOs4WHIg-Ile_sA.jpg",
+        "https://cdn4.telesco.pe/file/s9Mvi87KAJinMq8gSDGL1W5CNoAD6FOHD0bEWFxj59leynCYHfLcbCXY5ZyKdJ_tS7DC2VkLRG_cwe0Cf56TdVY3_7855fp6aQAxLdOEFuNxcz6wDYdDG4KHoPLH-0viB8gPE0DHqxCxn9g7ZsQfXL7XIiRPhveBOJ6HB58UHHNE2Z6DKL1SuULdTLTA-R_qNtq5qfC6Due_HripcjFyIVrcul3avwFEK10H-wSTa3F6u_4Ht8ICcXTGoaguhd0GhnLB7jXpP0XL1ZQqeq2_a7yGaiwSZrgUNkw64kG6EeDOu8mxWmH1NGXLyvSv5YVb4IEfiNHLmVNgJzeWrZNRrA.jpg"
       ],
       "videos": [],
       "description": "Color : Black\n19.5*29*12",
@@ -149,9 +165,9 @@
       "title": "LOEWE — Medium Featherlight Puzzle bag in nappa lambskin",
       "price": "4300-40%=2580 €+доставка",
       "photos": [
-        "https://cdn4.telesco.pe/file/JrwBEYbFnCqzmvGA_bCVLy499yqkgVr0PJsIp2HcmESOzZrfyLyOtwzhSJJsISEpYlylQ4TYlQOLGKgxOQSsAPdRdZrCQFJFv8tNSOcffQl8NF5h-v6oJPKPS8RHuBhd4qqgHMIqFyEZbgzdK6m1gZms6lcTwDq-QvcgXknzbHIHdw3Lk7X_Tx0xGU_--0xyPEfHsGt_q3sI2vpzYw1K0rT7MLzcQeXA9l7pDruyHVCVAukC9DOfFjgHSlhdSuAoEM8RUqgdJKtLWq6M3l9bP6vUG8OXRDpecrdcRIikk5OFPlAqzTdfaAYQ1OQA2Ej--nBi1V6DRr6KoBhW-AoeCg.jpg",
-        "https://cdn4.telesco.pe/file/pjdJ0Lmkuko6erTB4_NuuIu2jNU7c7NiUrMmHOn9aqIlADWed1Qo4uJtOYA-M2ODjaIrYk04zy6P4oZ7PIyCez1BK2hWOHSLtL2iYYxlhaTiZV-FL2m0arEvxf85t_FLoJNovgVK-EBnZ467dv4LTCdjdOMlkz0CPfTEo7sqUMkjRTVVUZpOlluytlNfSbKYcQFFc_IJEO-Z9a_qbPN8m9Tmpf2fwKyP6Aa2icl02wJcI4EYalWVpffWnk15aI1gDq2t3cYrxeEbpN4u4DRiop_-5UhU_WTgGXFIHKBJ-zAuvZf5EmY4uRwh-qHUEz2mBIIBLmid4OwyvZRf-zkn6w.jpg",
-        "https://cdn4.telesco.pe/file/AEroEoamImMEbKVJAgDcQbpP-jf_pvRiGtJR9btc4HYKJ10wSvOI9WQKPYHomOlB1NBNbznFevpFoC1NnBNXV0ezorXBACNR2ul08W6Ia9XdziOF_rLv6hpQOW3eVTj4HfgVL6PcyHj5DXiBJUo2ENNTr2eJpieC0ZKUZTxxOliOFSJXVyCu2xSEY42bcQhrnlIPzuG2kkdpOW9kjqjbTkE8JOlp0i185cMoa9O3UBYMw7Dck5idEHe-7e_ec14uT2yOe1750VrsAf2KzKbn_hpCoF8HqtZEdu0eAgtZw92hSx8FQooG4kJISbn10chFA2e6It3N5nRQeHfk3PWEvQ.jpg"
+        "https://cdn4.telesco.pe/file/tCkOj2h0z0C6rPPCS0yktVmth0Mt1QSFswSivDxOMCo63mYEPOKALggqyJt7ZmgKGXz_7OcouK8Bd8WVnn3P806lwp-1JPnCt_r9oLeWKtCcjsnds4cOSmyr2ZtJUDOIbfqc4shSE9AndkyrmOwcDNPPmOrxHDQ1UOfgqeLfXTVNH57mzS8WOwjrx-ULUwHHKtGDwgGI2Vsak98jGPftONP9qYOYu6O7MlR5kquEgD98AX2iBExXsMS4x_oMTOMOUKDFLosFdK-QjbeMbOktZud0x2gp9M17CEpdE8DHeK0lVNhjERO_av2UiB2MIohESZ5e4CZ8zNllNOLuOxWm8Q.jpg",
+        "https://cdn4.telesco.pe/file/eSdjKl1U9dDPW6_eC-RVilq3xXcdypf1iYlB1AmtN4d8keXHjYELCDsHt6-LWz-8N00FQC8UFj8gDvtGQe9qcEm-8S8vjvR8YPGV-L9dp-4uGbYBxsj7qNvBhIxiI0SssCtwWkF7F4dgvy86P8Rl_XTxXbOY8mGNSEnGAGq5Z6nRvLHX6AQCxxCTKG1wP_S9-JSa2AV4UpBFYTY7td-vf2BSWotxryE5A28KBk-T5HLYrQ2X6rEFhPLv6_JcXAR4PFlZwcC506NEoVxNaMIsmvl2KZ9NWwcqAEntk8j20w72W1m79vlV6LkBsBeiQ0BplVJhkug_nH8xddmTvq7c_Q.jpg",
+        "https://cdn4.telesco.pe/file/GhkySLb5I9DLbetS3aQ-ueHX4ZCkjH_MV2vSMDmSYxGjiXD29NK1YFVpk6Eoi67kh-6sHCOyd6I_e4lyZ-Z15S1LeIr1IDzT-hLTK8nYxGlKlOX4F4GORWsToJxcncuPP0kzJY9KsnjRu8GYiU_Xk8JXeh6uQpSxfjg-ootYeTJ805BcM6eZnCDxVNupoleXVdERg2N9KwjVmFhHaND23gNfE9MMLwM5uN5Yve7G4DCoRLBjqPqjicBqi6trtAxf_QJsfV1U0T9fyYRCaEAnVg7dgmXq6nQjz2Mi0suiX5on3e6Yf2Ln7IguGY1EHJF0Pq6mRIZJARt48sNpboOFgw.jpg"
       ],
       "videos": [],
       "description": "Color : Deep Saffron\n19.5*29*12",
@@ -165,10 +181,10 @@
       "title": "HERMÈS — Lip Care Balm",
       "price": "90 €  у наявності",
       "photos": [
-        "https://cdn4.telesco.pe/file/TUcfpkXgMOmyzSV7fRYL8i6T71aLbdcYoFATO4P42wfat626mhgLDBnPUZ0ioNxX4LDsPIW1H6MTIctPfkPfIvRRKwgRssS69N-cWgpZ3Fb5bcDOJ9I1MijqhOmbrWY7w9_BqzGr8-MYUGVmPnvnxZEKPBKrxIs_u6igW3pR7ulUkQcmw-bbgVuGCDs2pf5CwiBUAfG2HgyjmUjZpd23ZXd_z3pNddFRYgNRFjQCbc_NQOcQ8gDxjAhnipMuBPCxmXETVJxGsxGe5oXc585cuqgtpVFI8M-A8SvvoWISkPywoKwUG7DAO8y5SK9X5ap5PNvbfGGXfq-XfmXcL-ZnWQ.jpg",
-        "https://cdn4.telesco.pe/file/XZPiPEYcsI6r3H1LqEUEYRaVLR1smkyexuxlLTB1ygKmrQT1cKn3l0YAJ6AYTKGSnRhc1OoUeLn5UVwAFAgkFUr8YsfXWMhiSCPe-XQ8oboic4-1sGhlPYr584bCTYwae5jRIfSstoJYbjOv_FjRkeVCgDSVHi2M3LNGZfgsvSgeYqN7YBPbNWelwCx1a1-LASXhOxj2HoEftWvqKBS1P1nKJwcEpa4ymOSE7k0IHKVaATJIX0dUSDvImrJgcov3vOOFI4kgudpKUoZFOc66x4YPPob-_and8v_zdjVybX_HU0AKmS6ABTuI7bFkkk6V7uTouPs5igc27cxV3z-pqg.jpg",
-        "https://cdn4.telesco.pe/file/Xk9mNft4DDpstX41G8ToUUQrIjKwSX3KwYnG7jfXE_At3p4_YNIJ6GTNWK4XRLW1Em8CP4iF45qc0-_ZzwUQyyXhpJNAu5JDhD2n1oSjetl5aI3JqaUQgxvvdwTicNLtG70xZQgLqBxefyeK8KinDrXmNWXhiKz3psSgxVep86Ve4vV_CJdK0RELA5hnkP4nPVt7w01Np0HVp_EKKJYP5-NEOFjqPubnHy7EC3KaWvW8DGEZl0rUF2hXqBlMDJDPz9yRTs8D1ocwz3-OWs232vO1SkDlmPNnSYF3-zIOjGu_dYLYLojuA2lhKXKkQNLqkWAzg0Ia5nOGWHoEci5sQg.jpg",
-        "https://cdn4.telesco.pe/file/mKKY7V2IdKz3UkJL0NZzNZi1-q3y1w0uYwoy-9KI6LsdzJFP_-MNfQkiiaxB0pwEdbH5NqRlErMg-Z_eu6ujFGSPBNyoeRBs5ZGqoxIg4KyTvTdDZn1uKJWU5WHwl1DFet4bK8Kr_5u-lv2frHzOC8c0G-WnOhYNwWgfXf32YEivRbE-oPqBm84yEsmCmsmxDp1C_viqjsg6sq7ChTEINqeE505LjDIMCVCIn2XyfwmgLjNwV2iiUlwB3_tSHHdT-xdwcCGsEzinPNNmoSxqta6lHq7O1Sz8aqSVh47vyKDccj2NTsWNEzVgdOLti4TmqBWQ7wMFr-7RDIk_7iTGfg.jpg"
+        "https://cdn4.telesco.pe/file/QqL1KRQlxIOpRhbX5IceAJZ8y_kTSpkrg0OgCfMBgREKWNFAz1AG9Iuxkby70bMm4Ln8I2hfLBfFhwHj86HWPr3qPUUZXRu3BIxMvNZw_oY_xXSwKLtA6PTewHarB358LKJs1cLdfRLXcjDg3XsP5NDfp-9G20NUuU2JwiXwHoIkb8OFrZ0iPTVEg6EAZbqABXWGQ2CfoyVE5yOPTwf0JO-zB9LB6uSKPuKvTOxDECKdEK2B_Sir6cxPk5BEHnQAbYKWuqPD-QstKyONh1wr3vnPY5qhk5_L1OFWZoRgR-xdCg5Y5Rg7uhotR2oAeW8kupXsMFFWBsalo4eug2glaQ.jpg",
+        "https://cdn4.telesco.pe/file/DlZ3Yen10aKAwxIA6sSt_Z1vdPvBX--1alkNjHQeXszisIf_qFJzQKQhza9WBdwFCn6lf96Zgr2bzGtis1GIG7t56XFbN7exCJEgXhqI1KSETwu418kxIvrILjBfmjdfOAJGpHzxP2W5rNzxiBwcZlW3Xo3Z9zrhk6Iy8Y9P3xPRxD1pwcYDd591acOGaQzW4YqptDA4VxYfC1m_5Oh1qyY9ZM7JUQAESG219-Q-kliwUryN95_r6ySL-0JDA8qEWlmtG51XYHxR_UmegyJ9l6cU5nU8qzyGKj8rKLm7rSoOHbOLmwpsZCYO7RdDeYxqB16hA8Z_88mUuCm6yoIDKQ.jpg",
+        "https://cdn4.telesco.pe/file/n3RPQUfwrMHv_ZIT4S5X9AXE-cbXbWniPGuNCy58cUp9cEABLWp9D-eAmKwETVA54MIf_zSL9tCnAsHKTMtcbG2o6e0W36R3doi_O_A3ZaO7LMF2AFagBiHxt7RytKv1jZaqAVafnfLmmi2jY7XU_hevN-31Y7oHBk-cPwvAoDBxMUQhK7AgzNCyhtQW75tM90ZaBEzMhSBQy4yLi_KnaKA5uNg805TBP80evMSzDT9Qfsfuej8IiXVUh8Ujq0j1ISyyevErO1z_xhlIGbuvYnead51A8KwQ6YgyJEx4_zyjJYJ2lMHa5jGcrx4l_OuA6wD6nfUTs641BaPjUzYMYA.jpg",
+        "https://cdn4.telesco.pe/file/RYqZI4zulZPQr0dfP9Ly7J0LOtsiiCGmVcspGOSLlzrZ-9EOEdWnO1JglUCc1zTNGcnxKMXvxb7Hw3EFwFzzrZdAH5YeJQNs1_HEvyZncAuUlDzS4AW2TY92KC_qF8Veep3IP_wSynrVLixSFS1qy9v4hPM1i3CXDZhPkZUDnn1eY8ri0UwBfD_2uzC5HMa_5x69YblhstHM3yQRXoYAjrHTtx7a_imh_lcC_E3DO9Xj7FjMbVfThPEDJ0uVAuPQvuFlHiheZbrODstN5dZWpAOEWrPkADs1RNSJosalnlnTU5Dl8cn-8lYc0yWZjZ2KzgopNussETK2rDKP3-So4Q.jpg"
       ],
       "videos": [],
       "description": "Той самий бальзам для догляду за губами, який підкреслює природну красу, підвищує захист.  Живить, не липне, робить губи доглянутими цілий день.\nшвидка відправка",
@@ -182,10 +198,10 @@
       "title": "HERMÈS — Mosaïque au 24",
       "price": "550 €",
       "photos": [
-        "https://cdn4.telesco.pe/file/uTUTDYwaV7Vm1C0j_2-lQg6EJsk9yWKZVB-TtSGWCy48RyGK9CIykG0MPYrpefVEC3ym9f6_FxLUv0UMpA-0HnB5Qs8fkkgItzIl9O_O6H9xdxOg-UXtifp2YwAWDFUjkIoqpZdZ7o4K6D7BsCL8-EmpjgFBXJS-qdbdVg9_LgXV2M9n3TbM9BU833Xvg_jj-uiSKZ1t_syADjPyoBCwyGUMHJI8cwkmzHd_wdSfrg68TguD8fhXILU4ohrZKb5jTKTf_X7I7Xqh58f0fyrsN6sCiZ7tjgeNgKLmYAmrhvL6jirUQIHoSDccuBDpXTTGl6mMMcmJIJ_fg9NRdK0e8g.jpg",
-        "https://cdn4.telesco.pe/file/vChqRG8M9cknL6pbLbTiKoraDRlPGcxExmH034SBISVw-iu15NSliFdQ1L6I18Z1i2x6lZX2T0BJb-uP8h3ZcDas1gOyThbY2eB7-72csQlRm5PSXcMv-zDQ9Jf1l_f0BLhKag8Uc7VGLUaS0euUMrxXjbj19HfMfvwV5bflBcsW7ynWLBcuaraFB-mq_GkwBvabxKEwxRhWAlswbI10DMoYiDfaa-D6FCMYP4Wvsud1EEEFEDJdwo6w6YllUcL_O-w0JRYsD89eeg5n0DeaeQJSRUUFAfApuIVVTMYhU81TQMSsg0XqbStAYBZKUbb-vF-B7yuUgD2mivmg4IUoNA.jpg",
-        "https://cdn4.telesco.pe/file/CdWAHpEAAry4NNomv8Rm6G1TNnYWdPXU9eozEmiWP6uDVuCwITnN5XCTojw5D1anAkAAknzFwqKrNe6DqLlpBql4x2qJWHMLQy6XXOGXYU415sRsH3nyHsZUMXrpDezur9H3LcQICViRUmUqbqojHraKYIvOzJIF-2JYC9kw7QwrTk-8siKZi6zn9TAteKrpo8fULgXY2MPb2_ljjAePrvKg4pKOX10x6954LYu42WYyjjXtOdsMeC-earNftQRdspO425L9NCjHYLNvJMbJ0CRTnBm2uxTesWN6RBbhi4Mrs_xYILv4D1a5FCRqE501G2raP-a2NIXM1iOnI2iccA.jpg",
-        "https://cdn4.telesco.pe/file/NEn8ltxSRr6p3ljtK6SNQopzMQbBjNx-1M0uId3d8-IIy51WM7COYXOEaLZohnx1n1fpiyBuV-UT-4m9Or4eFK4mXRBmLrsfzM9YurH3Z6fDIukOlXxufqZLGRSJRSSE3fSt5CkShfGYGkhMbQ_i-ZRoAGF8_Unt654SJjcYf5ChkO3s4p9YBMxW2E8VaVTLNH76lcXUMORzoAG4PR2al85UKHDpFJKTh4_ecgdo7I1V3HuACP-uK9cknIJwzTAkRZi320jPvEIgj6nuo6Sg-Oxkuk4vsT54NscnvP2zf3hwt5d4iIyJhMUuNB72dGfJVkxo-6EQIYDPL3PBJGTqTA.jpg"
+        "https://cdn4.telesco.pe/file/rumkGdkyyK1JquDOroDWbUsfIQYMN53vLRBiteUFgpA-izkf7-cEScY28UHpYt6rpYJsiFLKS2EWphFVyBCjlvymdfh0gkVLNWx2wWnk_RA1M7wnVdw99EW6kgQ3CysQKIWx2l3tE_yuL3amJfO6Yn2INTIn7w24L3sige981J_Hofhw3F8l4vFnuT18biXsSIier4fwl__lqDOkf_fYkP7KIpDuOPlfz_Qwd0OeCfuJWBgluR_oRt5WCxGNyxwrgnqpekUjJYvSUX6CnlMASxpWtqne4WaHunxWzzDhdeve4DrezTMsibXjWDMrezM9NtgWBwCtt-7wx3QcJN3qiw.jpg",
+        "https://cdn4.telesco.pe/file/nk908G8aFyq_0eeH4kO-r30FsVFBgqjtKXpxD8bBkqa7IZpSt_vJgG2tyNaN9gd9P7ck4YC13yrApTJSk29XZoQUwgilXRnR83EcYY3HJfTrVZNMbnQKochKFu00M4Opm7jlwiBun54U8O5kG9zq7yhjGg4vLxlkPD2zffc43DJktmjn0IsJajclAuETCk9hUlP79T6gErcgovMfjnP_lU4FmQ_M4072Usuai1rXsd-vyZiVm_EF5pDYo0uE0WA_6cJXzmB8FTi3foXgvy-a3QTXr2m5dkSXIaP6AzCoAIHbLMrIIXfa5I7X2sJO8bTp6HuXDpa_yd_EfDnsmZgejA.jpg",
+        "https://cdn4.telesco.pe/file/a57gJhs9bAk_Tz3K71yTzJRaclua8znkISpUMvPj8zR5M01GuaAyZLruqEo2Cl8bDyT5b3UopEl6PNnctNUfIakWz3MwzjjPDB12IlYTgYiPFZBFRWrhWCMKZXERI-eSUDwtIqb7Ln7LnWztUPa7sW3Vs7UigM_i6BRtwGSnl3pida0bQt9wi4c07Rc0j528nDBMQXG9Nk2IfwDTLEj5Fr6yppP-UND5oc6nWCF8LbGZYZ3jUfKWz6jGnxiwkamhJgOuje5naKQ0xElS_RKd9T3SG0qZlDbKtwkdJnIxViwDlmpUooms5QnFDgX6EJAuOaWfJg26MxZNCka1bJIa9Q.jpg",
+        "https://cdn4.telesco.pe/file/Fqa8bVsXs_tv20RVQY_VfyJfVIPCSnjPIms8bvmAKY5XSdA5RadMTrU2sRKmg_siLHI_QQqhcIHbrZZ0LQUTFzsGDVhNCz9cDPY1hb7MbHOCrKHWj3a1MW36PWc0TQ03-VD9WXrH_WAeZURY8CJkTHdjdHZ0su11lrb0y15VE-faUWbcsfCwhiKGpPWeQrNHIr4lfe5gap7sy5I3EgVpWwZfVBdfztjmFamOr0P4Gh20SGKV45O5mKYRFXuyZR8zzPjC2DbACKbaTWck6wm0kfLWXnoMmAarHVunWmFV5afh_-Zo8_4LeWSvkSuumzz7voC28j4nvO3aTiQIwFv0lw.jpg"
       ],
       "videos": [],
       "description": "— знов у наявності\nМозаїка легендарного паризького бутика на 24 Faubourg Saint-Honoré, платина нанесена вручну на порцеляну Limoges. З 1880 року — тепер і на вашому столі\n2 чашки + 2 блюдця, оригінальна коробка Hermès\nшвидка відправка",
@@ -199,9 +215,9 @@
       "title": "VAN CLEEF & ARPELS — Vintage Alhambra Pendant",
       "price": "3050+10%=3355 € у наявності",
       "photos": [
-        "https://cdn4.telesco.pe/file/RUI027gXJyG0zXxFIIa1W6m4GFkx5bsfjI28mXoRNv87LpH9Gs8PagWMH79YcMC5xl-tTKa_khqDEiAj1hjll3JGLS4flOpt4EFLB3m0A2LEnjKn1eafXwOj1w3Rq2qS1VPBn0TnVIFbC4VDpOz_s0QhysI0CI8HeEpDiYP0I_b5jFyL3RS1GUokPKQtNflYn7QL4QiktdtFCUIyKq0-pof22gK0MIDUEZ5z3hn_U7WGy217qFZgmc_hZedETsyfVdS3OWodkDCvIYHpi8oD8nnf1WyzhsY0wx_JeM6YQa7xl57cs6-V2z1jDU5FITkSMMhOFrudCr26m0xnLxFT1A.jpg",
-        "https://cdn4.telesco.pe/file/nDRVVnPoCf0YbqfAq6rutmT-4t7itw6j-yk9zUsFnWjNT4occy6inp2yXcK0pkYd-83TFgzUAvbyaaNZNRWVAay2lf8gIyTLToSFJdEuZRMANQSwv6zum2HVrDxkk4N1ic1Flk_qvM0HOCiuv8Aoo0NwzRW7QNf5f5I8zcWCHrx7msEapWzCwxJ7hQKhqJGdKTv1QFKuRsHRIu8cwQPh_QXhErlWXDgYFMaijF0rVlNCUB-Wq7Zw7c8NmQIThz-raH-H2Tq9ouHYLkN9lEmV4ERG2bkW0kvzdFPDLavibzA-3OowFjQjzrkt6MkmZIFuUvUA3L2B_BSOp5W4OnRcjw.jpg",
-        "https://cdn4.telesco.pe/file/K-r2_2cjC7IDVQNkoQ2DlBPU48ATSF5h67k7fyWZto6jYmtnwiFkpNjZ-fpwaSfXyv-ucMFJrDwmFWSGrNNbJm7ETw31S63ehi261Z1lUxxAjMaYThIXv-O9oUS36GlCRNXuPTi2vA7UFsVtM59_Hj5bp5VN6ooeM5xBAqV4x-O0FJ6XevXluZOYiXfdxTpKZPG0Q67P0QeadrMVhMbM0VwVK9ZIwCj6LQYHoZKc_LyLjSXQdNM7WpN6pKmDjQ5u_PAv1K-BBX1HT8hC1njEW7h4SF1P5P1Ol_qUlAuQq4totqKgOEqncVSFJJjIgDF7vuiT3RuSRMDVebErpTf0eQ.jpg"
+        "https://cdn4.telesco.pe/file/P4z2PpvIoBbp9sfcl86PUJJhPIRCyf0aIebmp3_7CyWU-sozw8lH_h0Ypw24K7wsYjimoJm7cr0ymQZVEs0c4BsWaBsxv21D0vHZeVq3zAcFm3AzNZo4IZ5gHThY7SAyQL3hbhondvSifRMUYxBJ39JTIjBB2DvVq_bVCdz-TX9os7tFfH5vAzKOuxMYZqzdEn1wM__ADZf4lVOVg-USrJBLn0y07BMQNTn_IyLPo9TpUvB9j0auHMQA_KNLNfAb0IRJB2N0-8WNi-CYhaJZ_Fx33sZXZqv0LxvQxt5CojjiD_pxq1myJkQfwJRJEl2pMy83HrhgN-svvPc25xA9lg.jpg",
+        "https://cdn4.telesco.pe/file/dQLnf-6RG7OidWuQZt7Ly5WXEoJdS3V0vAMbLgO3ZSiMAQMDJzr6Xqrrj5XjMpZeSPCT45BuDomZnx5-wZqx9JWw_trwsxsFhGyyZNLMDSQhaWDeFu52aVRYxXMkF0YQ_cGyeNur3SHI8ql40ee5ALQbJ-T9M73JG5nbcRDjHcfxolMOOp9ivwmocQWeNAhxcHUlazYuLNKXZdRm63oEvdytbAbgBG8jOKjFfHR-WjgyfjiEBYw7mTFuExE6VILnHTBQ1DgguUNwzdJTnGdBjdar_Ip-gqhOdJLJGJ1C10fIMk2NRktkjvWgvgtVDeU5TbTxLAXXTc8I1hzq7fn1rA.jpg",
+        "https://cdn4.telesco.pe/file/jjo0e1nch9ugq0MfENLppFstjCyNqRkpcgRbXKo9OBRkdCXQneaj8VxFf6ev0zIx5QbRcgDcsY3zdaqx8OR3sde2HSr5aRjiD4E2kHwl9GKkggxplGRhn2RtquMx8Y21z2PcBdpaC3-5XLHjuhnTxooaBPkaaLmWJkUZ06qnGh3FriTJsU-nhxNErkB-uYfxnMUk-V-QyxovQUkYZpEnGPcavpb1jjh9RfktPSAddpJQsgqopBDHd4UjtKxkJDZDkHTrGrOmGRRDiRCaUnuh2_TlVM3ClRM9qZsXhUOLrz2ToJglYOMAyZs8qwBNpzoSG75v_YTvhEcGrfcc9ECWtg.jpg"
       ],
       "videos": [],
       "description": "— той самий кулон, який носять Джиджі Хадід.\nЖовте золото, онікс . Легкий, елегантний, підходить під будь-який образ",
@@ -215,9 +231,9 @@
       "title": "VAN CLEEF & ARPELS — Vintage Alhambra S-motif Bracelet",
       "price": "5000+10%=5500 € у наявності",
       "photos": [
-        "https://cdn4.telesco.pe/file/Dit2nhRsWQzL-akgd9NdOMLGZ8ljxWz3aBqYC-bu7vsXRNESn15SvPzgBKMMLpgqIXx56-qOrSgkBLaW5hPdVmKF6-vhXvOypdgjFseA0Nl-r5Vkmqg2y3fAOfZQUtSLHllsbaKJCADSSBZg8DiJKlEl3jAuQNzfK0g37gYvG9YdmoyhQ9UAECb9KEMqXTQUfVefnmc8gF19y3k--Oj3yP7lr9H7KgGWk1jSJQOhWXne0mnFLGima9OS9bmxN59iPHxHQh7dk06psbVVPdDUcq8FRLcObndBhiXL8AjdGbV-RTM0q2-CT48UlhDnwKULCZKQZO3jeOxOxIqsQ6EeYw.jpg",
-        "https://cdn4.telesco.pe/file/IlyunmuzPKvSv7MAflQo2E4tD7OGPcKd5CFDMaEqtVHQ-LT7vH6IqSWy8dRVyQeL7X10vY8cTH1ObYB4HbHvvAKdKELNCJdozumzbS8MuspE-j-EQjfozk_lAMv6KAhoc3fc3Wd1MHERVbzleoet02W-6Tj973E9Jc-hu0s7YIPv-HtlVBc6T7MxCVDCHGKHoPsAt3VseFAPSH12IwSNVEQUhGvgLPR8oHKm1ULl-iOR7qSHfW-O4lUuo1it1CK8NDxj4y-kI3hs497H5QysamUvVJpp7ZyeOdwf82ESQIQT_YZ89tovuHZ01E1EN_B35mWsOE0xiG_wSPYn00uMow.jpg",
-        "https://cdn4.telesco.pe/file/tk2BO26mv3a8JtFlurnUY9Rrvq_Lnepx5eORkt24cPdDPx4OU7RgIYb11JiV_eB-W8xoqRtHazDXM4pXgXeHE4U42r0sWzXAumw3ZUxntiPpETEYatYdv5Ea-P1XbUFw8sIAUX6ctKIpe39yqBEvy226YBiWVx7hvTcJCNPfODaKMpCmpWs8qOLIP4KfxSbgJiceWpirVOoDUtxS2v9Y87TzwBqXdejwq_ErjrH1fTkHjolrhMS5dMQpk_4TwDOvg8aRUGhNxPmVs4S9id_v6ykDcqratLE87bjP8pR9yCWKcqCAfRExmZxU8aXMsYmETejwDTvwpvpZeItylND_vQ.jpg"
+        "https://cdn4.telesco.pe/file/RNIqmO0uE93xdxWE-GZWNoB42R9kc4aGoUnG-qXNShHN1Kwdl6d9LRC91u9yW14guEimxpjV-xrKj8dHpphG88DEMpoKuWQXC2jsq2ls0mMWLuWT38hlFVmBYG5tvhJ4uDf3pLA1tmfBX6q7RtbIbZHrpCptL5h6u4L5610fmDzVMigl6RcM6hNj5pBZ6G6y_SuXwvBkAjXH9IU6nzVFdZHSMxXcrxIjpbL3pUmJLQzheMU2JWe9voxuxr7w_48C0GfvH-vywI4XJ__XGb8ysj2RzxNKIfMIGWN946OR2iik5pSLZunnRhlwmWD1bcyUQhobLvUe2-BzsbzhwcyYiQ.jpg",
+        "https://cdn4.telesco.pe/file/vIACKhj2jHevZdqjsszH1cB_7BtA8fhXu9pWvdlVeOgxxUYL9qmB1j0EKvLZ27K489w117fdl-BZ8bfLkbVcfq_U0_CsxsL2u_MYbYjnZsUXL6y6uxqHPYKoYF4vve586UQIwFmtabX8jIY_uTsq6k35MFxAMBOXR3ZUtBN8m3JJ6Y7SG3DV9p0t-li3UOSVjbEB7b_rXQWRAHDavIoBzIfjrqcis0NXZCKbowuLevNXnEC0ctCVs-fznh1yVaDOvwfC3-zFi5UmxhlkY0TFXjeVZ3nEH52Eyf1nwWyWdVkfwpOCACvmC0SpdcMnJA-GwvgCy4n4OwB7cXHinn9_GA.jpg",
+        "https://cdn4.telesco.pe/file/H3Z2II4GNREZM7g8uPzLyNFwjseoyEuXvPhfVjWZVI7BlGUK5y04FYltE4deDt0AhHw_CQ3K9iR0lfmZLl7f5uT8eBOXFhM1AlGUuVy-z_wcxdNgyY1WA_bNnptdCHY0CVjb7dtmaWPqjL9rqqTIAwD5Ktcp-dXSn0XLBQoOEyn-yCSvArnJT9F2hB2-mqJ0W98W-E6Q6_YIspvjIoWb4fd3xCx-dZ0TiKAneVVu1NRN8TaWjMaH_IBdAx3Ku7QNaxM4zWq3OOFT-Na-wZ4609tSTfq_LOmrrOLS6j4E7ukeqrPIxWph-xc9h28MjGV85EPvKmSB-iBglb8W0pwvbw.jpg"
       ],
       "videos": [],
       "description": "— той акцент, який завершує образ без зайвих слів\nЖовте золото, Онікс. Витончений silhouette від Van Cleef & Arpels",
@@ -231,9 +247,9 @@
       "title": "VAN CLEEF & ARPELS — Vintage Alhambra",
       "price": "4450+10%=4 895 € у наявності",
       "photos": [
-        "https://cdn4.telesco.pe/file/f896w-yK0_wJmbCwFIfMswrmJ2mlVwM-L0xq_bVSDCDbLKz6sBYahJ4sWDMwDUMYZ8ubcZpSQYPy-c1YjFlx_1uGaSEDJkIxkUdbr6efbQRe-GNoo1nIf6_r6dJ42ePNDEJ5fJXJQLhPGVoMD5bZEdHjrdXrcCF3RbMbUo8ITQI1ZrWsUKgNmGx2-2s1UHAYloIgXMUYfAbqHnK7IqWsxTng5rRCb_d19B7eTLrgZivhCqJronHajIyhYKjtO-X6iVL9XxLl-pjwitXp0DY6u5hp2yoaJj7HA9R2OJkLPPYdJzWkCMuESvRIxthoinTPwDnrYWDnR5AT-yTgrl0LPw.jpg",
-        "https://cdn4.telesco.pe/file/NqxkHjqu1Ucm08w2AZWcPSW1ly93p2WPn1oMCNApdkyWxtl5MVPTriW8Qw4A9KB4ZyNoD60YwwP23xHjJw_yQ-ogwwjZrvB4IkmXQcPuWrkheLMDE-rilHe4-2fWZPrjL_X9WXbVQ05NnXtoBPU4bDjZjelI7z0PwxJstQ8pszahDmbuO5jdSo66JPgSBDhv4uGT-759g3YlKosAfL-E0AK_EcYL2_xcsaxxHMQ0zjdzz-JxI7kagIHXNn5a5IMTi_sh84pZnTAOOoL_wywNwiWGmtJcgVESn_Jo6ExTp4WXBdLIVt1BxGeCEf6RMlbk_BKi-3M1Y4te8_lsR_8cug.jpg",
-        "https://cdn4.telesco.pe/file/EnZBh9Ogg4rsHEO-si_jUXt-8C4t0FqMdYrWvZClwUCT4X-3kSseXs-BEYsCzjUFWhfWLhzE9g5HRU4VBGLlDPABjODoj_eiMhM1zrOG13emvRCQxtLyFoFRWvif1mwpSGohAcopBcAcV36UW-EurkvuU_CD0r2m4Lod4okxu8Z01RoWWX5Eos9EdZ7jbKjWbAxxA40lcODjydHX7tLHJ31XRpqFhtBr3AWuqPhCKpMoYOdoNp4eO1X2TvYvyz55NY6Nfh2UhFie5dMsPO1Tos3mYq95ldqWIl8-Wq60fANDARYBO4z_LgTf-JmFXM0xIBLdGyHXIxAH7ocPTWKN3Q.jpg"
+        "https://cdn4.telesco.pe/file/ZoUeLH9GX7tmwCHjNedv4bPvxKVi7poFEXLPQ3RAO92kZBIdiTP_tfi2IQ4NANplH7M3tE4IYKEp4Vaps3vTMYxIe4nz2m6Ri58EulPPRrYFJg2gUcQAMFnYfsc7pNr75bYvqTrONsIeDrk4YGRMy6Gd54PZwwS8nz259TSufZ_121bEs2Xt3ppgKesXqUL1Rffyxe7-R3bZBT6yuagyZcFMmWdDdhWdGWVMSPu7ZZclcIuJwn04SguRic6-mzlHft3Tgr246Z0oXYZ0ZeVgrVbpdXKSkGo46xN8G5N1Kd_yqbra41QdOxHOqhEGpuiru4zjKa4xRHSVy3z4C1H0ag.jpg",
+        "https://cdn4.telesco.pe/file/DOj1CzRFfTw7pXhiaGnEdZNVukmH9EGZRZTpithN_PQVtvjanP7oPY_K-ZNRzciaeF1fnsyFf6atF1ICJ3fi4pDaurnI3qUXvb_t9oCzfub1XRvu89g06_twM6bf_fJECtAGlASvuNSu1Z71ricvOfVQ13VbuMNy_E-5y_Qv1r3rJ15nw4cyo28zHHoWqpEgeIxvPOEcfKK4y2YtrTdlc9v2z1e7SnU7SY-89-ok1uEtSS1KQtz18B2DqolklUXhDrYUeys-itCYBoyqQEnLK6K4qk_0dU9tZbHpsRDLMPySZ_yg8M2N3SofOsMhAN-H6mvga80tuldcoWU6Q5EGNQ.jpg",
+        "https://cdn4.telesco.pe/file/WTZGldhUZCtcwXw9ObjMJ6Glp2aRcYqrLhZGh9ZUeu22DrhmeqBawk0n5QEh6qfooJI2TzxmSJFNhjXlPo1wN9i5g86zgp6fl6zn-cR-WnrwHNiqBt-UqPXEqN60Hc9pMQVm0ukwWNMnUm506udPcnhLNklnxkXuHSnbt6BrhiS6nupG877NlIiDHC-vTCfhtKwZJCfbGYevf0dFdOrkPAC414L6NNoETv8wzGg0qOeaOiSSnpjXcNTQ7W4WiYsZmKzN-osLXubendrlnXMT3AjNgqGHtMz_Y_l523l8MUsemDoGAzOMEu00b5bzXSncKRvjZY76h47xN9z32n8Jaw.jpg"
       ],
       "videos": [],
       "description": "Сережки, жовте золото, Онікс — вічна класика, яка ніколи не виходить з моди\nШвидка доставка\nПишіть в директ — залишилась одна пара!",
@@ -247,9 +263,9 @@
       "title": "HERMÈS — Evelyne 16",
       "price": "2500€ у наявності",
       "photos": [
-        "https://cdn4.telesco.pe/file/YbDYlCFNet-82_ckS2VYdnNGGJPVVOS9_DR0jksD7f2WJi9qnU64OVYBt_25IJZD4JoJtdNZ_nzRS9U0I69l9rrFFKrmVewxn-DWx-SlFQYFryoh_WwNOse9dHBbgPxvRUfuZV2_It5RfQx4_QTliZvlhvUEdX5eNLKDF48_C9bJHIxeZ88O3VHlOoBcozAeYMMsEiqKaV2kuA7sGWmfNjKBrGsxraQqPPHgq-a1hkXveENJV-ip-hJ34k5hCfxjBA5lzP26WfFoBRkyQae-rCuOe8yPDt3i7rILkiSz0hP_KKxUmmsJvVlROOme3LFtFNTOxI4iukQIxuaNb3GVGQ.jpg",
-        "https://cdn4.telesco.pe/file/jtdf7X9K7USK9Wq3nnStQcNHRTTHt60vc9EraG0i0nAmpFlfxa-zxFtm4UB4mDMSXKm6-LaoFSUS45GSblE_oFnobscb_RxKyiuM9DVSGdImYJm9xA4f6jSXgjkjO744hqG4VuDY3s8O3SetyyuS2Pka_7n_yb-7MvBlflr9SgetTYvwbFoVRlvdpg_5RNzBYsUhYEmLp3sSXjDQ7STo-YvhvXGStcj9zF-ORkwArPXBkF62sRSF0iukLKFVvFdgxxVk4bIoC8YOoSvnAgZbsWBGypRvBHT1Fbxt9er1PgrQpAecCPzHvZOZyTXnlCdNIVvnQNdo_fqPAQBvWvBKUQ.jpg",
-        "https://cdn4.telesco.pe/file/n0tPj1y2awy3DjNW3huO1qlOvxMIqbWW3s0Ccm7r0i1Xch3OBORO1VbowXMYQuK0d9ofXcxQcDZFLSjCyRJoSAkivP7J79BAUydDroGNmzAIXm1FcyZiTjuXuEg50aDaq2jMlcQCU2tVHpyrXAV3o24hKh_3G32JEzEFlkoYwCTscI4queRLUIEQZB_vSDJ_ME2WD9vIJy-mn9jpT65BR7sdI2_OoQjfvLE1s55Tz6D53090le_TQZbX4IJt46nJ6xUbywgi7NnjsEyo0F_n74NIi48WDskXHraUwX3hlLTfFaJg3hcJ_fXQfEajcVkCXI7tbZa51889NpEy7M9fBQ.jpg"
+        "https://cdn4.telesco.pe/file/MviEyaCrB8dZzF-3Z4VZFhlpBEFxxaGMyfSuwBgnJR_iaVhkKENGBFocWlTYJMi8yQ6jaKfrNgdbGi098RZmaL6krm19IQCj7saYQWOmEdwacti16hcuE0MiQVOjgenXqwu_fvhZxqwalqRZ-pZU2C_9IEzAHuOdbUPpYE8DZYorxrOFa8wZKmvBZpNvtd9_OXCdaoNEo9MF01iZyj3Rx65eFMtqll78WKhqkKRv6bkqFPKBdinvCW-vkFZD0RkCcfI4bjA9ObrZnI1esOAnprnClA6QyDMDsf4RwWOwa3GD20p35WlYWfMZuV8VmdQVbWR45MnCoA375bs0FFN9xw.jpg",
+        "https://cdn4.telesco.pe/file/KXIhh5hrZOvrHpyLHHxTCqRik-zEM7zTNmbq-30tOgCohRcN-gj-2LUMOzP1HqfY22vLX4nC0Z3AMIu-qWTyyU7Z0qV70wLKL-9fOlVMtRsAp1bqZFHOZezzU7GTO9K101HPTIYxDF2S9KsiFPjPd9QkNrZ6iBHFz0AveTTe9JaHHAdJ25-hBVE-1OQO14n-ZKNcP04ZpGJSXby_acShyBOYxcXj5yC7-9BpxlrnaLLspvKsChs_R1xRcfQod1v_sSSX-EMiOZL0gRxh6mz5qLKuOWs2ybtpkpa4jhDxcvku7Q0oqB0ehjAyQP8vDCrY-wdQ563J-whLi01NKwpAqQ.jpg",
+        "https://cdn4.telesco.pe/file/rw_G7gDz7SWublrwGyrgfFyf5N70dxoWnH9w_4zakvq3BsHCQ5d3o0DF39Uc71tjJJrJ044BrG0lfdxsmRm5rhNYVuKFpOPi5QCuucqGNxbXLi0rG5ZB3HcYhuktae2yYYt1ZgArfU-LjQ-Xkq6Rf5a3wxCN3nbQqhhCje1uUkPBcDAqb2cbWl6pu4A39hVcyZ4lia0Lny0MEdcqgDVCktSzpaYZc9Ugv7y8dLzO0cX4dYqWzV1D4xABeYybEJ5TZSyPjjFX_LIgkpi8-j6097Ciy4a5KycPCj4NaM-sagbLrOX6fUWO46XoJnNo9h1bhrsfuskD66RyG9taURTUpg.jpg"
       ],
       "videos": [],
       "description": "Color Craie/craie\nPHW",
@@ -263,9 +279,9 @@
       "title": "HERMÈS — Evelyne 29",
       "price": "3200 € у наявності",
       "photos": [
-        "https://cdn4.telesco.pe/file/u38ej8FEgbNQqKsgSFnvEmbwYNJXhzo26THwjZLPZgasdJRrKdl4J5nYCMkhe-QlKZB8BdgWq4jk01dIY-kEKJQmd5aRyOVwpNSW7l8rirplxIeJzSoCnThbZcosMrhjuqey4vjvSNxsQzcMNoaWXAHm0S_m14q-spK-j7OZd8jZ0VLcv66DRnH5eXPBxaXgoJR1otySOmbS0Mp5SeTnE47Xjq1E10i_bWYbxb_WikiPuFNMzBkqkVEOBiu4icPt8glRJV5Cp8mLQYdkIVjtUwZuKSAarn0elzDrNlMM9BiEHZXH-I2gaEtwdQERwVGUErjtTQsJoGPfusRw8HOV6Q.jpg",
-        "https://cdn4.telesco.pe/file/l0wVn3oou3jYGdyXyoFBmkggvN576My8vmkgkkZRVbtccKhAUVAWS_Bacc4HoEi_jEpdNcl3K-E1_Gnk0dNAdv8JOUNLXiwFC2dCVTLb4kzuVU2n5SvJC-YgtiGzze6NJptIPCpmxU0QJTfWs-5ZD_yfOPd2SxOsaTLgxtpi1zRuhcy5zVJEq7vHdtEVI52rcF5VGlYDDiviWvCfL35lxKHBY0cgzoefqlYea4znGWNCJDgu-zSdcEjcKY_QFqWdEdRqJIrfR3DIRxZrlHtTIRCMkTLFVwYzLKa0TrRkjBi27_AOJbycTLWdBKkm1nVo8E9DwriaeNCufKW_7p6AgA.jpg",
-        "https://cdn4.telesco.pe/file/cN4vSF6pgOJXdv5nFk8qp4ALiQw5MIVkDr2lnA3pMIrCX16xhdsakyfwSfpSBIprkr0DdyINTJaBPLBYblk_LpwBcd6XtVjfkP_N9jsBgxWrhCRMf9j9kqn3Vwe2O9kQD56GPr3UYJZZrCRiwiQekSpZzManWZT-aTUz1ItfMuKHIp8xygOYz9lX2Iv6R8cauPw0B6YOADdKCThZLYgOB899bM6t5D28VzNEEVabS7r83ujs0swSu-QD8dxgxTigLk9Vl9eMvv3NOgmq0OSmFxDFsHu3BVvmpjceH-4H-MIVLRVr-s7pTEj4fvjxJnCOymHIcB2zaeM9AfO3irLIWg.jpg"
+        "https://cdn4.telesco.pe/file/h3Kpu2elvJV0FlEEW3x7aiGMNsWoA4g6C0zYHmDITb4003qKAb3Yb9_M79KD8j0mKuRNYP58Y83wCjRzx8rHZpkSm9evUdGnNZVLZz9Pm1jO9_4myd-j10ca_b051iVK-Lpy6hsePyvplvmeqU5H5dDTpEtSHVFpQTzfsmU2eyj1lUi8HXIgb7GSMYW4VZ2hBMlaM7KjopNt74AiRcVPntZ_E7SQrACLWtbrPxIluHc2zd-cD4t80WpxsW0g6sE_9KOHYX6rahzOLxai-aULhN1SQl1dDKaVVZqZSLWQrtmQvC4-S-s9FBw13LgR2WpIIEofOO7TqANBwLrdABi02w.jpg",
+        "https://cdn4.telesco.pe/file/pogvnuu4NQbRmqOWARfKP5ePtcmKr5SNsTUQYA6z7kFF7z4cAgWQLWItNg-fSasnJoYEO6GQCTqN-MVK-lOopBaKtPxLVGc0u-1FtETJHb7XU61ediKAXaRCakq4tOp7rdsaewODt7-AzuKUKh5L4J083j5LI9bqDovHAR91oi2BjUkcQUQStRCDMyZRPGVqulknR4MULrDq2-SQJbmF7sl6GG-NufPbob0v1Lbrnc-VX3x8UD5anwhfzpMD-Nwi_PpRrDSLNxcYy-jPzPX4SybjG1r1aK31Su7cdaRNqZfefnNP4-MfC4qdT5i72kPrQO0f5PxotyIwW3Ny3eAZEA.jpg",
+        "https://cdn4.telesco.pe/file/JJjdH5n66swe_7ZGQNdEQ4M3OICHxE-3sBMiYy6sndBGo64pCeZnPy4NGQ7sPl2nzLPi3X_oZLlr0Mzk3MFn_n7NGjtShmGvZYYQ3p9Aw4G98_xCSV4VHxbvAelFyu4xZ5xHws3uoZXinw7oxm9qIZGtqy9e3WT3u-HW13yVRlWnkAKz2rFGW4xQJRh8wXBS33jYN8VdQhbzJq1XfQfSgxddM3HDPNeheQ2DxTGgIRrmAnY6LzpotBjWEnx22U6Ld5V6fQN96qMsDPvTHd__Cy7RnuL5kIMlVoQW0wTkYPr5l8MuyPR1mqbsUYLU1n2OMJOKentxHBUfyboXxZK7tA.jpg"
       ],
       "videos": [],
       "description": "Color gold/gold",
@@ -279,7 +295,7 @@
       "title": "HERMÈS — Evelyne 29",
       "price": "3200 € у наявності",
       "photos": [
-        "https://cdn4.telesco.pe/file/ZcORpje5k0H5jr4SGUvdPHsOkKKGp-bgsYBgYdyJ_TlkItFAf8II1m5KmiVL5v5j5bL8ozyM4BFgtN0rY4wF00qwfM-Ruv2gYvypTBc08pNOCn3F2zWdbqWpKVOyZs4FB2RkjX99FYjWoHrlcSZqRhdO4b5GVZ_lnLmcVIw7cy_LXbssCyDXleen0QDcztERXO5hndpkxkTStsT3jmqhemjusu67dT-j13FlPNRz0lAOpCAa9wKBkaabaSJyFdn_cxqEq3nd-u-bT1SzAztDHqy90ltrg5SZi9831DR2FCD8-tyE6wV-HF3oH0GOKk67fIpcIREm8iJahzbvddvbJA.jpg"
+        "https://cdn4.telesco.pe/file/udlDm7OLY49WTfC6jctg9EZ7Hgzw_hiJCrUHdNjECJR7hGrUuNypEXwCsR9ifrO0OMG65MO_QyvubROP9WljEMy07L81osRlIlvx5U8hW26iznQyluj-x20uLXM_Bp3X31-ICi79jN4blildau1jnWjeETtIOfRTgAP5AxlOIO3KXI6z-KYG8Eg1l-yoIiDQYypf-590sYZKZoLeXw21llBpYFJnRkJjPKeNlncJBOZ3iOxXRZ-bdP4STGxHaH6yt3D4pw8w-yvus1H3t6ySO2RncnUJDwyKjCA9WlUk23oISIhVScTw5jyy2FWs7qIZBgVRxQ8o2w-9gcFV1jcyuw.jpg"
       ],
       "videos": [],
       "description": "Color gold/gold",
@@ -293,10 +309,10 @@
       "title": "LOUIS VUITTON — Speedy Bandoulière 25",
       "price": "2 550+10%=2805 € + доставка",
       "photos": [
-        "https://cdn4.telesco.pe/file/sFpn7MXQ2R3Pp1iQFz1yFGW6g_nj_Ex_FvEPuu0TPK_OqhB2_xxpcllTkDcZO6JmOKE8h6N2vGhix8U2kI35InTLlbsboDgAnlitzaPxDF_cESJRyoYyVTmnXneRn4fG3iKChE0I0hc5tRjpmeQY5dqhTpONrLtzKJwuEtjZDEXEk6l37BRme6o2ic0OKWJk2cz91jYUbZnKXYwi0CEwXdnxtX_MRR-KG2KBBlgQKhQ0SJTwVup6NV8wNMTLzpobZrGXmhzhDhk6gK8TlqBxTXOK1sxE4AZ08qTZzAdzSzUCh6XHIZIfbFF2YOR4fPEIGljXnBQx9FzUEtBVx_dF4A.jpg",
-        "https://cdn4.telesco.pe/file/H9NBVbbFeN5yaiPfaY0g9YcqZWxoss46iSilOila0L3O3fp4MaDf0N1f2Pnd-UbAkygeotDgAOBf_JlCnxtyuE3t0uXrwr8N5Xo-dlAyuHDFTMythZjQAQ-G5N_FHfSEwR9PPZ24EO3lzOzRe4XwQ_xoK3SRvfOWj6-vZrRrv5aoSwdF1NkH2TMI5pOSrmkJgrJyz1V0dL1V82Cq32ve-jKn6THiAH3F4Q21MGeO5zWXDBEdvzfsXRpwCGGjOvkoQHzi8rt86Wsa5m9zXfe8Vr_2R-HRTReUhx9rZEfwKCsSLsGZyn-9nuK3Ye8faH-Vmn8uS4Bo4lwZOUx_PReYdw.jpg",
-        "https://cdn4.telesco.pe/file/evpSg1U9XA4SLAPFA--yB_CPEw5i-xWdsIStnpn4WxT11tRaFrp31EmXU47vSCycct9mM_ba7-26tYB2-ICWAq1QdJboLz60SxZbZPOOW9suPv1OSAdOzgIt2sR5c0kLQ3pwJIy5-f2MbU2iFuyO1qDGRTmyHAD0-1T8tdbSliCHnVX8RjKlDKvr-aOIPAD_Zkv-3r0-Kvd9Hj61-KhW0Bc1tdaRQKHY6NoccfyNALiyPpGjyM54XQBHeFwnYSex4H9ooDLIPCGnIrwEYEPhnj2q2pHnPyUMcDN7nd_wvp2z08jpPefK4fV2iuOlR5Pxl1i3sRkqSiTThG-njNJGcg.jpg",
-        "https://cdn4.telesco.pe/file/iVFa4TwhxBNV8DOgeCzT_i-Ntu2dQGU4hD_DkhhfuPJRn-2kn06PNLq7I6vCyP3UO7i02JVc-xzE9vSJm2b48q5ISNbZvxvGBAv74JEVzpApYhp8qow7RXwBoG6t0PrGyMF9X0U2fgZzCwM8u9gg83gw1La8ExwoEmu9Mz2uaYzVUME2-oLYoAxUtP0iTdx0L7qSQRP5FUGYdghRzoubO1wUC8wJ5xbmHN2d4dUm4lh0qGq5Hguc00R2dDSZl2GRDgNOUJe6LdJs8Voh1Nnw8SFjWMLpxkiq4euTLjT9T9JPVwOc5wCed25FbHcJ9hqg3PNRW2Xopl0tqc1laYlsAQ.jpg"
+        "https://cdn4.telesco.pe/file/R2TBrBgUgIUawB_OZSH7fPG_fo0p10ONOAyIs7_nFAggFJjWQsyLeDSIsF_oNQmlltSQO8olZk0cR3AupfYuCZt2777a0tpsfPfU7wjyc47MlNercMkUCsuZqkM4pKlkq96MbH6RRaw9pTdTaRut7IWPbKQo_-MabFSyYq17HtAQMo89bST7lBShEN05LJh0jGwy5iW5wgJg4UvmLCkxYrRW_ZE7AFerFS6HDa_ZWn4vRzJctAHjjZaaKLtFtoYUTTROFeLotiDpB_cEO2r2pRjaxr_D2XIsPVDBKNCfHMdi9QnfjxtYwYPU285_mdYjbEXa46_kGpslVwNuhLVyDQ.jpg",
+        "https://cdn4.telesco.pe/file/ANOeyPNGrg4SX0Rjz5JT_uR2lkGo-D-pHc4MRHbE6hrpGipGj1FxV56MGwdpYVCzBLQ5DRQ_XzevV5KdFORj2Q3L_BXwlYZMmfSpct5Zv0ap3RkuZRGd2EydBvB9bDIfiBLI-AOPBycul12ybvLERY7ozCUgDE_-avSedBNr6TWBm4Sy4ucSvU5XkXGQ3Jp0sz9Lh_ZSQrF7p9Ny3LT-zboVXUYLXcShwmYtbsad-miUoT9GfkRt2ZtBzelwPJYMqqjcwsv_IHUGGiMnj6KfauV8Q-OWm0fm_aFrFyf2TPRGyh6jnS0X3g3W1SNyUBzQ1JqSZxbvRUECqcrCdP5UBw.jpg",
+        "https://cdn4.telesco.pe/file/QqfhwgIpeEOyAPFdQ6hko0FCJLnpZ7MnXIT5cXjC9unnFwFDw3D9WAVcCVJQh-421Ru38VsFj8n1pQiOzsT2B4LJ9317nc_2xySpdTdPfE8EBIIWE0kvcZ3OJilpN01yWxlAjKoGJT6Uas0gfSEG1qszqHj8P6uqesD7kKdAm5KVcSnpPk2cSs7B6QJRKi95hDbuF9Ws0nc07dFDSs7vO4f9WGqiP-u7WP1RzDFCI8xEpc50m3r-fvVOC6V4n0slEWxRCE5sKWieiSdWfLtBNpYrxKuQwH49fo0Ej5xO9wdi2NLBMvEWUZQURJV_S__q6vLSCmBAw-vZSFkJWsJqcQ.jpg",
+        "https://cdn4.telesco.pe/file/URdKecKQJgAzTdVC_B57PtwsOC1-gz12ust976-69fIvIC8m4gkKNbjE_ueH6-pfcVRm4Hg5HtWTNmsj1MaLcuBz42TYlFWny737lH1PDsdGY67iyV99cWvpKRjbh2IUwBiTBc6n3E8DK5ARexyDSJT6yKLLuNxN3jvOQNmHZPv8Kz2dgc6YIFGzODsfKdhXFKc92QM_u85C7oTlRSipEaZmn1J74Z7PJ7M7kG0XBCk8dYtQOusmA5Vn74TeeNtJaHqG46xL9gYXD_lv-6zAl57Stp9uCgTpsKNmO6YNzW5iIEjCnJOHMgbR2qL8Acrf5Ic8IzY748GdsDA6x2G_ng.jpg"
       ],
       "videos": [],
       "description": "",
@@ -310,9 +326,9 @@
       "title": "CHANEL — NECKLACE Long",
       "price": "1650€",
       "photos": [
-        "https://cdn4.telesco.pe/file/LCI5tvbzxFIeBKnXbDlVOuWf2l3LWHC5BxNsdAIslr_o4bcEo8_MdUB62M_4id0GujQpnuB3W6LGnrnhP-iBr9eQQjSVsjkPMBpVus03hWP7ri8z6ay4Mr2hN5tIPx2d05ZKDdJQue-hkNDppmMF9XETaOlKEKLfxTVX51UnPZM44_Vu_-uGp52Z8J2rSRXZIvfzJ3LgmB_KoUDMteeZ_nJ9LsSmzamBNL7WUlCntZAyR_EtKOu3jiUOWs7uE5IDs7kjVNE_uGsLfgCTR0EoLc_BHNOvMRJZba8DPw6o4ozFzkCa-HtLF8_9-cwUJUR07Ml8m1KSTzrPT05WKGej3Q.jpg",
-        "https://cdn4.telesco.pe/file/nK75_3WAnEzsslAEBdpRRmSQfOB16C3n3aNDo3Kxek_H43hsc-0lHJSMjT8bPXVU7X8-_W7cOYpMWhtco39k97C-ewQ73UazbcNPany5gw2l2vZg0XAYnWav4yX-J2_Df23Z3jM4YG8AARtz5V74x4f4iRdpNWkckIfjA7V5HKflfrfXQuKMB_GCY70C6G0Qjm--RDwUuftKOwhxlWYCnBxdbD6tbssKsFGpldKtkxl1zEZE1eN-7v_NASjkvTfIzHs0XByJqRYRhTZlkm5ccpYYuMkfx3eepTNCwUfAnpy-tZ6OijmZS7w3sKoBh1EuXwQCC1ljSt4nVsj3wKLdTg.jpg",
-        "https://cdn4.telesco.pe/file/OMQTVXfTyaUsFzdERxi0W50g5YSLd0_ohplKlXkHzfVr_wD_1rVPuQIARM3JCFaZinPzJoJrfFdbNopilL7oQfjElrsm9Aagoidpv_AUqGKris0EBq_R7PZV6KsxoI9NcaJbCulG5Rd65bU294Mk9nbWxX98LHc0ZJZgLrB4z7g1vQJNppcBwnVg3Xz09YrM4_Swed-8DUcZlUOJmcXo6nGaqioVxJrWVEpEfItSRAVMGuERhjBprQkT-xYhXvT113S0wsUm8bIfNO8Qc1SHArozTkmrR4wKgUWiIKRhTSXwHymqWVCfmJDPc1Lv9zX-6V3MrE3Lck8zIYChKIOqfQ.jpg"
+        "https://cdn4.telesco.pe/file/Apy_hhD7jf1_zRa_QmVRgUYj6EMvMWpcZOjz2g-Fm6rLXFG3mDzauydA_AYyhtCRkjBmLmJ_DTfwTEkkPH1pqBmYTdeh6Yz0ty4SF7I9dI1Z74XQOowWLfs8P47tpIJEb7jULl6kbuhFfLzqGmBhNu6Kp7xhuaiIyaPXWntc-WZXXfK2WyD7pADqWhN--vJ0TvpBEqu3De9ifm5uN2d8mpNQ5Yxivs9FlwrIeiPweEth9ZkTdhsvsS1gQs4bwNgjOBmzddjhO1yc2hvIxOFVuTvQBUBeVyJS6w3tEQ0RZaZLs_CtJpoWbFhIeDjMOZKxfMVBc7VG5GHFOMcnBUizeA.jpg",
+        "https://cdn4.telesco.pe/file/EYj-T8e0Yhfxu4SsS4KvCYS5wLljoTIBeoxucHlwbt-VAyImsSiSKZ9BvFw3AIKIUvNy-jTXCFSxUOjgmzZj1dZISDD13fEUwSDJTNgMxRKUZ6hWdzyauFyESMhBx4bxo7yJE3GCj5rGc8gcW_X834_GWr6zI1msvWrAGk8n36QiL8u-AgJmgqWBKR5scdY-25EbX_vG5DDLfTzicpkMZpn6TDUoD6v5qEXNzvd-1u2T_bgrGL6We2IPtq4xsyT7FODzHOEoLJUFmTazOOH7ppt44Dz_z7zRMVHL9co55t1ZiWeCcGXpUtx4yikabKhyOWH_-Vfy5YA5YOnfmZ-U7A.jpg",
+        "https://cdn4.telesco.pe/file/DStW3rZ7pa_j95SbX9mP0g5rkK9M_StqKNrUEh8HV_N5tZY_JwcOi7FfPGnqEut5knHpkaobzCsoX5cwbMO-KG1cpEOkIrTwkMtLNvXeXv3zUw8pCvx39QYrYz-5RT6BP74nbi3v3m6UfFVg2zzutv_qTJ55MCLYIWEg4Ea41iJf4NnAQ9A294rP8zxzVp9qev5dhuZ19crFj0M4D3a8WW-pa3sRsxRg-laST75R1WwBdkhTqpu-59delcb2mL2WcrfPujPYM86hjEYA14JSnNnvRlV0VO8Nd-jsxql3jBFTmHpTF2yOLJKV_IhMSE7U_7ifr1GvugFlQ5lQbBPdEQ.jpg"
       ],
       "videos": [],
       "description": "Spring-Summer 2026 Pre-collection\nУ наявності",
@@ -326,8 +342,8 @@
       "title": "HERMÈS — Chypre Sandals",
       "price": "1 050 €",
       "photos": [
-        "https://cdn4.telesco.pe/file/ggibY5cq36cVKRFm-drf1dpfPvlRjDi_5dEQvJOLlApeJ112--SmzGBQ_b4r8UH1OatgfdESx56kBg3Xd1SRxCb2fjntj8QC5-N7mpaIQvJEnbCEw9ZZ1Tl8tgFLHtVjjIxZrJnwAbvKAKLADT8BsdFjA-ETQWMc3lsMlBihmo0jMp_upQ1c0EPUmd3ungIXhPfrM5_ZyBqdsJ5GymH4iTLFRMrKFM2ZsHr1AQ9L3BEqLSjIJDNp63bwxNdq5YZKbN8Lr0IN_GeFpoGwKo4E7DOn9n2o3QQUsGobolxWWsL3kgGcyLsKxTdXecejgdTHw8UhC3gns2gECcsLF9thRQ.jpg",
-        "https://cdn4.telesco.pe/file/UTONmFsG6j3T_R-cfKgrAaxa7RJ7VnGlBdmyCtwFVZONE0mdpLyw3IVwhCTYlJbNz4DJAN1GEhuJcHA9c-7I0_2_TZgFPzmaVlLQf78PGnj2j_jcwL8mHlZfdYLzMwJ5R5cjMHVvFN8Mf_8zbs3LaQE8rVhcGYMBHqDy1s7iNGjw_d90Fw3j3ihGn0Waz_kjG8S-3fqIWWW697dSbNwINQg9BdSCSYmtKhEDAERDD6LU8hwbsBEMTBhu0FER1QErP15aRZZaJSdq_zhT2ygqYN7yi4fg635YI1yXShDQB0dUz8bAXj9XD5WLfOVVKjruRWIavhCR6N0_yAXmZb0ANA.jpg"
+        "https://cdn4.telesco.pe/file/CgpA60ETHikLKU6lIwSspmaE6tLWOAA50pGbWHDmH9cpEb8BtBLYdnCiPe_rPql1-lFJNG-0tnn6C7eH2mERK1pRXKgx2vE_lpUO3hZs7lFDXwpBQeRs8Xe-4O89_lZxTvZ3GUTktDIcK1BrIVPcYRcP8YptD86y3FYHpjFQLLDoUIP0Nchz5J2sM0VdzgQoV7ibYR0gJTzCFgKdGVqUV7XZ4dOHdWnLi0Rt9-qNf8ToONwtNop5RrUehkyeAsu8UqLnIvsovfahFJfzFu218xOBS83OgpVMLvMgVNb1ZHzIQNcOmwDPy7sBdaOKijBN41BXUycEXwnhHKNIFQ9VKg.jpg",
+        "https://cdn4.telesco.pe/file/e2barR6F2Q4oxvx5M6g9H5VfIgmMa5Lg06KLblaOZT0VCXbf3akQfPQk-8QiXgW4h9KP1crCfAb7uIMBJdBMwn-lf1S3llNG9EjPIOpSfvp7-SK6xocUB6n_zt63WoTt1pEhy_kvH2fkaslSPZ_8ehM0XgCoxvxuQB-XIKx2Wt-vczjpwOtgiyZoUS8jsBFhVYBAInMdQcRmParz9zun6cZHW32wGJIyziCwuImyGj88kgk04LGhGtk7x_AG3z8_dqGMqAxBJLlDP18xoJHPi52x0EZMSHW64BLymM2lWsxAkAkkJMFoNm0-nvQJXbrUCqHOAi_zVm5Dccq6k-1Y8w.jpg"
       ],
       "videos": [],
       "description": "Колір: Noir · Розмір: 39\nу наявності\nШвидка відправка · Повний комплект",
@@ -341,13 +357,13 @@
       "title": "HERMÈS — Kelly Belt · Rose Gold",
       "price": "1 300 €",
       "photos": [
-        "https://cdn4.telesco.pe/file/Al4Ab4XRh-Z-Ku2aUqosDJn-5yjDhYMggXTo4U1-sFzDuLMjgDdd2M5bkk_UOFm4WvnqVqXshjX3uSzyEkWneK5lwZ1eOu3nk9WSFKHo8fThJIGJM1BwPoA-N7LEUm3nGRY_xV0a51op8YKHjwu-TYH0LHuxRbn9RVE_flA19NdhegUxDp7h5dbbQaf2AxzsaIBUJ_owwJ47HtbiIT4wlg_NgLhNAtE3YXeSe3dcKATNcuDaDTJ1UczxVT5Vplp8hORKX7kfI7u8gvK0MbuU6hxklxmxaclSexzEnjwDj65pCUi0lAEPoGqAXGMMz--a-mUxWV2BFOvZBmWjUgBsqQ.jpg",
-        "https://cdn4.telesco.pe/file/OfppBXg3zA0-dRp3Z_8ysdn34DEMgO04vtGLvzEFhXimEauO-pUhuIJii3iL2qBAICZDQNF2LYzncU5GAbCM8WTpwEnx1jyIwCA4GPBdzLl3fVfpD1UmVeH2vuGWLk1WdQ5gHbOxXXzqZYtL-EmY2N9XoqhZZJCkXUN4QNZWQWL-42itbOerUUnG-xbHta1DMbBqYmLLbv9kSGKASYqzdioM-MVWAMHWXziRuh7hMghkbKLO6fWUlOhG0OUL1MglIoNZ9GG9tNWDtS_58Tu_H2HZEU2TQXapnNLpXng2Gz5cOUj9_PfgtJP0z5Rj2GfVeP12nvAHtnF2rCqcusazYw.jpg"
+        "https://cdn4.telesco.pe/file/BsX735ieCfcqN3pY203Gd4nU6zImDj7QSzLt4K76qwk_T0lq62paVmEn-bcJP0Y8uycpYV5aB9KJgBz8ZmWfL0VL18EIg1lnpWe-8g8cAXMsGT02Wg8j8IgI0fYKzK7TZBOO7g9HqOQ2KpTaagHpFUR1GpSHrzJNL7yGF3tx6bNTbJF8jvr9cvneDN9iWt8OgY6gKm71BRXQXXNwu9-lqRx-ULsnLWP9j7B_IitSPZ6o-Zwiz-kWiy0sJFlkqaDOztJSSPh0Ivr_5qy4xlRJXMVbHMxU5oIh_cEYet8WTaXNxPlRRer_uQgyMkGAKvafZO5G6eZH_LacGLZhXS883A.jpg",
+        "https://cdn4.telesco.pe/file/g8lK8y_d1xBwe_mBI5i9yVuuOePKMGUQu03VF0gztMsfeWfbLvz4dYVJUCgE7QOMLsCt3Gp1UhEGM6aCPNOiUtdlpP4iEnSmn0iLgnxe6TY2l9-fHCZzqUlT8REGAZEjZ1ym1tbjLoPODFCuaGrpaTTfnwF4whAcStcSsXvndQM3TsO7bCUflI_7APCUrZaBWV6R7F9orkE57KCSNXTrWbQx1WIfLmCAClYXWifdHLrh9uienevC1egKsPZqoEcnVMFE4J50lD545CeARNd74xenSk5me6dmu-t5hmvv_dKYJwH5PmGpSF_YHLXq_5eBZ0LFCS4lOubGApippSeeAA.jpg"
       ],
       "videos": [
         {
-          "src": "https://cdn4.telesco.pe/file/6aaa7b3b2a.mp4?token=QVoy7XhOlrEjagnUcKr9sZyOgU9qL2s-IUo_NBmehkWhHx0ZZ0DMJrbB9HCDlsc61tWBRY485I8lePcNvSm1gRabTYKjaAcO6lBPchFEAIAtK8fi1vYeQ6h4uoA3l3lHSeP9g991qer1iSM4ja0PjoetGQe4I-KYPyhVWGsP0CRjkrsvfUh_Xgs25XB6GC_VXQkk3Yf0UtvZUB8N6bihD6bst9dJwwfP_VLKcYdZC4WdD0_R7M-rarjVNU1F1UCVljPeKaX0NdPcS6iKkczMVjTdiXKVbLRrgggHURqk0OKN4lTBr0Zu281U0o0ouJE3SKO3ogqImWv0PYZOPSdqa4WOpGPPJgrUDPjvR3m_yJOfwRxPGsEpzEljmzYPM_ib305LxFaLPd8quvZ40nG9StDJNw4Nax8aoRuL-b8n-6oBPvwGr8dv3EhiyaKqNfG_gV9yGSa5ZYGah72x-eD3NdPOT5KFLz0rHzzCgVpF21iBWL2Mh-pu7emhKtuQ6RrzYc-exPxNBiFoTJJ4PSz4BcA7I0RbPUvvLPVvJS478EhQjqh_St8RHpk-3Wpaz8lMgpmY2V0l6NDEKTgkiX0IrwOxzwQ6jsb7EQRO3f6H6YGX2g2aDZYSErWvG97giqxzjDm64dEXG5M0_9VmmbDUMpm4EEasNpxSft6FvnJPxA8",
-          "poster": "https://cdn4.telesco.pe/file/Al4Ab4XRh-Z-Ku2aUqosDJn-5yjDhYMggXTo4U1-sFzDuLMjgDdd2M5bkk_UOFm4WvnqVqXshjX3uSzyEkWneK5lwZ1eOu3nk9WSFKHo8fThJIGJM1BwPoA-N7LEUm3nGRY_xV0a51op8YKHjwu-TYH0LHuxRbn9RVE_flA19NdhegUxDp7h5dbbQaf2AxzsaIBUJ_owwJ47HtbiIT4wlg_NgLhNAtE3YXeSe3dcKATNcuDaDTJ1UczxVT5Vplp8hORKX7kfI7u8gvK0MbuU6hxklxmxaclSexzEnjwDj65pCUi0lAEPoGqAXGMMz--a-mUxWV2BFOvZBmWjUgBsqQ.jpg"
+          "src": "https://cdn4.telesco.pe/file/6aaa7b3b2a.mp4?token=LOBn7437i8V7SMa4pI2fdEOPErr_GC8XhEu0bzBTP0pDs1u7_PNem5oVOU5lEZ2EzryA4GtJWO24w2BgwqqpdRkYKTK2026gMGu5Ij_OE_n2aE1z42vlUkJwVH5r60E69ZxGCiE9YLgaWR0WpkvRrePbj2MOYRpoW5OYIxj4rGLMJD5JfqMDHLkt1xORln5vsjecZdGXDrSy1pLSdRVt7lL6rsw0t5IqmzieCeBRR1lIDNY6BnOjJI07oOQny-x0ZAVV16luoeTXqAXhJ2kB-Txk-24fg6F2hPonj0w7a66tVEoXEWEZyYZOOgnzLC-WSrINM4O3h2LOBB6vANeSgoWOpGPPJgrUDPjvR3m_yJOfwRxPGsEpzEljmzYPM_ib305LxFaLPd8quvZ40nG9StDJNw4Nax8aoRuL-b8n-6oBPvwGr8dv3EhiyaKqNfG_gV9yGSa5ZYGah72x-eD3NdPOT5KFLz0rHzzCgVpF21iBWL2Mh-pu7emhKtuQ6RrzYc-exPxNBiFoTJJ4PSz4BcA7I0RbPUvvLPVvJS478EhQjqh_St8RHpk-3Wpaz8lMgpmY2V0l6NDEKTgkiX0IrwOxzwQ6jsb7EQRO3f6H6YGX2g2aDZYSErWvG97giqxzjDm64dEXG5M0_9VmmbDUMpm4EEasNpxSft6FvnJPxA8",
+          "poster": "https://cdn4.telesco.pe/file/BsX735ieCfcqN3pY203Gd4nU6zImDj7QSzLt4K76qwk_T0lq62paVmEn-bcJP0Y8uycpYV5aB9KJgBz8ZmWfL0VL18EIg1lnpWe-8g8cAXMsGT02Wg8j8IgI0fYKzK7TZBOO7g9HqOQ2KpTaagHpFUR1GpSHrzJNL7yGF3tx6bNTbJF8jvr9cvneDN9iWt8OgY6gKm71BRXQXXNwu9-lqRx-ULsnLWP9j7B_IitSPZ6o-Zwiz-kWiy0sJFlkqaDOztJSSPh0Ivr_5qy4xlRJXMVbHMxU5oIh_cEYet8WTaXNxPlRRer_uQgyMkGAKvafZO5G6eZH_LacGLZhXS883A.jpg"
         }
       ],
       "description": "\nЧорна шкіра epsom · Rose Gold фурнітура\nКласика, яка не потребує пояснень\nу наявності  · Швидка відправка",
@@ -361,8 +377,8 @@
       "title": "HERMÈS — Kelly 18 Belt · Palladium",
       "price": "1 300 €",
       "photos": [
-        "https://cdn4.telesco.pe/file/lo-wTbxl32oqjoZ5yXSRc8R64kCTQWsJfTImC11wtQKBD3QbQWdcdxC0yMDFTMqXRYQhIpISNTjgwNX-EpLhswhOocv5PrpGy85EnmYNup6z5HzqO3t8usL7RqBt1AFflPRiNtNPnKNXnXnELPqVM3Q270bSWJkM-96oAoyltTk6umdaXmiScwL_Npp6n0dpUrRfsMMALtNxj5sdmTOwxYgQRkH83jgbsbhjObnhO0WNnfXS_v_2bHotEQoG-rbkeIi5oOhBKVyXshO2bG76ewjDfRrf6E71Pq1ZYcYGIhCA-_ZfT-xbZA4shxcFoFXc_TgOoiB_TtqQbYD0A4QhoA.jpg",
-        "https://cdn4.telesco.pe/file/QAhbxup_TQuUXo54LgkQwaYsN6F0lRW-Z6PD_0528J_qBXkcPglqzzIwF-Gy1bai9OY6SSbBk0IHEVOiIe-joX903_XARS9JBU6eyx1PWuAU7IxPWHzO3vs6xZ-yS41z67U35cM9QuaudNzcgynXOPkDKo1f_gEXtGkqI1kIum8_qrF8EJwiTfYzqmp7zvahzasoyxjK7Nli1_EDKLOnPeEL3DQNQeBjfgMKxkvcL1hVIp2x__L8Cbl42W5JjdRm-InDiXXTOV11H9r96UglpqL8FLmvUmNA9uyJ3BpjrKoRVoGL78hyeDrJFVbuk20umZjJ7JRl5y5F4OoL8h03YQ.jpg"
+        "https://cdn4.telesco.pe/file/CNGSynOEY6Xr4HZvcFvW5ooxj460q0Y-PuFOenwvmBMfkOeZUfyfPhk9xtFdyA4T_QgLPf-xiihXiCm6fHZhnQxocLzQrWOkZ46PiOrmSdj1sz6zs6MdYISQ1X7LsjM4cO3PzBDSdjbhfL8d4t0uPRGowJRlt_HD8M4qjHoGvb27pH5cEtwaFyFd5XyTPjxq2-_MRijMxRqQspYLKBV7HaPrBabt3AZAN5ZGk3TcGE4BfrradM1mg3-1bkcYLer560AGSldAV-JEH32HoHETb-iCRcaL5h0J9eAwP3tAGInToPUX-wXZzN5B6O6zGmBQ8pxF3dDk1mxWv4U0nnSVXQ.jpg",
+        "https://cdn4.telesco.pe/file/iVBZINKHsQCkL9OCJzzGpsSZanvGhMUkj6ECkIkovmBfYg3NtVNfxUiRYG7tja0SRHGQ5ru8gZEsdLW5NiwklnaRPHct6IWtiHwexIG-CerMHwgU0IMA1c89xKcXLHcI4bc_SkpK2fP4MMf2KhC4aChPwut6nGQay7AoH1-lkRh85pGR7vJjMUd0EHtrTv05V8kk1qR-Dw6svW9KoeoUfgu-bKV2m_xaT3ezcOeoEjTEehYv5Tj45hGMjwamjGuCCHMUN8zFBo2S_qTQtIKTEfN1fNqID4Q6i-OfQAO6d94IT7Qp7emoktD-vQWLB3MJdy7Wp5lYoBXtB11hR8UNwA.jpg"
       ],
       "videos": [],
       "description": "Чорна шкіра epsom · Платина\nу наявності\nШвидка відправка",
@@ -376,9 +392,9 @@
       "title": "HERMÈS — Хайлайтер Plein Air H Trio — сяйво, яке виглядає дорого",
       "price": "115€ — обмежена кількість",
       "photos": [
-        "https://cdn4.telesco.pe/file/eEUhvkbUPja9zdhI5JZL3OTSEseTCAjYEV51Yo3ZfsluMLvmDQEHm63d1uy2vZol5ZWCh7NQzXJI5F00gu1Y8tPL0JT0Zw8iUOK8i_qpvm3KbSgEMNZ8Vtcx3l5YFpb83Cbbm9innw4PzaF9iPRJPwza-BQeP3ECcddGTE-hvmiznEipSotsq5tJ5tesTixYtN9rD-s3k_wjyeH6MnVUUKSRX3gLSpdyF84YXv9q5AoqOrc2Rs_0uc73TCbhh9tvhrkMjE9AeyBFKNfmr8tKJENpEAIBLGKBEdLWP0vrhltrFkiDwCELw-uVPDWdjJ15VEHhwFtYf44batVWrLpXWg.jpg",
-        "https://cdn4.telesco.pe/file/EEoaIm7Y7xOzLLZTpLJ2_2yGo3eEmRgqpaA_tK49x4IlLkuSO6hEoN8Q5Hhz86mXXk7iSejvNnhLXoK5iyFJI9P4yIh598kcxr3fbcfW5QN1JlZ8ZZi113d5_-1xULHOlbiWKQ-JqSEyUNNMPBRzTUpbf7QL7GU0GHAIa_5KO5HGs5l9Y3qXddow3NYybrjJUmPeiKj3pIFNfH8XLUSUP1ZvSFw9XE7MRf-14R0n9twtKji7_u3n7-drCajCJ0277y2xWYC47JJRfZOftYgkrdwwTReEmVhpxKkQideSfmNTHK-2WTdqqR_xI0_MZLDtHxIdNY-QYJ2EMbcpEH9gWw.jpg",
-        "https://cdn4.telesco.pe/file/IUY7mbmAbYPTGrFVLQreEKrl39P66ht7raOgX4uMtbSe9jWRNoSEmf9gTHRiDH1pCp2t2rDyHCVuoR9IObF2S1o7VPedtn3Nl1VYm1rzyvd0BG87sXXmhcFN9bOgBd70TP7pnG_0WsbeUN4Fww6Yooi8dDydevp0lfUglfEj1I_h5JggI2awcLdCLe9282UOqEG2GE8anSH6CqsIRzaeOd6MVVXWWgScN8vTgKkUqdiJyesr5GAcKq2SDFC_Xi53rlGizDUKS1vfPEXi_bxIEDEBsQOk0OfDdNstDlMADcUfAraGp0oNvIuHERe7PGqvmQumB30TiLl-u5-pBeiSYg.jpg"
+        "https://cdn4.telesco.pe/file/n2JJAcFn2N78Bb2XymQviCdrO3841RlxjWMOcgv5-wBJJW4MlQfwZN__822V1coNy-NaWqecerUdyHenLrHHQ-QF05ppHkDDyY_Bp87n2koNQEAFAgjomURGiOpLMppDrbCYCr7LHUrnNWwWq73E92alvdsqCuxMyk4XBUsNIrmo_3g8BPolrBb8bBitaZmk-aHGuGP0J_UqbmfpQcJwlbgBrwgWQS1YCaH20-dQmg0a90pOQFv1pqov6nFcEll3BtmgNlJOzOFtbUV62mDX6NiuQ-_levGs3fRssJTYYDUOmQfCGW2DOi2NglwNclTdW1gVQH77yXUkuh0e3yu1Sg.jpg",
+        "https://cdn4.telesco.pe/file/jQjA-rrR7wBxxa620K6iVWZYctLGoMobkTaXAXaSbwWMwIjEaF5MldlTxktgVjbSu73Wy3sjDEOEdI3osBihbUpwtcC7gaTIu0SN8QjY2GGkqyh5RUYh4QHJp1E2sRGbPhVu0EI_GGp7qou5JwdCIg9PFbziHt4g-lATRM5MJlc6Y0moIKrSSQkz6Yogq30HXmNtVDVLJX_WjOJZsjLc5MtZjXTpNiB6mUYq9YUHdMABOfp4_iMsFw9ghWMAWIPtuxERFaYg4G4gqB9bZbJyh1fZ0XbVsXRCMWJsHGE_gaQyzAtjJzC74Qkt9PEXB7JtVhDl1vZmfKQrT40cJ-Z02g.jpg",
+        "https://cdn4.telesco.pe/file/Xie6xPjl8dRNaS8MNr2irAl_idAkFrgvuhOmnfzgIQEyfQLtA7i3-RADH0ENjdbjBPQPj0RuWzvae9hZAsrXJ9aneMgN9EnEgPj8IB1WnYy3thyvNfGruwHC53cvMAWs8Of-vL75OpCbH1yFJsWkp7-LMKYzLon_4rHKFo1jm3eVm4NI8jm9fFJ4IXDPIqjhACuHn6s8HPTDOs9xCmrZqFW-9MpMDVdCBJbTObDG7p_tAypyvyHkA6yrxDcn_FZE_ZAFAQhiq2wZcKWFPszRtMxCEpaQpz-bF3WDUpdMu9HaRIkj-jHnxepghir4qJq1EKJTEmdw9k7NXQNX7_yh6Q.jpg"
       ],
       "videos": [],
       "description": "01 · Rose Atacama\n88% інгредієнтів природного походження\nВисока концентрація перламутру — ефект світлодифузії, а не просто блиску\nРефілований кейс — можна поповнювати без нового компакту\nу наявності",
@@ -392,10 +408,10 @@
       "title": "HERMÈS — ROSY LIP GLOSSY ENHANCER, ROSE CONFETTI",
       "price": "90€",
       "photos": [
-        "https://cdn4.telesco.pe/file/M3sjKhp0t9zIIa8HgvG6qSIfpLBnh0bTay13t6-Q_gZiZ59bBmnnB2dSeqTDm4U5j39PPQYpF4ewlui8ScogtjUjMyZnvUCnU2nCl-8cz-kl8ZpsC9lVSncbmI_Ea1zNZvBICSVyujohDufXy1Bb3HkbzqeMLizQHyFCHHD1W6D5JgJaiZ7lQ7kfteLiLKbU7IkfUSFQPqvwCAYjA64UJVSI12all7eMo5yakMKpkA06N8t1byYBJIL-6XFFtL8hvOQum4msaS0cRTrPTJgqSHEInh6c-_XFglqcKfCPsWtnUbXF-AdX_XD6PjWlj4pH8XCzsWpF8m4c4nF8oF3U7Q.jpg",
-        "https://cdn4.telesco.pe/file/PXEzqqvX5OZfB-7bYT8cKBN63ptBmFVlhSsCWvnk-OINGmvIAgTtCvV-2ZygrumH6FKH83FIGszaZJTLNc7_WgcbN9pcFufD7tUB3wxT7f9PrSPNwc_CUJOwW12BuPv80Z3wl1ZRPJY-9rYpfmaYF9VgNoX5IEaPqRzvw9g9pJQJidaH_D6YVniRPRHg6FKdIDn4NdZwwE9dgwuQnhH0knBSWENPywho-5bhBpVFITKuytv_cEal49X73cwCBo9Y0wPkBAcWMtmXBxVWlPZrH22XBYO3xcb326gwwPVPbBBvrhRL4f0iuIX95MTvt6OU5zF9iGkHNmz3G6U9tye-aA.jpg",
-        "https://cdn4.telesco.pe/file/Y0H5d5JQWYZPmEYSnsq5I_667XWstABjVFSdWj9CTbDMuv44NvOTiEYFBQgmpjVTM93KlSyAQif8D-lZke4nP1LGDBHZvP60kJLdVZOw4JFHWGuZ_xBjZZavt-pxOlhqmabG2Gl0Jq3k1-VrjeWCrsArii_2sLOrv2dN2_2pOGpBhkLEZs5lbGIHMlS-3zszfPhMnbb4ZbXudhNQnOXItvDBwT9NsXNXN8jL9ZNuErF6yQASZGo5zu-eJeHuubv4vTS70Pej_Vgr-QNLNgrMGDC5wj5gWaIZtLISM6ZAzP3Wo234e0iQ6AAiy-t4YAgRzLzZvg3qYzGXZFPq4wmCdQ.jpg",
-        "https://cdn4.telesco.pe/file/CyJpqmYSroGzffUwG67x0EQIp1BNgRQTBz7KjuIMtAncRmwW3486juuNhAaik9wjn1ktAcLFGGHFngX3u8esXdf0VsIud5I-jfvNdtJU6pkR65-KHJfJpzGr9jaVlMe4SY2t9OhJ25CM_4fdNfnOWFdol__uuujul3bhiQNDez4NQOdS2ShJ223lvjcEi2NPHktblbOKogdKpSSDPqqt6y7eCWmus6uA3i2ywL7Wm0lKM68D0FRV3xV0eD_RnjoJos6_qM6v28HTlofHmWCZROLaTs3Z19XlG5rzeNvylzUeYkRGUJqHsOZ9LsrDdyzjQYQZQlEK5yk-XvVx6q0_Zw.jpg"
+        "https://cdn4.telesco.pe/file/kz-K_XWzy8s3IGhvN9MxFwwu-lTJZW7Dcr9KFoCdRYsuIMlYtiBIlDjpzxJ1qmwUnr7H9r0IrT5wB-CS9GOoEgI_l2HrT57WKbSe960ZG56ZhD-cpIKX0K0l5bzUoG57xWfe2bGp-xrJmdfQUvNmgl-LgBGymL2uGM8JpeQT5b-W7Uj9vRukofEuVC4FO1z_IH17DLVJqvFF9nye3lvgDVwAsUgmceRpeXokLghUW-qMcpzFgWCwMQhr0hltgkgCw2UJFYJBnb0SynI3vK-WDwoCpV5AAc2NpgdLgFnVsIVefxQbBgYz6PVBHpD_1Nhcilo5QmJK2cq4E0Ghn4rwYQ.jpg",
+        "https://cdn4.telesco.pe/file/Ed556Zg3iNoNAptyDRyfUnoGlmN-cAJ2Hs7Zp0ol_81kOnxQWFGwkCqeBzsUxhGj5xHA1ME8XmgL1Ri94jjlL41t2OrrREjoP4WWkdEr4VrCx_g9wLYzSqioZxtFpL5QVNa_ZiciQTZ7Wc93Fv_TDU8B9ayyuyZbiQp5sxnocq0wnvfR4T9YLyJyfDTseramJdmV2c_DkPS6H4SGvycy6q-UfzNGqWmwn3ckPY66VoBBDe5tCyfh_0_H7YSy9z8fBGMLRwdQkK2JQqszcmTL5mgweeutjGMUJHxxFCUAkEYIW5yh5dkT9_I2k-pD3nlqgz728XBZxGOua9NFKjJkFQ.jpg",
+        "https://cdn4.telesco.pe/file/cNOHaNAJQMvUEbtQidnmT1so6fn-QMLwhOQU4RKhVlMRD7Tluj5HFWIAo1bQHlN4mIX62GVyUg_I9NTygETDbKe5LJK-jiD_hKoHMk7KG8NROkF9uCGt9a-g27mPB5EgMTVlInc-vO82J3v9nwpunqzSKZtuzqpvh7rIN1-Q5G26IuvE448G6_0yWQLD10HNMG0G-CJZ2nrYMnDYjhoDjUAXQio2dW_dG0RrY_-DVkB7jTvXO929EAbQZM62rsQcfGOPo9hCBjriYJ7QWv5ijMTVSvk16bRHiks88yNdg-yofhOO4sT3isw7HDQfXdHjyWapHDenjFqFZwHJTFFcgg.jpg",
+        "https://cdn4.telesco.pe/file/Brwt79eYOkvq3srHxmrNrT7PGpdd-zGbm-ec882iOXdA1GJyo7EMVvjH2dyK1ur1BFagptlZXDGRuvhJnAppvyM5TPElvUkskUi35i9nZNot-H5CsuvaW6pvcZugzh1jvpU1nlBiWMrHx37kCcXSkfLspUZTa2lL5JAeKKTgSgxxfMLx_u5ga02ZHSeGg1GnLon5aJQ6Zn_8R-ZE2TMtuwvAPwFKsVgNviDPDCrAU1YYrBHOkWxxvUXA9jzH1_4j-2l160-GBycKJLGpm3_Lw9ADPfqMEiPqry1viwyA6e_g61wOjOrQcCNkc9ZzwMtNNlgW6K-OtxWVEVsD8KYtlA.jpg"
       ],
       "videos": [],
       "description": "\nНатхненна м'якістю шкіри Milo, тонка, непомітна текстура ковзає по губах, залишаючи легку завісу кольору для природного вигляду.\nУ наявності",
@@ -409,7 +425,7 @@
       "title": "LORO PIANA — SUMMER CHARMS WALK, ARGO BLUE MELANGE",
       "price": "1 150 € у наявності",
       "photos": [
-        "https://cdn4.telesco.pe/file/o1onGd5HpUb5ZSUfSF_zPaLwKECHmNw5uSH27DMnYXlkJOfMY5EjvpsGYcTsI_JYqsTSNsGazMco0KqFnE-f6GPT1VrHcjBYG3h-ZszbHTz_xtatfgZUYb-IV_HG0S_k3FV37okFb2Jb1RBRfrktNtVJ6XGe7-dkc9mnT1qwL2tOSod_C_y1KscpjHCdmL8n_rQJ9Ysq8FTfkkZdGGTHNpyfvqL1K23sTtl89KWAQQ0ZWw7yC4UlCtrzJjjtgKssocpnGyQgMcRNM6x7TixoG2e60nm5txR9-QHwF2Ai4wem89fgA3-Ti0_wGZXR3nQRHEvMWHB6AYXLOZ8QZHjc5w.jpg"
+        "https://cdn4.telesco.pe/file/nnl7n5YAObqTKaEZ_z-_mChRmKRImVefZcFNHC5a3TlG5H5Tu6xY6YqSvB93V-d5XagyjyP4AuAWufWED3_rqbYpcBHTjMACxdmUwzUSbntS4Im5vl8qU1S9Ru9Cs_G5LgGKWKeO9HHzNDtKUHTqJDvlk6CywB5EKkNumFWJ4ZiKd4ZurszFmJndJjk_G7NWZ2vOQvfpxqOYf1GkB7n6qZe2pcBxq5f3oQIyQEIA-dFVM7f-z_8IQVqtQNUgI9b-4ERL7UtuFisFaegDWS8M3EfvEMIbBUl7rkLJ91zMYjbpmxEKgUJ_NLzu_XxDAnmDSraq4Ur8bSLGpxcIQOsvgA.jpg"
       ],
       "videos": [],
       "description": "\nМ'яка замша насиченого синього відтінку, фірмовий срібний шарм-підвіска, легка контрастна підошва — впізнаваний мінімалізм Loro Piana в кожній деталі.\nРозмір: 37",
@@ -423,9 +439,9 @@
       "title": "LOUIS VUITTON — COLORADO ANKLE BOOT",
       "price": "1360+10%=1496 € + доставка",
       "photos": [
-        "https://cdn4.telesco.pe/file/R7QBkqcelRp0ZuHiJ0ObgaiH5Qf1-eWbUOEGKsFr295B0So3Hpm3UEEcdc4m92dbpe1vDwFARw4FyvIOWVxwo4r1TzkbBqm9Fafh9GVoEE4Ug2HobpDGloOmfIQMxEFjJmEA6p_XQ536Z_UfVeYddRXsAhigtVQKgC3uGjI4uVjQdTSxQODLc-fvbDaLiUfLWJzswmSHi2TLIca_wNM45b8sexGUvd9anqlDw7ct82nw8iguEP4goGmJtUKJ6wOI9F-32vDyCAM4HQGyYoYB94xHg2L4XAk_cjsrhXQC8Ln78M_WJdgPXhqAuM9NXA4eOUIRj7_eKdsrf8SHU7Kf5A.jpg",
-        "https://cdn4.telesco.pe/file/I-QBU1EaKOFQxRHGF9tt2NaF8ErE038NRrkol-J81Z_pYjDF3fU_sw6VVzockA0IHbIFYRNoveJCuJruJyKapsCtHRH5_aDuEs7apvaWbKknIKc5NE-UIlnaj9Vw0VThzVsjk9p-UpVasTd-0spewolG-R3bVYyS1BBC9_C3s1PO0RW_rx26FVdXL1EhDV0zEZcat4g0HENp6qqonrXhHqzUIsy-vKxkRtZLjLDXwUz1b-Ns2NjDdn-iJPduZVGFKS_FkYkBWKlu1gaZov9pB4Z-ua7DbOyT-bSAPYO9HyEhC8TS1xYVBWySMaiorXBzhhpvrqS9YS6R15KHZzSKUw.jpg",
-        "https://cdn4.telesco.pe/file/tcZ8eG4sMtFjsnzblbRSl8ty6uCIBGnLZ1tUJtGQetvB6wFAcLC9ZYKD7F67_fAI0-R762ug8Y37JGSLDDEzuhJ6g7Xq6wluyTqJvE439cNXIycWR79SL9PAHUL_PobPIjA_9XsYnq31TQWbuJKzPmdO1R6AEnqLcr7aelTpbtUhCNt0YUO7GC3il8JNrQPbqCXY4_BcKaEXzSMJRRevINEHnxl7hY20RrfbeAnFXbPF_sIzgc6ksYb42Ew-Cj2snQaPC39-NpoBPfPqrEN7SzaYxq7PC6h_XZMdfj-OWv9wX3Gr6KcbT5AOMiUBlQLe-yd1LEv_o_fokMD4ZtgbHg.jpg"
+        "https://cdn4.telesco.pe/file/TL4g-SGr-dfKJVkBHrR8lZLYVzaHkr6LHX_wOjSDCl5Uddj8HJgB3K5cihzCF0HnzL1jhbi9GdqBNSidlkotB0tbA2bfXdWQ_Z2OpKnbcIuq2Jh2aIqftS2k21GeHbXBikPXLVEQWce1WtHlOwGRAhABvEPTtvA3ecaLGcJ1gPdM9X23NReDvHDeP7tGc2UY8JrW57yyvKu6X-ijQSZ95VEzQX-iZrV6yqYU2eUDRI4f1HK4kwCiLUiquGDg59OYbYKSS9VofPCIpSZzNzfO8OFXoS4kJt9paupK6hma7OKyR31C0q5rnOJuYSLLxWJR0jjO4AVtVn_qvHW3-SUDig.jpg",
+        "https://cdn4.telesco.pe/file/LirAhAwKazBl_LhX2SMwXTDTV8wDSaFE3alv7P-caQ-7afzwWQBXT0i8PnU-U1JRA0pFv7_9GJap1AoL0ZJsQPZmwS7sPZ_3feXrFazrBGLe07a6CGFUdURyG4UosleFYTgycLZ0exkZ2r2ydRt6tTx-KWRKXX7sdxlw44T0aaFiJK7RvQIlU8evKTWKUauvdNODjzu_mLePIOnQJjJZWVZWY_pi_fzdB88W8V6PplebK_woP8WwwOYfyKEDfrMzsAXjX1rxXSIcXAiqVNwuVygfZSlCCpbIsqFyfYL45GQ4OUDNGPxdJefm_4MF6lnNvIdedjv9Ol3L5JzWOqjpUw.jpg",
+        "https://cdn4.telesco.pe/file/pC8ipQGGqbJbLqGJfnU3fS5FVK26ksPipY4SOo3quLwRNrwwfrErKHVUXIWmhwEzHOB5bxS11fwyWW7dbnuiNkPWIyR-JPiyEKBSx9R8TkOoAhV6YfuflYQWCttapCph7vjKZ1QV5ItxIaHh5WAzEWoqxibqASsTCvNecWcWymFheq-Pa0DBLNCGoYCqthJeC-duLPngvwrDAqmb1DmdOL8gE8KMrU6BcICpqfjBZJyFP5xqm3FTGlCoZMi4foKLXL6nLeZ2nhcmAk10dk8GIdGcsLlFuRcBq9rNqjjWT2KpvBaq-zIDW6CSmo6wqcM20iNZXe6ccGsNSF0B8x4dzw.jpg"
       ],
       "videos": [],
       "description": "Легкий стиль pull-on з фірмовою перфорацією Monogram (натхнення лінії Mahina), замшева телячна шкіра, регульований ремінець із гравійованою золотою пряжкою, підкладка з шерлінгу для тепла та комфорту.\nДва кольори: Brown та Beige Clair",
@@ -439,9 +455,9 @@
       "title": "DIOR — BOW BAG, SONGE PINK LAMBSKIN",
       "price": "3 700-35%=2405 € + доставка",
       "photos": [
-        "https://cdn4.telesco.pe/file/ACVtNd6cCqT2g9fgDbKnUgofK8CIzxyknSlYOtO4B-tvu5ilMdG40whReDmRwdXGfAUCoi2qglWPPvBj2HweHDi3-Jf1uml1yOLqBFSsinLyfhUnz_uEm_IkX8HQWUZ1v_US3kPu5VHB9Z-MZOTkVPrWZ-asZQK_a7_HaQE7hRdoORPq05aksHGmm6FqbwL53PhkZrG-Q8M7l5O9oCNGP0kvW0o4zFLtzWydbT6QaVW_1vOzPQ9IIUW7gqdEQ592eo--_N9cYQ2ISlZMi_ruOOljsoC7iFxgEwIWgYv0xxOoX2tKoVJnRHmO_RWRIblsrgUFStC9gkZPTFRzA8GJmw.jpg",
-        "https://cdn4.telesco.pe/file/X1-fhSxRQOwPMRArsDTHPV0m1uguuZ8NjK4tr1Sf4uwzYCXvXjXePXU9R_7Nf3KA-TwUTotFma0xro6tnr77ZQGDSayZjWPq0z45Y5d5Zh312ckIExGav_MVr4Bh7KX2d8ssCmzeWSDuX8TZIOwKIp1xYfalKAaMlDWshy9PcAj4Glef-3H4wQBbrnCTeh04E1tIndqUoT-4NgdH6JqVJuyp0uML1eRVcer3NAfemFMWYP2T-E9MBK4VnLzrhzn38m2GJIq1ItfPBi_kZxkeEQ0zlRHRzRcqLYSEoLWCFUl_Q7Clqzc2VoVtPNrqAdDldLF8FSQ6_3AHeG2Pzx1aqg.jpg",
-        "https://cdn4.telesco.pe/file/jP3Cs-2HlZ2PTt9RJKWxKePyZkZgc8r5Q-K1h2WfynmDpvkn26HyNUTWGgPfBFzgVyJ3BVsdSVCJziImOrbjh7h8QxCRHhJO6mXLnYuORqhDZW8Oz-KDlQLNpx8mLFLfkkmlj6URrlBR0KhRHZWfVyjOj2GNogStfCAhFrYMhD6xlL46AcTFAklekOHp65mXnD3odPp9fi-mdrNp31k7C5ifoPYRaUAUOdanbZnIvbUwCA0HXD3sfbyJQFHFoSg77cszYGy0kSDu2U3xChzn3J_kf3LZrPON4NsJqtQP2wFaHfRiI8_UuWn8Jk4F0G-0BfPI6JaQ4p6rXdiOIRhvHg.jpg"
+        "https://cdn4.telesco.pe/file/b1xVuDEcyRpeVMlocwc16tvcHV-42C9M4VPz299IJ293GtKEs0_qYvRSjJwoKsO3FKu3msQPuV9BZFTKxNtcvJJqOiTc_Xd6-9P-8u8LyjfXrDf8U8WKOjjo8DwWIyccP3G6AB9_SrlusW4qU2ZRINexJ6JEkM6MYbGjMmkbZ6CKSJ1QCMKQ9PNfXYSFE0mh3DhqjQN8kC2y4eLetyfQjueXeokRDj98LdoMFvKCBoMipfAJZSxER3JOXTb2iIdTylPOJKunEGb-kpUvu4N5u6sNTInvQ1R5UB-10HA3-oQ1WuaCWoMMKWFgY6ih2gSi4rXiFDk4UKg_I8UKtgjUKA.jpg",
+        "https://cdn4.telesco.pe/file/RfUG5QHgqLeRfpgiLrEv7IXwy4zbYTJ1IHuYOBaTUcd17YLr8yoO7I1Dl7B2FUe5z1lRUngbA3qynULfDd50WHIf0AB6Qa1ujwuz1bh6fnfDTL1Ltq3bnTL-4Rx6iHuymWa9sSRVcZO9KHcgLPlh95LBU8JuN0sc76ZfsRWgNuuSLDEPs2yqTzLSvBoL7_tRG8szdbqKpjzyKyquPwVTgxjHMkluEcHpdVPiDRM-XsKncKTerl9n_oCcWiv7Qghjglf20yVPYsuSCrVeRVmcdvUxY7lNO_oy-rDOoI18xGmOms9sm0-agRv3VFRv8cIG0wS4rsW-UDOSmNI-eeJE-w.jpg",
+        "https://cdn4.telesco.pe/file/Qw5H76D9bdvR7PlyRtNLgsjz_PkieTX0byLGDBQ2v4CeAha9BAV9xbPn4lel0PWwdLiq54hprjLYJzJUv9rb-jP9tWCK1IYhtRlTXxdPPeDEUrYegNJoINGigCubtRN-WtAvluoQUDv0gRq6mAi2qmWwUPzTTvaFbw902QQ0VzDsCjAltCT9nBRxk_fa0e4tZA1cpFqTvQxkdSbK0NC31HHaKnEy5k8T4aJXsSDvFQJYov82DXvM9qq7wpE51Lczg6q2n-HTuT1Bh2URr8CPxphIdAK85D1XOwJJdDfJXyJ8T17wLbWFgqmYN5nN2dioHo5AMr4sXrXzfzlzRD324A.jpg"
       ],
       "videos": [],
       "description": "\nМ'яка натуральна шкіра з напівматовим блиском, гарячий срібний тиснений логотип Dior спереду, ланцюжок з бантиками та шкіряною вставкою.\nОксамитово-ніжний рожевий відтінок Songe",
@@ -455,9 +471,9 @@
       "title": "HERMÈS — HERBAG 31 RETOURNE — NOIR/NOIR, PHW",
       "price": "3 450 € + доставка",
       "photos": [
-        "https://cdn4.telesco.pe/file/AcxGHqQEQbuyg2YFjAZj8MqT0eT1_qxpo24nzgnllpoR7S4I2-OvUgZlN4UldhwN5qJDAuG9weTgGkvOp4bmsJo22iixgLjXqetOZpWXQvY6tQjj58nW-UuKmfh8-TO2G3Wka2_CHTYxQmTE8lP9d9mqHKhPZP8uBccURgHAmt1QTDgTurL0rsp6agdJnZ4K9p5a9i7xUhZ-NOpxOz7OkV65OBRaBc6KyCa1QVaA7qtVs1aD_y_h9yr6dbv_-Kpxsm7hvSkx8u9Kqa6avqF-Zv9wS5GQT2Uq0xvGmFjSXXSFFbaiWalAvlmMmBXhn9x-rqr-jOe5TK-Vhv67_vM3-g.jpg",
-        "https://cdn4.telesco.pe/file/vohugJp8UmuJXmIRMOht2_YpqnVIvnGAv-vzwIHIJYaFZcmjWxRwY6-dHktB8tga5JAcoM-kHULnqpy4xLVwn8xOwiyj5SlwGf27oqr7oH8PN8G1iC40RoEqUJ11DX6UPJeT44bYzKFYpSEVx6tZXvxoIrzRNB-w0Hx-1zdDBo227IrbmtGoXWW9or0Saz_6qz1xLcABjO0O8a__Xf3ApfGGV_r-52soWLncswlp8Wg9gPuQh18afqeXpKWR_LVdBybXxOkisLMNDkvnvmKrjmo6vopYF8WOF40CRe8Z--VWLysIKUK1zbK3vgQVE_V71tomP8u5N-tOLwoqdzhlmQ.jpg",
-        "https://cdn4.telesco.pe/file/XTb7MQ3wWO-0SC2jPZ3dwTjq8k10rXWRDGjqAJQO1AjKPUzrLWeq92RQz0e2vCJdvesJzWnVyyU1Wzd1ixRGWJ2nMPe6hoGxHHv4drtwh-pPFDHteuPUfnK36wNyjIv0o6XKt3MF3pEoAi7Pz_PlXm7sSW6EvalgpyAEpfDLAgBrkEL6pH0qESoR6e-BJqOpOGPDL-mMBKQD4zFe9hynZE0KSQMffPaljUPaF9pEm-Q3rpMrEaIwA_CibP-ofoh0d6OuVzO9tIC_BXOkE8TMGQiHI0z8ExrSbqLuu9gs6yLUVyICZNN89MNvE9lZfnDLmdm6oQnmc0xZzjIZE9sRcA.jpg"
+        "https://cdn4.telesco.pe/file/XeUlppex3AfKx4HoIC9UuWSUvdTF_qnTapu2FP-QuDxYGLLblpy5v61m28roMVorB45sCiWzciUXaItEdtcRufuxRHsnpv51uWvcWRt-YiWYTQlYV3xP73J1Yq0Sy9vcEvdrEdDNtpEZVAoCYt9jFAmXlKvxvD8J0xsEDmfAMO1ZJ8IjVVPhCssDqpqaN8xzO7emp5Utd5ym8TaUjQ3_XsADGmVUFuXm9BE0hQ_lkgfJb_cPqTEWYRHyfM7EALqrFN4yMiqYmX-bRvd6j3itxbzv9mN30NnhG-947lYWtHKXXL-EsvSXEqJzGSqsBXphuOAYuaHglU8oKTuRumcadQ.jpg",
+        "https://cdn4.telesco.pe/file/LI2hoPihWNc3CTSlwE3jNKwdjbJaTe8WR6Eq3eyH3HC8FUz2pqcSPTzCrsHHkNXdvWA_e5s8TSOPfedyvcIeyixibV-UrvSV3dKxklJJCXNtuJmBfmeNELx8qpzkVHRQrROMX9REzpd9G8Z3ZKarHGeUfmirIEtT0KaF7ZHHvcLk6TXgwzaJQlJVDy9ajdFSsdTEB0cThJf_Qu8BOUUj6NdzgAX22EfYaA9RYbY1me8vGlWBLx5UwZ5GJm9qv69oKLyioOh0q-NGo6cgm-i_CHjhVPZKkmJGOymsNdZCIRiMGQDfgreLvqj9fLJGAKJgv4Uhj3RYMPG4QvVMhIUGaA.jpg",
+        "https://cdn4.telesco.pe/file/OwrfLMigRn4H_A_eQSr5CJ8QnOxuJ9GXY9YvDAXEizWN1B8svKlwzgbbR7p9rGbSBynKqg2ASUPcNzcD74BAIpI42gSQndRwyxO3aiPzKoS4hc1_iihj57SrAtvAlTaIRIjjYTa3wQtQw4ODtYQkL71a6WRzZTvCoeWu2iIoivUXBW_eA_vBWgVXQTSpATJiVIvyaUw7kVfD58-lY1XZCOfXNH8BXjAFpYbnL3q9hxl5PmB8vqhTnA2vIpZxcT_waVy3r5J9geOL_AXuvinjeT28Sa3gZVeZlG30RouvBZzm9tIAzQh1CXCtge09p13c5A2TknPOJc_XRDEMHxleDw.jpg"
       ],
       "videos": [],
       "description": "Просторий формат легендарної Herbag — практичний і невибагливий у щоденному носінні, але з тим самим впізнаваним шиком Hermès. Моноколірне поєднання шкіри та канвасу noir/noir виглядає стримано і водночас дуже дорого, а фурнітура PHW (палладій) додає холодного благородного акценту.",
@@ -471,9 +487,9 @@
       "title": "DIOR — Voyage",
       "price": "4200-25%=3150 € + доставка",
       "photos": [
-        "https://cdn4.telesco.pe/file/usj40To4__Zo6nkn55nkanV0N1N2N46pcQ4-WvBhsLi2mmYZchKqVU4VNaQpE0H9D-_OkIygguWUPgR27sykJVVs3rB_xQ7-7gCr5qrmNQPrzy-TGfhYZm6PEMXenGidvxuAxw8n9PQ8un4XlvTTI0ByUrsIaKby6y-Flg5tN9bK8SvL98h6CtyPF8OKIwAVZIp_1I9pSdw24aikpvOndkEa136mJTkE-ftqdpWz5-ajo6m4qTc35ILtZfuQLy9XOR5X_jZ6VJQa4-aOXcV1oToFKsdiaFFaXCKZPwuPIKdTql3Tjcn02BOrMZwNKwWBERah2lwjLoOSfvoPdhjeUw.jpg",
-        "https://cdn4.telesco.pe/file/vEed13crJtIKjvhYNpwhsc5pBeQwVQcOhHMbYObV_xcslD4LLAa2uyj6L4z4sOQLyUL-frt24-Z-cfpskV0QYQMCyeKN4n6P8iM0COj5Fd4xEvRzG3Ox5VpXhQWRY4umI01RkVCeV8zt_tb6zezUFr_sdfo4n8UDxRgZJ0GalSHNM0R2Ww7XlrJSt8GjqT_yV7gH0ggmp5TboSzfWZsT93Xxz69_hE6tMTm7dSIVyONhA5BdmumKR2k0Ve1wzN0TwdAfPEq9YS8Nz5oIDH9T7ous2gPrttTN8G-j6_ym7vYfUVwO82-1iLabjviqE_0mPn48LWD0Lc8vA52MAGZr-A.jpg",
-        "https://cdn4.telesco.pe/file/IPx3Ot-nxWipoDkxO_3zF7EnU5oSvq4lwgKDmXZGbQYiuJfbq_QYfeLhY5JAftlOMqkG0Lv-76u7WZtLMDcBbrDrJraNgvTBaOg_D6xX__n2-PIAoxF1ZMBS8kRz_VZL1BQQWhXA42aEux8NsEYmflAda3zkclrE_m797a_3J8ke9NVMpsJ5efDKpaX0lB3NRY1fTwvLklwPRD8qkdnFXt_p66vgiJrDYNp2L-w4qdPqTuLHkIIjcinpuvvBT1gGHmhBWX8Dt0PZkAhv6Cv7h2oJCm2nNeS_kTMYq-g_Hu2YXhoR2aEskmHe0Xi17kO-5Nq8-ULf4Wddq7YDBZTxsA.jpg"
+        "https://cdn4.telesco.pe/file/R_La4-nRhrw28xEZMGeKzqd9SSJuwYrFaXIK27RoEEm9-aGsu0MaiRJtwIqWCN1fa6caSM6FLVQu9O3ZUrqFUU2_caVDYCS8Mb1G2RecJBVPoThAH3es-DyLOZwW3dL_HDrcGdABYDTStWsuR0VOt3Rq6UNG3cMUzr1ah7zHRgJBPkbC7DPiHrJtvsD3dbcII2Rt-k8B__-3yGqeNfiX5VpFXuv0FGYw-R39BRFsbhzx-wpdd3Dj9Ngb0oEXOT9OzaWL2OXXkP7VpGPRJfMA029OZbK6IePUCox7BIn3IyIpAxQ7jfd1yb1lnW9ghbJqe3uCb-1BDXg_8kbNTfFnCw.jpg",
+        "https://cdn4.telesco.pe/file/LFOJU7pgXJ7_X43Sp3RHCuFibljjCtnmw0ztjjA0V5W1qEH8d1JPShyHBo1yo7ehlKgKgPGNGgnFeooObpodEcSMMolneXSJhHPMKN6xPMzIZdZ8FUruaWPmzUeYhGTTCIbuB4AcQG5PEuKkpbYxNj1yf4YiKsN55rkAzFdMn8uaUEFfF6hn5FyTJD_xMhlXqUYygl9BUlWp60kk_kbVOg_10Cuz4FUxZ7YiXYa8y_Td-mv_glQM1brjZWEQYVurK9KDDwJ5yM_vcMtSlDpeEYkmz0FfTuYtb81GZIafpR0eKTrilXlRwcx6CDhUxbSWkPldi7W-9uZTUPQ9MEFmng.jpg",
+        "https://cdn4.telesco.pe/file/dLoT1we-ddR0FWA6I0ThbT7VIcpHzupwr13MzzESwOD8b6Mnfjkp3fwKvucw9dNgOZDKylrOnWcIZ00W_fVDXcgQIqmuEUBfmdEbIbG8gMugkHycaOqA-wGTwJ1yJCoX3a0MXN9gmYXqwwZTf0ymmG4-d5SRfRf9xw-9cXTUwE1n29f6-eYc7pkOiMnzuGMr_ADrDDlgdnMsdamxYQhVnI5dUByjU6bEhhVVz9GnWkKg_DlqdQBKX5Wr6Pp7Rbkxn-sXD0_5Fk0QQWTgbzONaD0hIUU2qb6Mn_wF94bnN7jqRT6cPFcxGx3B5PhRYQ-Db35u9QvC6HWc_r4hiKVq9A.jpg"
       ],
       "videos": [],
       "description": "",
@@ -487,9 +503,9 @@
       "title": "DIOR — Médaillon Flap Bag",
       "price": "3200-25%=2400 € + доставка",
       "photos": [
-        "https://cdn4.telesco.pe/file/AzObBNAc9jhmndQ-gqlmnNi5ra7lhZfSbSdfMhHFcyhyzsDmkJzSny012YLoo64oy8Dpy4NKIFaN6eBLaVZYPfk8Se718vDdc28wsFboRAe95EZnhQyf3MFWozclKuwpENkUiglvybFzagVPkKA5ZJocwtwqJxltliQcpbdTialOftpSp1IbtcuobQhu7elmvmfDHKiJKYYzRxCQAUTNlTbbwljof-8bEDmpkcghy5sI9y4Z0bWJzD9u-oJcUirQPPWtjr-u0Ez-9q-G5gBSky7seOqEWrKHyyXkY-BiFwOnakGSGBHVrfGHhMnckR6yJhu5nGh-Pjz5WokZU_t3vw.jpg",
-        "https://cdn4.telesco.pe/file/JYGY05ay7TojZ31mosWqKoCqf0jjsERvRzoUcelU0xXD2ZUM3LDXwG4dmwHnES2DdgFvKiJkL734YQM4bdvK4TgRNGSa_y-jYszk6zgdwAM9SBDESZL1WgROMiy3H7aUf1bOWgMu4BihrSyIROpJawsvBhFpWT18O1FzjDcsarlw-LYRTvuzSDig5JMloMBuvdag4q4fQROKiD3nh0FX_B6V8VMDv5RX3j0BVTixpV1K6e7Seo2okZAaur5EYwZ9LBhTCT31fSCV1IHkRLGgTL1g4FOGZm6ZWOshaioTpW80W2TWNLGNmKCDlMBbIqFAyFdHK22B3_OlWIuM41z5gA.jpg",
-        "https://cdn4.telesco.pe/file/I19SLkqHoFRQcaj5XVUgrXSdrzysB4qgYfpNqxtkPmguN77fYFireHCufCbNP0sI4XSwRLsw1hzZ8qIKanPcUiLnk4TNwRXPjBosXNNYIcUPrWzIx4gnmgXgGUI-eLuiV91FVntKiuGyHc_ckEolTkhkLAmUBrZVKeOnAFB6inKHAa-9WC24wEniml7MK0d8_r2l9dwKQGc2WMy3XpnaPdVO8DiS3NeCLnBQGCdVkYqsVq9jP2L8iCbtsUIwOSnfJzh9CPvj1-2DcRI_Enh4jtYbS5XWz3oxBheq5US9qbAJFDppZs41Yqzuq0MbRTiVZ6UnnHEKlEhqFyFnb4M6bg.jpg"
+        "https://cdn4.telesco.pe/file/NdNycTIVOTqHp5TQ74eH4f9nQgnAxQakzhBpmiSjH5ha0LrpgsSFptRt3GcIZ69XrDcE1jvWiSJfdcYTmV3N0SO5lSs5fNVVz14in5yBRt7en90rY99c3kDSLi8VMFEc1ohSjPCOA5mOLSQKbEXMdrcdMVTYAF0f1GJl5PGQcck83mvveQ9FzTuur1PhfCF2uUB6Xqyvmnn4KOY_FXpghji2Z8Pi_7-srtJhM3LZdPuW4bgNy2Md-jnOhDMFVsHl_wSIN5DAhdyj_fXR1zVOAyb02RZDbFsLG0N3cPxoimkAruwIdfjcmchgespPG00AR5pcFiVcyCgUBexZZ5kOeA.jpg",
+        "https://cdn4.telesco.pe/file/ahETWa3Gm8I79npNENDLxslAtWdR906ydVCRJ5obdEqcerJNDZwfxklckH0lHQ8S_tMv4I1s0v48UhfLh5k8Ap6x5jplJu-BO0n87otLI3TEMEhY41QK_LZtLSRXkCXPwyZjttpt4vHvPYyy2bKa80VSkIHpeUPXCGdpYFu61VmR555eMMDZtVQUBoLENAa9uIE_FS0wAaC5j8oIV3vGx1D7v7rV4HHN0W-_aOXQRRaw1KqYGORqv07Fu4uXUu_-ORVF-rYvP_3Pm8-e6uKsQV1eLeTevEg2Dlj9CotrZ9PUTE51-pPMF-ZP_7AMU7wvnL9zao0OFV1pDs2Q_8iAMQ.jpg",
+        "https://cdn4.telesco.pe/file/v6Jrdqzj27Js-2H8dgE93a_sHc4uaGqkkcD_bXI2rxV6RvCjp_nQZ89b1O6xqeSkjPDFN1RmBUQ5xCBsqHDiSJpiKiCNtCPuYqrA31lZvnXu0c2wq3XysLcLb-Hi9zDKOEa6la-xqzjK0PRukYs45F1vSkNcRtJnnhouw9xsKApmRpSJ4ybZJgndML1cjh8o1xlbQwU3i3DmZcSCDMuEJyUWGBeNlVeqAM8WwgRlcxb-sMQLQ_OIENrkajhkxWaNZP21jqDQGlY6cKDIDIPUEILPZLAatFFLbghF7rB4KqStnQnPyPsLYEwlZztfV1Z6HM6QeCC4gRyFh-91kWyI4w.jpg"
       ],
       "videos": [],
       "description": "",
@@ -503,9 +519,9 @@
       "title": "DIOR — Large Diorly Bag",
       "price": "4100-25%=3075 € + доставка",
       "photos": [
-        "https://cdn4.telesco.pe/file/HnB8x7h2LuxZJz7Z3ttGqPgnFEFLlk2aFe0lnfivOdedaRWDRB0rrN4sEJZUZL6w3WXAYAw_9UnKw7Tvn_QRlt5NPXgN5b6_ZLU9UhWfUm-KkFM6VTSw4aylY9zSLJet5h9kZIVP2qA1o3YibHoGYtI9C_s0q4-ZrVTU0YkCtBJDRrNbeDJXtg2kMERIUeWh7x8BMViJFBpXZCxqwb1OVa8GnigJatLIFuQ10QFBfH2-iZ4WGJ80PEVQuuLegJD-2NefqWW2gATycQHFwWLzjRSNMfM44tBbyCp7puZhnw1h9Mge-c_Jb02DKM7d3gOvQAsRf_E1IwhOdKr6ftvZnA.jpg",
-        "https://cdn4.telesco.pe/file/Mn4iMhAk5xancj_q6keXvDbZxV1oAv4rAcnwj8d8S2ufBMvvTQg-JUEGLRAHORHlIm-TIo_lrB-YR5GXHMIhJNR2YmFenxvFJB0-b82bzvXsY0krPOW1R0kX4CnW9g02_ewuXr4mu7ZDAXfLpW65HPCtKQoujNT1m2T4MG0jnnTrPyS9GR9QSqYZRfwU2HS5qL7P7O3qWVbRLvEBgWJjSzN-hTlz6KV0U3sOQhXy9nCNCSUB7zn0vK_je2BqQP3GjmntTc_myJHCNEL6YlUONdkdEqRukC4NjcvX7uRmDOTNry2bwNfeoAyolTR3FbIlrs66utxbMOPn-eSnLI7fJA.jpg",
-        "https://cdn4.telesco.pe/file/PXshg89wX8FN-G7P6zmJk2m_lFLEBf0FyYI8-vTyRlIki9tnZZHM6m2gIsrcHNTXZCn8P-z3L3fk57wg9Uch2Kr-qA97NbuzUBm59bOt5oHQjOfpSwrfqFXiWlOktEzSct-SbgYEBammXGpJepdFYy1MIL2xEIdI6DBOGXt9zBRJEIe-yjNU0DP-pgpkVQDiJ-vPrH0DaSYmMkGZvzvS03NXdu8jgdI0c6dSldDFyBf1E-z3wpkiUsbXfP4BNb7Rs2c2NAfE_DjtBG0yBBBfQMjFU3U65zMyLpqijjLCTSVigi42PGK2-Vfdo6uEjWhYGCPfSXP-Q2NzImZQwHgxDg.jpg"
+        "https://cdn4.telesco.pe/file/KOuqb18mCJFfUjQcd1d1whWpOE-IjAYtabVP36cXz9ylfusNwIMXHqPf6DF65tiny4hLuHABGKkRDkgNDGlRKFG-UeFIwgAtk-sj5AJOPnlKFE5DTNqwW4EX2YQUik5CH0A57BEk1lxrrUJm942nrZij9iX5xgPCHTmsWBg-luGIVXRO1xHV3PfkFNIu6TmnpuiinCusLMCHvGcI3uc00lfrZby8HRfFhQICKgAX6vJ7O1ce6pu1BFXd4IKGWGae7vMmyvfoA2R2tlkczVjWCjIig8wnPGhJLTCo3N1ThHuBFIRG6EeHEtCQ5G229PxUoyL6D6rEHQl3UH6DZ0bQCg.jpg",
+        "https://cdn4.telesco.pe/file/XH5tmHD1I63fith9LOi8LSUp8-cHaYDJs0hGxRogEhnspN2kfERlLzn1myTVg9bKush2IJzuBeUD6VsCcKD6AAgiHhLncbSXXKWAU2gxM3HJaCqFKYUFydJRWmjwlFI2hmhkAai3bHooGrC9mOGA6rVRYWDIka2NvwDmmipRbrL3-elYm6oixlfZNquXAmFf6KhxTFceXYCwn0pfyzKFk2E87tH6s-dwUNfNawYRh6gpHPFoPelElxf0vbaEdmIs9cvBhz0-JEYYh4vbIOd-KMChBQxc5aahmKV9qb07oCcRI9nYN9rzeK_SjZlBsvdQbb9olfIZIyKnHVhYpL1KRQ.jpg",
+        "https://cdn4.telesco.pe/file/Ama0S8lKAdb7vcblsNKrLIsKYjU_ui8FJfyPaEoOuvK1hLM5SWY7dHxzSTzezOhC97S3Lbe1STsekWm3m9XPswd4qpoFR_fRBaS_pQedK-Q3OhwqP7G79t9gYiCyK3sAwJvnAmMLivrchh4zj7SPm6u5suvUpQ_NTcgBq02qKTGKsn5WtkAAetiThd8FF9Kx1Hy5KmYgtFHi_5SvKmfFh2XSWIOc2qYEcngpwGMwENVGGwIgFyufl_V0NQC2SlsqGIdDhUDPeqa2JhIrvT6LjWy9A270LsneTkqHhPee0R1X9mlxAZxdL5Fvv3z-wFiwQDsiPzzg_rl407Uk1n4g9A.jpg"
       ],
       "videos": [],
       "description": "",
@@ -519,10 +535,10 @@
       "title": "DOLCE & GABBANA — MEDIUM MY SICILY HANDBAG",
       "price": "3250-20%=2600 € + доставка",
       "photos": [
-        "https://cdn4.telesco.pe/file/qmvP2fy99EElyUC1uvJB7ai0J8rc9CiVfUaxOXZlIWjCLSEdCm5ojhpD_x49r4fvKVsq4yBNAcd5mZocFd2tiIMDHJuV48LqkJiXgFcw6acKod_lBOJcee0vxegdlvqjS0SBTvjKQ9WzkFU86bb2glRLqB_6NRavfTZsAAre0U2EuBxFDpXADNUYvjB_COV6Dpd6NM2X-WQbqc_AWLtZPS67A69wrNsGQynfzVwWmxDtcNNzqsZfBuPlax_73I9IfR-7POKckHIVDnDpazOkruG7JES_UqD8ZwKL4OAdbL-0J0xLafxCABifFpQqiVzMMUL0634uF75Vzv1q8t4BeQ.jpg",
-        "https://cdn4.telesco.pe/file/K9CYZzQ8PTvuu64IrVTQGSpcSt0_jOPocyYPjRkqpNOie0OvtPIYsqgMqlAQtydObss9iV8cUrEFRPAtweS21KJv9bFznkATn9pH7w5fj8xrnM87CZsLgx4j8GASFfsX9rIZlGz7US3a6pnW02Mw-XN8kY1lLbExTxLu0eSv2h9UGNEenCWuf4R_YKpBgYDjhWf5ZF355C3MhfaaRL3cqpdtxvGsCi1_89qd087PWgji_EA9-w-ZbhWLU9_Z23Bz9sVR6MyhAjiXk3k-aDnIVcu9X9wz0vxrbRKR5dBUZ0FDEfe9I_JNDwZFO4ihKB5eOqy94QajFhzpjLRqr3D8lQ.jpg",
-        "https://cdn4.telesco.pe/file/C6EMuVKLM4P9pczjg99Jwgkwy3Exg6LyAOP7MPpdF6dUf-KO6TAXKesTHvyhQeWl-ONQ-x1PLMTyfhhTwibpfCGRqC2zAhdyY-cLZRC1V8vMdxgsepAOuzoMRFvx2g8VU_BqFGmd-3nJ3tL92X15Ti1ob9IuZnyeCfgmbDBBnOEJqtmPUGbmVRniX_RBJPJHJGn91dwnufIGfY1KkP6IgznljM2aDgOCiGm9Td-FH3NgdkDn9XvjT_vlPwICthwZiaNDdKl598gNxBmIZq_XiSe3xV9DC4pBnsMQaKKQ_rPwJBuNswuQI20_nSG6iYWGrxbAGp8B9SKbdekAkg1ByQ.jpg",
-        "https://cdn4.telesco.pe/file/jNrHcszIU7QDOA-Yb2jQJxqrAv2UQ86a93urVZHrA0prAcDgl-Ymel9-tqQutaYiLbNcLNUk514yyaEYoJczGCth8xgQQ-5NyJDeqlkwHad9LDhwmG0Pb2qPyoIp4b4GcgQoB8xc5IeX0pWo-cng9pvVWQfJb1W1EO5doqRl03Igs2Sa1TMPWqMbJsr-FsS2ybjhtN7jeWJ6mGH2yPuoS4KUfWWQzmMzfSbQDige1NzUMyNoSAdjHlR7R3b7eVRFPfkdmk-HeLQikQKoguWaARZqfTpITLWTfgzK7jNSaz8XbV15wn-j84o4VaZzMFL3fc2yIleI0MTWGL3MvYrckA.jpg"
+        "https://cdn4.telesco.pe/file/Gx2FZkS-evwI0qnqpSiW7327EhYOfWPwJn1FG32A9bkZCKtuRZYRnIuP5MnFJshpgD3_0Ca27RetLX3xEkCG0S_e4-jdvSp7-JLucBosyT84ELr_FpLm9CcrYjb4w-lpHXmHImColsCkF2uibWdZnW2Jk82T5Ogww6wzD1bNvhvK8Kpuq3Cc7_9j2NpXJQLoX-SWFYe_KGhdsGRDhnN4TbWE3RduqBOE15bc9Q-ZjdFa99Di1yzU4q5ruE0xw6e1kND5I_Ld33wdFpL5pwgP2Qc9oxe8fVIY4OglIfN73-1IFJCD4CF_NEArlRVUweFeFgjCl43743QSecFcjfSzVw.jpg",
+        "https://cdn4.telesco.pe/file/L_Tj84G_yizwcJTRxmp6-FIfsvU42VfzdCLvreY_cc1x4zOC41qu7cViNRsZ3eUVwgL0lh1zoQ1au1f3WJEZEHj1vvjw5edsh7uUG0UaTEvcwv0Svkd5J-R-lViKcH5XzTjcfnhSzjklovLeYgV-xBM63nNusZxH_RLQrad_uG8OvvGtbM2aBm9u2voIfmTihI8QBuayH4dznd4vCChxkYbvE710l9FakQ5gjQCgR6FaAANjhs2LGPJyuLop8THtubostepyJrYia-R5yYQ_f4_kOJ65gbZ_7QdlfmDRGpPxph5C-8VD_DybTinLiNH8UYjCatQXS05Fz5OtMlbM5A.jpg",
+        "https://cdn4.telesco.pe/file/fADaoYW2-TLQ2EU7BmZr8Kw0s1gELERwVODzEQ0YXz3zAdpBO5jxBHoBxw3LMq8Sjci4rZcZFfxY21DpSkxE9gr6nE7Lat8ui_QifrdnUtjgheZhn52cUucUkV24y9sYJokyK6MEcLDNy-cNym1csZ29t0qUQpOjtUrHXwFbULHg0o1CnDvXTIlH-BvVewS7yz31rMRbpnZ2KeNvyX9m5E0bhCXP-eZm_DhjkL6U1xNP1hYLEc3vUCpxElIsFqg5KDh9kxHRPHB9POQ-DBcZwm9wsmwq8kek7DXoNBShJqGYG77jHQOeZkEx2bs_9BeGIeOJz0htgemgrJmh2j5Twg.jpg",
+        "https://cdn4.telesco.pe/file/aGqzrR007m1YzzG-UNoxFTvMd0dh5JGK0Q_1gvH5DkTGtwG1QgGcgfy65fwP8hzTq6xQJwNbVSlfNfQ-gq9wwaL3o3Sn6iIec63w4b_Dhc1ic7qGmxb3uzMYZXoyYSdxfJf0SjjUc5PMmOJ9uGqhmfccuCJktdDEtfqgk5zrMtJf3gXJIBSlciqTE7hFdq5pN57-XPYlyMS72I5TWtNvyv-u30jAxmUVfZAF-lW58_h6zpSn3vtivz0uMw44-XmB3zeBDytgpmPmek78MAkg4gXDERq7cnImqWfYeeRh4ceVMoFaVmrrY6VffLrmrz_2H6_SCYf9wvoy8OIwKCGf7g.jpg"
       ],
       "videos": [],
       "description": "\nТелячна шкіра, вінтажна латунна фурнітура та впізнавана структурована форма — сумка, що поєднує елегантність і повсякденну функціональність.\nРозмір: H18 x W30 x D14 см\nКольори: чорний, світло-коричневий, беж, темно-коричневий",
@@ -536,8 +552,8 @@
       "title": "HERMÈS — BALCON DU GUADALQUIVIR",
       "price": "550 €",
       "photos": [
-        "https://cdn4.telesco.pe/file/OIniJLEY4fKMUX0dFO_7xctBmnbk5vUhN0sbzLXBdveO3vIESP9w7AreYDjzPUrheIsr5MGaMDjruxPOGU6IJO-ULKgpw7qW1Ci_cP0cSfJFVK_AoYONfM4bpScdE5WQ2VAmSMCnsbpu0_0kIUj5TiFfVWR7SoQ6t7n_7O7RR5DuxiuSANZ9mjQdxyTZJZ8YW4DLFXM3juY9-yWCF3UtC8inTC2q2tVcd_d5VeCQnX1pefJo6Jm6olsBAanVaVW_L2NDygoRTf4L_XqA3-rTj27smTwkV1e6StYSf33Fk6LNVxxWEP_A5ZlKbL8DzCdAsub0eO05tPP6yDTSPapEJQ.jpg",
-        "https://cdn4.telesco.pe/file/gLO9w2-DZldimUFg-yobk0ZECKmESu65JDvOZJ6fNLq9plV7BSSVsP7xJyTsOexzgfVgAQZqB7w5Gvi1U3WRzVAEhSlupAzJ_5BsAG-zHNy3_NhNlu_NrczSQoZq3-QjWiHxkHfNBBs9JsK-TGXFkRHrarkQJPBX4kqGeRjjir1hplHXI3yz8xnznZgpAa9185YkauhtsQ5uj3L0UKqQuKJpI1vBBHAyR-f3zn4u2IB6BdhfvhdZ7DxVZWuF9j81kdY95wUhSUymLinhqwt4s2oYE9Xi6sMP2-Po-qhbun6HYt0HmClAKE3cKq8BB4ZfKxl2vVSgL5I3lqUEASljnA.jpg"
+        "https://cdn4.telesco.pe/file/nzOse7ReuT7J6tO74CxpwaJChrjKBBa-4OM4ua7BBN7x40GP9d6MZsHfOHve4DImcuGBCY-Gh_XC9JrND2cZMD2o89Q3YMs6qElsTjR4zo0PqPhPyswhpWcJUSE_QeZpfvEdFvqQhztDIfLXvtpryz6jNP-s3m0UDXyoMkDkk7ENHGfZtLJXzQ-SDZ4f4lAS1uxL21KFFvGSCEjalQj9d0XZVGXsVI7qd_mpBwC18Q_d6HVd5hMdorQS6HI3D6usGsyGmMLFwFhqkeWQu2IGl0uTPs5POY9K-UJjryWAjTHprIZaWBDp4n_evPHPRDDfFqx8_tXxCdGoL1VfDyFaHA.jpg",
+        "https://cdn4.telesco.pe/file/hM4Ud1130ab3lZ1yxOeT5IjV_A9SyEYPmPF492JnlzCFtBoiVL8ePz0jypiNo1Do38MopIl1h6yDUFVLXE-tZg4JWxS3B9KP6gogAfrN6JiQ0eX1CiBMdSG3f4VRt8CEalPpA3-ObuOx9I8RWhI8l5A_-o_6uZC4_734zGkjTAMmB1fawAzgjuPmO4h1B0LIJoIfr3YGcvFKrXPSEFHma7LhmtEeqhG-mjfGydz9JMOteqffeDPDR_gbGJ5dQ_L9vmDqSTHcwvoZgnmC7bef-NMcSvmKVcv0POD2YUs9bo9rbrtLgr0d01Yuxr8iAn3n1oK2JGeNZ1xMZGfRZ-714g.jpg"
       ],
       "videos": [],
       "description": "\nФарфорова пара з ручним екранним друком — данина яскравим орнаментам андалуських кованих балконів, натхнення Ар'єль де Брішамбо. Насичений червоний колір і графічний малюнок роблять цей набір справжньою окрасою чайного столу.\nУ наявності — 2 чашки + 2 блюдця\nОбʼєм: 160 мл",
@@ -551,9 +567,9 @@
       "title": "SPECIAL PRICE",
       "price": "3500-70%=1050 €+доставка",
       "photos": [
-        "https://cdn4.telesco.pe/file/oWl76Cr7NOEN0vZWumkbPS2c-AwC1EboF3L9clwF5jBqttO0LVSW9BfZ4TLWbHxuajruc3IDpWjQS2ZHBM_I9xaneIiS5AK_Ip5ojWoSng3bBCcmaaj6uPwoy08NNrhv48kKb1CT66Atbyb5KmYGVLDh2jhP2JMUVQoPnqV-zh7uq9Fl4mCX_QssV40BcYVCohn_CnCpyxAr-a7jIDE5Oc_vFhJrihDQ5EZmZU5wuF_9tF3nwrwi-iw2w49-bXQvZR_QCgW6Xcpl9lUFgAXSV_lMeY8SqV1QfB-b_oI95XNRbNMNqNpX9ngN_KSKKq1p3xzCajPbEDbE9kQ0nWMyyw.jpg",
-        "https://cdn4.telesco.pe/file/tV-7VuHJJ1rfRIN9a680ADYNJsrDNG9JhEzm9nkd4_9CbriCYna_VRE_NfOb1BAxc_5wv0A1NgPFu495ORMe4QCmB6K6LlFT-beGVCI8kieZ60PUnIEc4jHNWY0ccr-zrXg6oIDwg7DF4cnbGa13A0NX0crFqj6FfBRgbxhCQMsRNIN-TLY2VTDFAnya1CVK5e0EfuWfe4ZlvsoIiR_S5govmhal1VytuEdGWB6G0nz6BEM1YNo-BolFYJfI3FHsBK5-M00mpIIlUrC5fMlVvpI4yY_tO2myHG7OD2zrMDuKJSd2atclaZM1Q4Xo4tYsfk4h1ULU-y7uP07-ZPtjDg.jpg",
-        "https://cdn4.telesco.pe/file/UaIZ9MBRdoVP8BwecbGJVCbCP-YfHQq0YlNA9IscwCiQr7crJeHzJay9urhtzkWNpHNjAQBro5KrS_-dK-MESNMlMZjVKWR7cxXca8NdtTyDCbixbwzKLt-ko0B0ukHfo62m5OK1p2JHYzgTECZ0u_LSGGmOMWHPXCjpm_yK9LDuUYQwLwT74BzOheWy1SsoIM4egUY0nNOaS_MCCrTc1zS8sZ2jSXklLb9tSKGCfN9zgeWN8UY82CE79_4Q_JNn_LAz-_4umrSyODP4iTN2FFEBQlP0FMJUCxGrAL70BVJ-xOX2XyisXpY6V2qigSoYUQTrp7bfZEq7aeizWGA8qw.jpg"
+        "https://cdn4.telesco.pe/file/ZyNY0X3bQe-gMm33YTE38Yr6xDrlxCxmi-dA7yeLqlrko0EMykrtb5wth4rIWVTSsbvgsH7u-Ku7rC7LcCHokt2EnFPxkizBUD4Gm-GqU6_1Y4W2JLu2Mo5r3koOkzIS4BOXwcrIK7s-cB1D1d7qQtoxsOZ1mbjZ3Ix3HeveGGU72fmQfzf8ItlLiwouL86ElH0oKAkMkxcIiFxC0PZyU_IeCsrwSrnFgYkudaCqlHUDMmJmePN-B1D5sJcB7rIuVF2mkouNI-WbVI6m97OSAD4qqEOFvN8UvFFzLGuByxeb-1hlaT96V-y3Mfu2NveFaLKjHBPdLvufLWBNqVQtJQ.jpg",
+        "https://cdn4.telesco.pe/file/CHc70kFEgmISTPgB1wrAqDOFyKRH2So1KmQpzpIOAgv_f29S6b7JF0lN_vsodJe4AFTH7-nW5QFue1Md12MWIT28eYAGUyHepz-CA9T8m68TFoMhuOW7NVeF0XEw_UHc5-VyP8hxUOYbiLFF1NcozCAeDNTk0MlLEnRE58oVH5uAeb1w9iylZSV21A7jhZsedj0H9uK_KycinC6oh7Dukl4x8Czl6JQkBwrFstU_lfRdxjUp4oovnpHOP6xdoij8wAi5c6lctm3PigJ8gztXar9iyqktdEvDQlSqdEzBlECOPDaPpG2okdtzkZ82LGmB3Vn-wrzDvZKEkeG_mhS7hg.jpg",
+        "https://cdn4.telesco.pe/file/m4_vcPmSBwS0xDInUkszujwP09YaesKdQg0tsEYswtmPCYmlhs28JVeFpZCVSEQxUbQNOjh__6Gyfb42cOBij6-KDSW8bem870Qi5RDRmkXgwZfGSdRTS2XfOe9Yo_gwJCdDG1gOsT7NUHoGFOzSupYthlkocth3asZcflMdjh6kfA-1ceg6a2zJiOoUkc61DStSddPBZUJIsFR-dqxoAzE3yXz32G7rZPjX8y-L86yb0G6oPI6vvz4r5f9jBJ7I05bF2O3IgpLyVQQ3a4r_MWaPJeDkTBGpbbA6RynTtJkx5dq30kW3cUEsM7Ekla5gKl5UZ1ETIV7OzfsVzVDowQ.jpg"
       ],
       "videos": [],
       "description": "Легендарний анорак від Saint Laurent by Anthony Vaccarello — з капюшоном на затяжках, частковою блискавкою і бічними кишенями. Легка стьобана ripstop-тканина — стильно і функціонально в одному.\n48, 50, 52, 54",
@@ -567,9 +583,9 @@
       "title": "DIOR — DWAY SLIDE, BLACK POLKADIOR",
       "price": "690-30%=483 €+доставка",
       "photos": [
-        "https://cdn4.telesco.pe/file/ea7bKcQLTQfIn-u-_XtYfJIqA2kD2kt-7diaxTAmrhBaWkPkCf2Het86F9vGkXde7bD62wMjwOrJvDrwZHZl8_w-P3XpwN1CtgYpAoyWf1pKV2fuESSkPDUCgo424j5aKN-1e0o80pM9bMhQmjtR5tqLy336Niw286GHCJFEr0g-9mUZFDr5q3JwSSTd3RYy3OgmzlSZBRu37TlAVXMhZhAec587kxJqYfd__NVgkAHP0tJdX8KRg8a0Rfm9YYoUGsIqZXIgdRRoTfNkHRomGfFGlPmLkBmS-7H2v09rp0uNYjE6qKlrbCIkTtwqaE4OKkhuyFAz3o8jN4JNDXtYBw.jpg",
-        "https://cdn4.telesco.pe/file/EgNimu7XMPR1KS_sp444td9IqYLXV0OU5nCb9enUPHHEVfpZHuuPXQ3s7DjU7D_jHXYUrZcB36-l0VDym9drcRdQqAUxrpOeQ3FuODsEPKK9itlSTvzA0xrt5YP3QlvTd1ygzbmRMcumM3phWHRjv3X8wgMwATuEJMskF7Sj8CS6aSCwnF0pR5u_XNpOvIjRAm2ea3KUvbtTs7dSvAQjQb9jtOrNK6nvV9lHjtn-DrPeW7uj8RFBS9KFGhp1UZbcLVTxci4FrcFEB_qWxUBgxy-a6jv22jjwiqgmOdPPBBktuA6IPoe5bo9_LEcGPFTxCulT7wEz-uJDMv4iwrU-Qg.jpg",
-        "https://cdn4.telesco.pe/file/k9aVGf_QJ6CbYA9n1CGtIZS4cqVCjXPrM2pqcFGBsPalOU3ce6C-ZbbL4w52mOGaPFfejUJp0zuz_20CVVYcxAExBn5Cd_41K2zRA0tcWwxxIQtVTh0vTmS0huP9P4fjl6bs2HVHwffliA_jMmDHh35-0BRtdoohA6NTE8G_8trrVixMlCkoy8e3YJtct4CCSL_wzqZMPVDYOV52BImLPPVuscPFc0SfFoIrB8yLc73kOOPNpRE3n1v8ENAWlxH_LQ_s3EeLa9j3wEKIPYNN73O-dU8kpwA6Bfjvq-Cfmk_96td5Fq4XPU20XvUT5fmzHN20mPIvSrq6QAJBhbsgQQ.jpg"
+        "https://cdn4.telesco.pe/file/htvqQYf0lYpE1D1m2kwXye21yBSS1gBAymKHselhcHtlKa-IG4H7Fkiv_DFGBoKTsWQ5qIA9c7Fk54jw_ktK2Nu6a6DCI_vKgBcExQFq_R6cVU3ATnCgVXGp4UNM-8lOWftJJCBj1zLUZB7vCpEauZNbz-KGtFx74-FBrcKtxl_7a0PZFTd9pxAQfyKzcoxkA_Iu-LiXaG591f-Txq3_k9te61fA72p0wBZ-yKMM6yDUKmkBnh7Jl_bst9-WtBCwW1CKEqHedwt3t1Q9AjNxvp60PL0-1h213pUMhJE2EX33bBUTGcoQu2fPwekcE6_4TXqlEHeBQu25_I-mSPtXuQ.jpg",
+        "https://cdn4.telesco.pe/file/d0BEitT5g4gsQudSphvUMYvgwvsCKh8YCJN1w5dcWm4v6rTuMuGita8D3lQ4NDpIlP28xIJCpO8ufNS1KS_gPShvLxftidV4htirye_Sbn-5Q7lM4lW_u9xnxOXlHdbd6QotPw_w7N37Kl8CGBxxDFKyUcqhYttt_B9T3SyrIO0G1UeljzxHof_h5BLON7JaP1t0rumELVpeNVvJjiGdDWwKT_0ee3PrnbiRIa1bl2K-qdy1CaYX03oM3F93RAR8OAw4KImjiFqkEy-IsutJ1UNl0fadX-mdZnbpSKO3AkTJ-8sp2edqpdfzxalY_WFjM_foDtAiJy8lMHIBj5VL9A.jpg",
+        "https://cdn4.telesco.pe/file/mAHeD7DpFU8Dvv_EUavKmyJ9P-9Nukuqwdno8XMy_IviTJahdGOFQJnZ92eM_dpWBbGpfGkdA5_yY5lNWXxrkWitKu-o5PQjijantwgsG_fWmZREbiurJQgSxXJoynA_2yENfZFqJX2uqNz-7V7SzqSqhtQpi0-TjUhhKSdUqDonykDdNM0qnaZd0Z163x4rhJ7YEJjEj2kRE5tdgmeHIEb7bGyOUZ6_i7kf9Aa9NQh2zPPOHf_-11bimgB2UJy67c5IRguqoOyG25IdFZtqK6OVn5EQ_r5zU50NAy_saO0LADHfKUlwPKlp57bVZ0cplJ4g0107K7dnftviZ05aDw.jpg"
       ],
       "videos": [],
       "description": "\n36,5 · 37 · 37,5 · 38 · 38,5 · 39 · 39,5 · 40",
@@ -583,9 +599,9 @@
       "title": "DIOR — ROSE HEELED SANDAL, BLACK SATIN",
       "price": "1 490-30%=1043 €+доставка",
       "photos": [
-        "https://cdn4.telesco.pe/file/j8RE6wRj-aGEXt1OCg0-qlXpI0RjX51NwJBUD4_mdH8zIue-EPLod-FGYf_vo3QyXGVSAjftSG_Q_lE5-wmyQPrGPlPgNeHpwtEiO6H9fur7MYMSmctakGdrMfllFAdQSstTjQ0E92dMNq4erI1yvyOuJMymqMnWA9EvrevCApn3XlwKMUhje2LcpqDXGL72Qf2vf6fsn5cBC3MFs_dP3CklPHaE2FW7qpJuJR3X2SqpW7ECB799IpdwyEZ7YV8gpnLcNc7uaK42hP1g7LSuWdMbyXWnw5GfmmnMF6zJp1o6wDp32CPB8qkZRgzCyO1RL24gBulm-L5KgBVxtEcM8Q.jpg",
-        "https://cdn4.telesco.pe/file/BKDgSLH_4rE4_dSGO9qlgXqUH_7YXBzzHU8i1exRezBmYwC_MCcZny_n4BsbT2NtrU_L_ti75uZlw95cKJiYbqwruV0vTMHB5OA4Yw6h6roVMxt_0U5JXhmhS3qmpZDYjPaLiVhzD-uNL2GEwkGIsUTD5JbErkU-UaqS7MQAQ_cjrpiT0h1PjbdJB6AZqFJhFY65CDnBKNjpXYp104nP13SO3sKCvgWtkuKqCNiTicRPi0HXNDjjIjjaLlhvcO9MreBXpU-qEDryTpSaDgnJH1tZ2Yh9CU9NDx9J0T3kFAPdxM9a2LFsKDs6WBhToiZJkPJ-xpQv6CarI7FfAMnRbQ.jpg",
-        "https://cdn4.telesco.pe/file/ZoxlhDHXPwx9Jgt5JKQcfh8YIgdAmh-f9sV7C3SnK7xw61xbHv9pSbdxa4axC25djUXQXLnDJbLI_vEN034V1khzcRxbW3HXoQ7qkmRvYfFkNq9hw50i6RMXr-ueX8M-sjuS3oIU-EqZ1vFlBtyWTCHmV5jWvbyiW3VtX0M4WnlGdzb6b9PcGkeFPK-B_ucua6ReQXh5zwNItCNHi3xj6CmlKXyFS4Mce0nqazwTaafGXQgguiPyCNLEOBFkV0cm9Vp_HoW8EZkkJ73-gFnn2T_66cDxcKwSM21VMloxbJ1zLffKOP7yqxwXB-7I3VpXrmDa9dNzYs124i-AUlrxng.jpg"
+        "https://cdn4.telesco.pe/file/GHZBe5S4Ka45Z4qI1OpzVaHCCl9uRTGTJvx1vofzLtHFy8Q4ELi__NWihZGf6UoXY4WUv3os0JdmzWFZb1VYZB8tv_G1OI8uy8zwtlvsertObMM8Ba_363WgcZRqcDA1P-gd2KnFv4BogFHUdObmqq2Vryreisrt1ViLMg1VR6npemEwFkCj-T0AzNGv4DZ8XYag11sIrW6U_y0PcHV3o5l_CeJ5tC598Vre5SDrPRCs_QxirFQAQPXo7yRfJ3mH7FtkCI0xfKHNWEN4wbfrazklu5iRxcnNuUC3tdC2QuQZOeayCNZGzkw0Yfqmagwshco3krr8JSa2A0hezZpIxQ.jpg",
+        "https://cdn4.telesco.pe/file/tKsT66DJzwq69a8AGa_VF_9cxZCS6QnT0vONZnC_Azm9k77S4b7ZrHxhm2WqpopeP_ygk8s7r6fog8nmPTIUpjuC7DXV8_PAYXhyL6CL_v4waTh5mzvb8VWiqsaXRBjq7Kp-0boABpnt10_SrBuM571f9VOBbvr736LE0UvMY8uUYmkwOYYERWljD4PAQlg_cCtRdHMJU4dNy2W7EjHirU4rbh-d4mLsSxYkLz_XuWJBBJIPOpqXYa8yYjlCuvtQw1-YH4nppKuUr0Me5BndSU60UCv7vR_CXyXh6SdC7H2enZuhHfGfxu2RSww81A0z4nVvR3ssr6U99zfP_ikCKw.jpg",
+        "https://cdn4.telesco.pe/file/ovGfXxQZHojmt7Ojn6VTZrQvkGD3kyYWLflduMPWBZAYS5dqreJKuRlN3MCLlkr3Blc1_USXJychvwhBiyAFzsDDBD8RHSXUtD5Wj_88bMD-94XZUkBGEAw2AjBBA7KZA37cESf0Lv8fk9QpFEns5ayUZYeGjDvEz7F_oVflO2nPZ5vJhb1B3EXSeMBW9_E62eC6wD_ETnANprLxsR5khd6HgFEi3AYBuKw3P-DL0_a8NEiENRRUHkGeZFe_1W9bCDHfquh9iSWBlzyvAjH3aJhjzGzxcI4MAXglYQoiBHVnsqg3Rn_-9a2KdzH4AMjHnDIpO-9XAvcYgOo6C64Ngw.jpg"
       ],
       "videos": [],
       "description": "\nЕлегантні босоніжки з чорного сатину, прикрашені драпірованою квіткою-розеткою спереду. Ремінець на щиколотці, квадратний носок і графічний каблук 9,5 см — вишуканий баланс романтики та строгості.\n37, 37,5, 38,5, 40",
@@ -599,9 +615,9 @@
       "title": "— ЛІТНЯ КОЛЕКЦІЯ RAFFIA, -20%",
       "price": "2 500-20%=2000 €+доставка",
       "photos": [
-        "https://cdn4.telesco.pe/file/BXmqu2CFMR70CyOsahBfwbmZ4B0CzK3B91W98x0EPfC0FruqkQLh1WLUQwmDUytmZ3fYvLrzBhfRqhgl0l6XweRerxWMG6Qau7R_h4zF6CKTLWyhHfFGQLfrzH9F5StWoWfSPY_Frxs1RYBHZMbRYBl2RrPJ1uAlIl9bw5qD7lwQVTbsiWzM_YPLm3ojqTVJjnmjVy5d0yjGRTLWbazf88pZKnOGQQ7zqM_loBpqNEHxZlJeqKBLcJkDWUmqh14eiGW5Hu91-P0eV93ukbCN4RJ0Dlj5lRK3gq2dNrYYv7NW-F0G_JMuYbVVAjj1MgiAoiPyRzCKYPGuEwhEoSd5NA.jpg",
-        "https://cdn4.telesco.pe/file/mhgwG-gTjPsuAo5V6vqLVHbh6p56zvXqRiNR2mDnIV7A2yPyEiIsE_rcpIWg3eo3dKXNEozHNH1RTBKMcZUHYmGcOrI1EelNImVugw8ihTwTFOI2ki8zP9xkrWLod1bwEmNsvWW9X7zBZ_Oap4HKYPW9rPm989m1UzmMWILqcHutj3j-zpPTBU3PcKEc-3FywPqtZdJbm7cC__FHu1sOhmk3fqQqJnjghG5ENKXVwKOXEOErk4pPXXOewswTVLDy7U5xSoa4A9q-vVd32eTHhFA6Jg6w_Z68iK4RrQ0AERYQUSPOhCFnUbCfKVdYsBcxO0Mdr_Y7WV6jEj26xLdTZQ.jpg",
-        "https://cdn4.telesco.pe/file/Wl6kW_3fHzt_RfMGyyGMKLDDJZJa_8kzl1Lnat9EJAVxhrzx25qzdcf0MgqplhMmVhUJFgGSAFGWj9apnR6FwvkuCVRlxRuHWC2KkWJPQG0QMEk5E9nIg3wkLARwY5HhdRfelky0IpzyysLe5bnwB8BtajwcDLq5JFmwM5OgS-6dAUPIo-4SY1_S9BUCruImEE_jNGfGXnf38PeDihcKgx5kwHxYJcW_9tr40HcA33d8lDBjeBUM_bsaVxnX6cDM0SzNd9-5vlqv9g0vNehfSjEeWrmKfJrw-q8Hz3ceUaLxEf0E2NTfxPCANmUZYrQyCVM2wjTzvmg91CaVXSaTkw.jpg"
+        "https://cdn4.telesco.pe/file/DHp0B96oWFJKPOe5aO5MBSxtLHmMmKl--e4S_V-_V8XMMAZUAL8F9d8r2YoYfv-CrBGZbuY8QDrVVFoRoxbFSkMDeatvj0GrbJZi_zZBltdFlTRidPnzPszYL_VxwS2jkLeO2CN1pq-aOHITytjTQLH0HCN6Dsry2xEYIQ5ciP5bBlfEhB7gzkszwldM-q8h1MfJd1EUZvpLbp1F4_5pVvB14_boY7pG8F2q3LTyleUvR4t7PqXwP5THk1gE-1l4j8pTkpiUi1tNAoVTf1DaUQ0GifT8mwNhW4Q7dRly3rfRcKZ0pMEkrNsXBEW0J6ywTJNP0dGv36j1dOGBS9y5DA.jpg",
+        "https://cdn4.telesco.pe/file/VQIsRasWX1-dQjbHuAXLw2T0vXpila-UVNLboH_y0_F6-FLRcUmnMeylTNQzVLFilprWaTnXf1SrA-638-8MhvpeIPkhExUY6SYAjRnUJVpc_j5FsNLgNbRDBlDOFdR622LInHxdcf2FJ0xl5IoBhtQrWY8LxkKcwKANxHD5Bniwb75VH4Rg08S9Q1uDuQ0fwiup0oiBCEdDRU8Z2msJz4fnlHV8rkTF_QdHlkfDpu6XlKPHn8zjnF920jid4w-zxgFqMdLfH8jY4hzR7_EzO9gzhFoJXKZ3lj18RjlO6dPO6UqM2lFz7SlRQtM7VLNvj3CYtGNH6y_qunzeqvhRVA.jpg",
+        "https://cdn4.telesco.pe/file/iO6i9LiA8Ii9nIAoMBeIpot5E3SxlUt7k6KfWNA-WnHvkZJIYsqNtGmFcO9eSKgOwC0wVKF5z_VRWOxGU6080Tyz5Q28YHYYPOA3vVqvz-jnQvbzAVXAVJyMy7MeGGBEjjo0m1bz_JywqPo8W9WEO3dc7maCcSFzcebDjiOgWdC5bfpyx1Y1qeWYoy1hOksTAkoQk8bRI-4KjZzgOxFBDUc5D6alxuBozvVPB7NQAGzSBHRA1QWHR3XmKenUOIu0ihWrXuz_0baIi5TT78uTO2d082L-q_2C-AaWJCyHDs4jdJQt2p93hh8mW3MSO24GQcl043Xf7zgcqmAKbusa7A.jpg"
       ],
       "videos": [],
       "description": "Плетена рафія + шкіряні акценти + культовий Cassandre — ідеальний вибір на сезон. Знижка -20% діє на всі три моделі:\nManon in Raffia\nLouLou Mini in Raffia\n1 950-20%=1560 €+доставка\nLouLou Small in Raffia\n3 200-20%=2560 +доставка",
@@ -615,7 +631,7 @@
       "title": "HERMÈS — HERBAG 31 LIMITED — ARDOISE/NOIR, PHW",
       "price": "4 100 € у наявності",
       "photos": [
-        "https://cdn4.telesco.pe/file/tegrjLso9l7Rpnv8zT6hzBa-XSOsE-vRSGqGxke-lKc5dlDyxOtubq432Z4M-pwtKqgUXYw5YiwKBiiqkp5BwND3c9_p6Zp5I0V6KWeNn4dVlM7VJW401Vm4fIVScWwYJ2pSti3xk40N04HT1Rys1Ka_pd0M0Ztw6q0HhXUlNj07-Cij8MiViBk5tne8aNQU3KbSbCdmGVVjUIwebq8hDdGzYZ27uHFmtT4vF1Hn9WNEzgjioXk0AXASeOb2LTc22w5K0M4d084CMl-m1lcTtQB_9iYEcSE_5tSoZ7yzpm8lvffNL4rpixq0rRNTZLNsSzyZjf91Ptz1gQPA7U_lyw.jpg"
+        "https://cdn4.telesco.pe/file/eVqDmCJW7NQ32UnkEgtLlZkyzGCkRdtv22LpVhU-yD3HPFnLOcoIU9YZ1kj0VJQH2jN1_8F-B77d4Jxx_MG7_8nnddIVDbQL1Qe_Wmy5SQEiFjIyrUpRH12gZKVJN3epFyLwaGyenmnmXD4kQEVMoNLUSfMqS3pxd8BBKAZA9ZQ24U2zB0Jh2827o5u4xMDIhg-CKHz5GxCIpLVN2xbSQlItnFREJmSqHifcDUAwhXgGJtevUGFMVrBhgCF5RReh6F30GqEuxox9RXKlQKGUUj8Kyiby0W5LZA24tvJgSQDdQVE8BYjJU7F9OSc8rJG4VPtd7BAljor2oBrcUe7vsA.jpg"
       ],
       "videos": [],
       "description": "\nЛімітована версія культової Herbag — практичний формат Retourne з тою самою легендарною застібкою-ремінцем, тепер у благородному дуеті ardoise/noir. Комбінація шкіри та канвасу, легка вага, простора місткість — і водночас статусна впізнаваність Hermès. Фурнітура PHW (палладій) додає стриманого холодного блиску, ідеально пасує до цього кольору.",
@@ -629,8 +645,8 @@
       "title": "LORO PIANA — SUMMER CHARMS WALK, VICUNA",
       "price": "1 050 €",
       "photos": [
-        "https://cdn4.telesco.pe/file/eLobytxHFMKkr46aSc70i2iWL7jCWWeCdSbZBwko1o208WQmvWir77RFrtMndcoP-9_93dVPyyQaEedUUEIDJAlZvVxTQlKUWu8Gvk_ZiItqfYxl9l5aby5JKX2NaT3u74q7cXEAxWVqzF7GEZ3X0-oRUVnikF3-KcgormGUhGlG-jMM3jVrfj-8SogfwCNiHSfP4RiogNRPZrG5HuQqWnpUpUMiAqgAsuh9aiXjDYDiXeHRyN0gIxkC8b_VEUDuppNSnoJDJjUuVlBIppl3NVxEwGhhCKurVKvDJ7w0-AroGXGTZiXdjw9BFal-UGAJhgIgzC3Z40Li3veynQI9hg.jpg",
-        "https://cdn4.telesco.pe/file/veID9pmwZuzffbxh51zwgntG27jfefUpDapONYHhiYhPDLX8Z59zp_-TaPDYB4tj0o5FJv0AaiNg8Q6fNBdHSkmqhuAuuu1ZUQqdoFAxwpCUwzreqRuicpeAdWG7JQskj4cPDPxlSFkK-CQcdMgsvNwKW6ETHmCy0YZyKGlgr1fWojTNy8b_-AZxwNtPajDw1nDbVDXCfAT8i2kHoWYhw129roZ5UEficXiMZKgzo-fZbnUnFUblViZRaIKyfxlZVmso-b1yYMUuuxsw1-qCwdDl_ISxLPLEqrTYjZpRAX031ATle6kjn3z_BlJMqtrhdDMe8Zbsf-fuH9TeNCPtQQ.jpg"
+        "https://cdn4.telesco.pe/file/bj_4cF1L3A9V8bdH1gUsbIEWKMIkroF8yGwS8myqpRHtQlKVzMdDON7IArcDFO2kZ9g4IQKndKhCbNsn6xq8KuBVrpfX6QPA5GuL2WyaNzMIv0OJwRDT9eo9iplrE3lXJe5ft_VcmLfLQR1r7u0BPRcmrgMBbpHTrfWEPlsGXteN35wEvXVen5quP3poWLGg-8pkj6veTAM1KSGGejFAmoRFoPnjSEqwQ9SQY3upMZWi-W5ClyZcMP795Azkn2Te-9JKljje1YYtF7SDTJCQZ3wii1ndo7edvaBaDuXhHMndZRkREEzeH4dJ6D3GYHgIZu8Fk1e2Pom287fBi0HWyw.jpg",
+        "https://cdn4.telesco.pe/file/k4lsvoyptgTC64p0K-oTaNU2fxnH-L_2J5Qrt0TSnvfT2XIgxGf482hAI88h7H9b2gZBX-0vvbvzDOpyb9vu4zUJB5beDVpNDu_kvVlfLCZxsvmsn5hgvCfCQFH9toyat1X4Nza7dH72nYw0yDQJxpY1EaVNQWkx6-2mH43jte8MvWeXfGgAOJlG1d--46_rQ_qBXi7fq2KDdW7jr93LBZVVFElqHoubmNg9RaNTReA6KWH6GJf2DBMwklbAniE-7Yvu8w9RPIgMUFqHlCP5wr-BRkRVszf9qP4mN2g3hTHNIE8KhNEeOJyeR6Z7RhjTsOnEEi9M_posBEh00gxO8Q.jpg"
       ],
       "videos": [],
       "description": "\nЛегендарні лофери Loro Piana в м'якій замші кольору Vicuna — з фірмовим золотим шармом-підвіскою, контрастною білою окантовкою та легкою підошвою на комфортній платформі. Мінімалістична розкіш у кожній деталі — впізнавана з першого погляду.\n41\nУ наявності",
@@ -644,9 +660,9 @@
       "title": "DIOR — FITTED JACKET",
       "price": "3 200-35%=2080 €+доставка",
       "photos": [
-        "https://cdn4.telesco.pe/file/r3ttm1VQv82cuv_9ljQs6YpUVAJC5O4N0UusCNJLl0JJYk5BZLEQaCKN38Vf798yAIGQbsOQjPz1QCxF6-O-K7oNqRqXJmUczsTZXjUdl2yjd-oQCd5uDEtuS2JZ4q1eaQfMEF7s2ajDwF7ay0PqI8wbjWJUzZHK5Cg02N5et0jaAxfwAr3S3qsU_uoAhJ2IEln0mOl_NZ2QUZmsAKkDjc0e-FEwuu_MD4cwjXvcXd3ryLngZ_u0Z2wdXLjzyxfxsNt0twfOCZz7o6mOXpDNobfhbZz5Sd6aVrDBRXGxT1846B3796EKcLN8jCQGYpif9b9Q6buX10-U7yX5lFUQFA.jpg",
-        "https://cdn4.telesco.pe/file/d_FYsP7ZIFFMuT-hzhj9Ay9DpTy_bt0nF-8P-Z4SygPAWGvOCUD1q_bHdhIKLOjYoO16bNTZPLyoyV5rGxw-Kf5HxBj1aFUzVa6U4BU7Pcz7vMmoWPFXmJF24PrctLccj9z65fq_Cs0QQbaNQxXHltrPBX-ww4V1Ss5QGoi1dBOJOr-joOpW9AGZe-K8O0e2paIPm-Ej0MshnTQe5YTtlXDJT4P5qMO34ny0WGddvXzXyzwLbcPx6QPEsiyw8sMKhrRyQpZ4NkA-mHNJhbWyYCTGGVN5t2bVlUDT2mVSIpJ6cVsB9_M-NcM_F0zTbvVqkGJAE0nE4fjKLiaQkViL7w.jpg",
-        "https://cdn4.telesco.pe/file/suhUnOHpFfUThncwCVPLogGXYtmR4UrcKibaHwyZnR253VTTaT0zag0vClbR9Fm8kLgz90FIUHWapSow0H1YHn17vwPss3KRfSmnlZZpYiA8UQX1v6LBr3WlwLNBAlKk5BUE9QYxbZCCKL37hwOgic1mLD4Ve_jxh5nt86lX_TcIu4D9npcj8Oq-O3ra4HQfBenixf-1zI1Ki7Z3OQfTyI2p-Gb38o_43gI8_LPYixIzp9ntOe1eHWVT0qKD1MzC1wWSbVPRQfW5HhSC_tGHlTbldHKUWEpGtzoZOvid1Y55S84uhfXinU1Hir7wOy6XPyEP52w5yHS8CZbMOOHCXQ.jpg"
+        "https://cdn4.telesco.pe/file/DrJv7pNFEX2ul9kVxnFtTROJd4HmCCKgRjhpBpgV-8gefP71QEeoqf2z4T7n6OMtbyEEZ4QF2s93rCAuusNtVAIYg5M6zqpXXxfuYzyPympaI3Ec_xXlHDCv2stfqojS9sBSKmAjdQhfutdjPnwtdjJRVLcUEviZaN9QZ5WrMVRfVFxkuNGxopOZoDdQ5xzh0iWCGvGhf5GXVT3NlZtz_UA7i-iCVe4LsIGyZAmu5cIMLPxSUwjbTZFYNFTvzgiNgcSCcTQfykmk10QeQa3c_9DMd_bgg7XiO7u293eeobxEoRu-bT41F83eylVfRLdEZxpil-9_C-SapY9FkF4dlg.jpg",
+        "https://cdn4.telesco.pe/file/vFAMnKAojsZR-3r34GNkD_nikJKDw_VuMCrnkH5d11aUOtydw4b2mPgmm9TlV0oA8LoWN6F89xBLNh9nEme6lxI2zF2jwzA0Fqb_zJLWbGyVCnMCaC__i938DdMUw4eV8pJ1FuJ9_TdTJjkhxjrGi5zK62VaTGHXTb3b9Bl07zsjiBinf5dGkE6Z0fmFhpmK0ZkUq7qKjeDV9-haupxLQ3F0eDJcznth_uQFDZqBKJ4jlJEbHGJQ6qooQ4rbDecWjRxQNIrMqAXRDUFgUZLinb7SDq_k_Ke_JZU-Md1dsyQvj5LFHoTVymTinICc9xiwKNFSYVaE7snWL8teR2ow-g.jpg",
+        "https://cdn4.telesco.pe/file/R-jlSpxO01iuW7uXk9i_TCwAER2-oTVrbuxoP5fJUzT7VkPDJbOxyV04uxzkzFqQF3nmmNA8nmDDScOrmpr-LfH38AZiemmUdbK1dwrDLPwX1TD3nlVa9UAdRuS0mLUnmkcBUw0t84OCzqkIwTD9FlCSa3bcdfnF1JZo7h9WE9vuoQ509lBDd8EmwOocxyJviNSMMYnRkT0-xOZPPDIVaKDm9DGQ92wv6tDLDqvkYFI6e9hTDdGXry6T3sdCoycyJNvlqKmumqHkEqYakAjoYECZoe-8nUNyCFUaG0PFbj3ucVTeMMV-PrVo0odDisz9XjaitW5JRpAOmldEQfamUw.jpg"
       ],
       "videos": [],
       "description": "\nПриталений жакет з фірмовим принтом D-Stripes у синьо-білому бавовняному сірсакері — подвійний ряд ґудзиків, тонові гудзики CD, чіткий силует.\n100% бавовна\nРозміри: 36, 38",
@@ -660,9 +676,9 @@
       "title": "DIOR — ZIPPED JACKET",
       "price": "3 400-35%=2210 €+доставка",
       "photos": [
-        "https://cdn4.telesco.pe/file/VF4ufXCsJiBTZAt1RhVAQqiw864eaynrfyK4R6-UGY7wwmBRUVwX8pXA1LaBVx-o0qJMbXY-ScXbAi9D-oE__Gt1gSgEjgUP_1HG_y0ntDiYIkp0-nrYCTty8ww0uVJbGxUhvxB1LbDfTJeGd_Wk6jF8ZtFLpQfgskVlvSAIdngmzMGIqd7b_plRDd9buwN1FdDTowDzS76SAOekU8PcODAc35F-OL20d5pDIf8mpZWAkIcMPbBlURk9Wf7eBogOaTwQ3lTiZyzMvIuVNP8ak80t-27rcsEKiYnXFDq91GaO-C7AZIz77mYMEzSJ3BPAz4PZdsTfPjtKQAvSgd9VQg.jpg",
-        "https://cdn4.telesco.pe/file/I3HoGVIIF-eWV1Zog8DgRlUBQWdA_lLoYdpAYqMd04mxQiX7hsaUS1QrdggJi0Rr5a-1zwqZ0uYcdVySWHBv8TgPND8VPNTNSwwUIlM1F4LP2t5AK7-FpjKVOViXnc9O8GHiHPt9MRP9ivY1diTjCQ8zoDiR4sKtMtyEtlJGXY8e21xBL8qnCxveHmzX8FK4kHIXB6Rt-84B84v-n1xhIn0G0uFhs2YbHceooCdJ6jnbIXc9jgYj2mZsgT7U-3F2eZqIWlSm3irBb4RFaZapmhOuYynE3A3lO3gOIlaa-Nh4FGUWNRijm9WhK5vf38aXXD8EnParI37tIhVt6scJ3w.jpg",
-        "https://cdn4.telesco.pe/file/EfYHnz81s0PSvEmfK0lu51-hzaWWihxqs50enQolLYHWPIrQwSXjiUAN0b0F-9tnptj4fXYZLsORiNKKi9fGNje4c8sfnih7jWUZ1h0XvbUWnKgjt8cwSGQpiPrwV-SibcR7o2jW_N1s0EpqtwaB9FDof8eoH6sXYNKYOj2eDHSViuILwhBI3cYJxKze4BbK1mQW_9ID8GBOz5c33m28nG4A7yBPXeLqA_Z6Ke2Lw2uzqb9Fsz-rBYrCTNMEunk1WFW6TIf5GjyBbYQSng6vIB0S1wN6PX_RAp-V6XWOb5S0jtujANzCltRKn2cvTXEGfFNhjCut7u3-tY7vYk0OvQ.jpg"
+        "https://cdn4.telesco.pe/file/WcdTNS3IJjf3AddCvBIlcHkqhkRZl7AdBsgJmSQnve6AyYC4r5VCV2zt_NmPjAJqgTns8bi9pxGX_p08l-e3xnXIr3TBqlMFh1PtJZoPiw_K7ercGhJ2raPdR7Ooxu4qkmnDwsMv84NFMXMpRh5NZDDVhaoJ7I1q7Zyqo2fC9G8BC-_2RhxoUp67R6kI9Lxw5Q_5CRCgrPDYrAkKrL96TR-uvJRorTlLa3SnvVRNBd3qSR_uHGxfhekr9IkAj0AvbIGa-0dks2uvriwnu-jbFgQA4XsUh_EgNkz8yQrMUFi7t4HMlPyAynjzBSulb_VHPEkdFO6R5NMR0huEeveLZQ.jpg",
+        "https://cdn4.telesco.pe/file/IIpDQu3uyoD3o1YYvoIYW_4QYkHoJqviY-m_YPrksQXqr42W2F756aCLKZUzVWzWay_m-xrBMQ_lR8-mfTdpuBA5dzBeqDH2Xsw060F2JuyFtBuT-f_Bw56VdUvlr9Gugjj-DFbkFfOOePy3u_vueEjCNI_a1UqMT3DW7ryM8H8oy88feK4xzr50B28xTOqxm8gZemg4TGrYL8wUqh_wsj_yku9TJ3iuOBRgiY4X2vL3EURsmIa94wVKGu4wJIQJen2wUdr38WBbN9dilgtJt3BUGnEFTqPSc1dfIcSyzoPpfQLtzCKjT93mVpwJYbFH2Vy6S3kqfjSQyHri0yTVjw.jpg",
+        "https://cdn4.telesco.pe/file/XiN61aATyRgVYhh_yA_DS2xxom2cbmAmGInbHEGD2eLhsrxfpF4hzHL4JAF6yglM4QGBhjXaPzPEtPGLif5nPbhjVWDx9A0kqRKqbDzecei8onKCHSXnCEL1jHhjz_J72Pu5BbIHBFp9xo5Rb_BARGT2AHaxrlX7wdQmF67nWEvBLXWMkG0mfEKnhJ7tZReOroTb6enWET5vxGXC8HpSgBO8LuDEdZNpkBwMzp0PFRq3bhG_7m2-9nfn7H1KW_Q5RLwLkILB8mfDr1mDBWGOcIVzVNXwDcPTo85JmphNzvle9IDyOxjfcqafsyO-8GujaxucDtgHMdfE20-Nnahlmw.jpg"
       ],
       "videos": [],
       "description": "\nЛегендарний принт Dior Oblique в новому прочитанні Джонатана Андерсона — блакитний твід double-faced, короткий крій та смугастий ребристий низ.\n100% бавовна (95% cotton / 5% polyamide)\nРозміри: 36, 38, 40",
@@ -676,7 +692,7 @@
       "title": "HERMÈS — KELLY POCHETTE — NOIR, GHW— мініатюрна версія культової Kelly, яка стала самостійною зірковою моделлю. Легендарний силует, той самий поворотний замок, елегантний ремінець-петля — і водночас компактний кльоч-формат, який ідеально доповнює вечірній образ або носиться як клатч удень. Чорний колір — вічна класика, золота фурнітура додає теплого благородного акценту.",
       "price": "19 000 €",
       "photos": [
-        "https://cdn4.telesco.pe/file/KCmGEJ6gWibQQ_9Vbh4it2jsUh0rbw5lZnxLOmSprTbQsYCmvK4BqSU7R-YbCq7AlCLFLJ6ESeXseZ5RVn-JnbEffi4XAttFZzp1xKFkNr5Ik24hIe10Agk0jUDQHHwUWcfMYuqzJ9DY7uuafETRG9DFfL-Aber4T1ocNNLl_IjydXA78e4c8S4YSdM7K5jmsli5xDeMiNXXWLsuxDQ1Ziip6uT3G5MoNIaA8SLa3sEiO-mn5L2XiIl4_dCiDwRKuQdRI18_GpRwBsa4lICqpBjxHikuoMGxvu8DT9YZ-x8XMCtQhHlRvAMBAPzVbnqWSZpMztA7FyQ2ru8F7jKL7Q.jpg"
+        "https://cdn4.telesco.pe/file/iYKqPcup6_qgrqF36rcVpPPtt4U0sb5RCBu_UdYY4cFXkXrTRlLJTEZkoeL4iOq3xmOgTNORMVTxFry6dTT0fRthpdUuBctcsXHzEvdoTYVJAEKxQPpaTZOBDoXFbI7m3XnXhc_WP05s1LO24Mrrf3T07Yj_HNi91WeYWK1jKXCRXqTWxkNujor7u36IUYzh34kAAqwLjbuV2GpVKtGSKqz2Sajl3CZbc_0-7TwqZfm-ZwKBkx9Zko8xcEyCiJ12_9gZnbcI1DgH792CW3wrYvn0uBNpgmD6vYh029zq9r6YbJiKEZjxiEsR6jGKlbau5IsePjMV2b4Mf5xHEhY_qQ.jpg"
       ],
       "videos": [],
       "description": "Stamp: G\nУ наявності",
@@ -690,8 +706,8 @@
       "title": "HERMÈS — BIRKIN 25 — GRIS MEYER, TOGO",
       "price": "20 500 € + доставка",
       "photos": [
-        "https://cdn4.telesco.pe/file/qQX8aXTP3obvx7sFB4meyZUDvQf3MM2ZOP_F2iPA1qhUR2oJxQuOPkTCxcQ1DT5prPFc1WDbgG0CI388LCXaoPvcsUBV0wczT0ecwT_Wnh61LiDbzzAKePwUYwZTZaPV2VUN-0gFluoYnOy_zJ-RhUqN1Xyy4ScWkHtfyHhsnB_dAJz7HzX2l5EoImlWWeK7bVhCaDRaNvueVkjo8m8-97KFqwxAnXMkGaQrFV1yuogp-0RGAIjaj9dM-Q08KaWzvEtYa6u-fl6G1GTd-6glZwoQJw_EFA9tU8I8jir8uX1JuX3Tshd4VV2XX3JNHghlrTl-Gz635-A1y8oXD2Ug6Q.jpg",
-        "https://cdn4.telesco.pe/file/JDVjL28K-mg8d2tVPVLLwPICL6vXm9HfUJRPbeJlLXbtNx-A8cLfMZtlfU1q6KCX51FDhUDMm-xMhu5pch8f5OVQhuYVdnccC9PVj9D55LAECHrdDD1wntUGgliG2oGLDBLbGTILY_KK4Ya8ItRY6ZiSpNXajdPXql-gx4kPT5WqEYxMFgEEVDVgJlClOlTfLBmKuxgDRN9EnWvOzOnLuR4n08oR07SFk_MF65TzMP7B3QlEu5znJgcJyrncuP4wZDJXEIK74ZYkKqXW9x559xKnyNnH4Y752MPEOFdkrFpXSpWFVJSUEySTa6zO6p7khnnB7uhH1qGYXdeCgDY5dw.jpg"
+        "https://cdn4.telesco.pe/file/T3Ez1Glc9NUzlIrrtDU_Cpd6WbcRTBm8Qy2-6PgWby4FHUWOAcEQQ-M8GS8f6gVtZK77QwPmMw2YJrGlYz_P4KwpFTmyRDZt-iyP1lzky5MVzg5FuMlBoaoTRYi4GOUmY96A7D-CDQvZqW4OcoY4nD_-hTmbYMfb7qQRKzFoGHr70TzhoPvlOuE5XmOPCOLK5sgdSybZE8M8i6NDmIg0RC-L8IiOye096pKozn3s1yTWu3pVnPNiZpKqqDV3B7Vlq-7GPtCvVz0SYRDXd00dOsTlu17BJkUcevczrzun4oYz-oGWx-TkUZtwVXfOiSoZSd2Zf03nrkaVigYRrwwaNw.jpg",
+        "https://cdn4.telesco.pe/file/dM3mA6QF7xqudgrb90PSTvl3bPANAS_fRaukzWp1i0Dcr2w2Aqv81I2x311eUTd_AJp8CZVFWhMHibypUztVJBu4jmPSQf8Bt3F-a6VJqJ9u48pSPXhqOobZHfzUbmMAPL8dCO-CN01UufiFY6pVuV-xWsvHHi6w8ZDl_QxaeBBhEYcRn-N4-_fumX8WckhwC20feus6TR1PCWwKtViPbe8bVhyu6rx9ZResETa47e7Qf_rNQH7HhPfDpKhjdPKCjk28KgZEqQ5N4qeTFvHWCsM9fBp9Ts-q0vfG6qVrjQGja8u9pXJaqQmjhyCB4A-4rXrIUUekCaLjCrgGq0hOaw.jpg"
       ],
       "videos": [],
       "description": "Найбажаніша сумка світу — доступна для замовлення.\nBirkin 25 — легендарний формат, який ніколи не втрачає актуальності: ідеальний баланс розміру, стилю та статусу. Шкіра Togo — зерниста, стійка до подряпин, тримає форму бездоганно. Колір Gris Meyer — благородний холодний сірий, універсальний і водночас рідкісний відтінок у палітрі Hermès.\nStamp: G",
@@ -705,10 +721,10 @@
       "title": "DIOR — DIORIVIERA RUFFLED DRESS",
       "price": "3 200-35%=2080 €+доставка",
       "photos": [
-        "https://cdn4.telesco.pe/file/DWY2Ye6ut3SdQ7ZFUlZLS0lsXKEhSmyye-tK5iYNMzNpytMW4z9iqyNw6U5GmklUJ4d_PgBCvH3OYShfIGUqbNZMemZISDpbeeXBDdMYk72mz7QJ1p5ih8sbWnbhgPTq1j0i9hftVsvcweXj9ePvzWUi5tkixMgg43zimyR74epkziBxcF8MP3tPLCuN2gwsTasslqlSiw5KPOd18Sru4hHX-MilxLX8DWBoahsXfCb2PyZc4Sticf4MdVguCeQc36_KQM6kt13UbjcIHAU73eEjMEeOTvRgFvZauky3hU3n3FYEL-6wxBtyid1LCrbqKL1QS8QmYBYFA0JwE9ND3g.jpg",
-        "https://cdn4.telesco.pe/file/Sj7MSvZ471ZsVdYURYE2FhZjWiNy5rSoHws2peNNJ9S0YnNVLahKwZp1PjW7MUvINYz7N3Z_i914-gJw4viOi-pI0rvnsPAC7aw_0J3TeiYUgmo6cP1MeQOMWC0da-uX2qEjZGqfKOo6AZNZ7pl3tgwOA67oh8QJAuWF2NJgUDoSVL8V8xD1zbcQI0HSpGtD0y6itqkIxNcsP3SG7G-dzQvbsqDCcVMYmyEijJcRwE7eLiWHuA4iKqgi3HH-3TLe-CfDt9yQ6riO7KLQZGDfxVr1FeMThPqKTuiVcsK0JLTrG3yU3dbWTkfeOjpWgzO_1YmgguipwhysZoIhTGYClQ.jpg",
-        "https://cdn4.telesco.pe/file/QrTCZ3wnGJgvZVU6g7qMsiSDMHH7bB3K4CcCV_W00uJPZdTbSDsQkRehffhp19_vFpQOvHPUaGSsxWJBUEN5_31fYD6IoM6RV6aAyMFE-BYy8LTGjjIZZelfzke3ydwaG2k8gnJ_s00auDf3XFyeGyLI_V3prZJ695KvQxcuDMfzru72dauZ1YV2EvJ7hd5wn_pFntjJOyhcDeP2J6bUDm31BsjDMuyBFcqOwiXaKyjcKWPNrmefeEYnN2Q3EkqAAkNZCbqEkX4F2aM6SqVvwJPX6oYcDzzn9EwRjj6VRjvs9tR062dIm3VGdE1Ryyhr3T5WFvmjqtN-I8L1hoyEyQ.jpg",
-        "https://cdn4.telesco.pe/file/qsWGY3YeT1rLbMS1ZUgrKg_lI63ZUMbyt7EnxO4_WPQ2Gra-VTOSvK-SbvEw2knKQcGelo2Vh_YkXamx7NJDGfDMlvZ9gPe8fbI6BLGrK4TKZi1NNXBwWxQrkFMJttBXETU373vmsSi7tS87H77YdoUQTZ23K2ExXAQIXDNsCyjlFeK3L8ApxQY_xbH7CdjU9oZ2VvdZbUI0rDRGx9mjAI_UN4MzpNBIbI3d3Fvg1BCO1z3OP_Y6AEHdbJvMLqAHKpsiY5fyNRM2EYz-9hCKuyyFpxl6HreHb7nYdjjPybYx8ZMxEJ7isXzTZgzu32bcn8oRz7oOLc_idUBiUEQB_Q.jpg"
+        "https://cdn4.telesco.pe/file/YFGufDpTtH-dscgeE4nbOhKLCOmMIjrNUCkuYz2KBbPAzNXfUQYvag9uUJCdBpCUFIugvWcoT7TQTTsZI5wlDDN1EWut6BxPBZvtaynoh6sh57JLfARR8G27ZOG_rEDRCH5s-QICR8ZylqEKQtazcqKyfk1WtJzYM4xnJqZv17rOgnXHs51TzuY1Av0DYWAnGraV8o2qQ_j15O_yCYcCVfcepT-KrJ3dR2rFlgjFhLN2ZhjOMggE9Ka_ZCnQs2xR3Nu-fCpYGPSn1xkdh42vO6chgst_iXVOiCBOvHkjUkLUrny3fRQpQIHsbJj8c-uO6baVzUQ6lE3uzWSxjc-QxA.jpg",
+        "https://cdn4.telesco.pe/file/iYKDQnvRjt6GM-d6s1Z1g9rjmzZcNseKBo_VPCtm1HttTlvVb429r6ab8BMFcvkg-wev7hQzgjcXJbEhJ7n1b1PF7SJqHPyahLkhgxFmias4lVthEfEtILPHqjWEMVP25KBaCFTG5AU_wsZ749Z3wOP4txdesAY7qH7JyJgi59VCncgNWwE-D_UAjtzq4tcKiZMd1G_4KqNzvdChEvq7KIzBGIjEAvU5luLnrJyl7fIwO-Sq-jhXj469Afa7UFuWHxcP8ngTZuSK4KmUeptLQxIZcG_eGx6RROmpYCysjOAXugqCfp26ht4FrK404jeR6KPJwtq5gKyK1qRVGmTT8g.jpg",
+        "https://cdn4.telesco.pe/file/Y1qaUDG6DSa0qhucnmXjZeDwxZh3E9MOlPrCyrweS4kUCoSVgf9UL8vcHbM9NFYbrPOWFYObNdZHnLa2ltEvP3n6UL1oChTqJWvXN_W-8P5xeT-sJdgaAkJZQNkcBcrgt0yOQ9eoztQVpgboAWtGXWYZ7ifdy07opDCB5JOLUe8WdqvJE34BpsSogTHND3Kx6eHzToj4d-bvu4rFhLUEKdrfkAf3Wn7br_BaR3d88NEniFRg1U9pRTJOrUH7RFH-DgUkfiKvVtaqeWX3u8EU0JtqtrKkde1cn9S6DjUGCT3uf8WTHlg_4L3iIbduoD4MMIeYSRWfmR5nGFfcrfqQsg.jpg",
+        "https://cdn4.telesco.pe/file/GkJIDhZvs125DSZk9P7HVsvJ9lRlTiC95_ZsXReM1EZO4IsSsX8Rst0_E1xlq5ctyjAHDWDl21-ziWQ_yB3PeKCXC0aZk-oHu0OExPDeURPVOebZw-sX0Sdo473W4rIRC-OHETHmfNWSNdE0pt56dSn-iRzZwR9jRKcOcy0nfft59Vpg8LdXnYV3LP4JTkrKbUgSrOBslT1S0r2NgNaCx7Ws2KGtd_B5RTpA8wsI-mWkIZ6u-ledYopbKSk5wyHZ2Y2yfCQSODmAl2IpynRj7BKQ2GSP-8gNFQ8PzSR9MlN-GJCS3HOcVvUcxZtRX1Pupx56hhG61gbYKkfLeSHhmg.jpg"
       ],
       "videos": [],
       "description": "Легка, витончена, з тими самими асиметричними воланами й фірмовим поясом CD — сукня, яка виглядає дорого без зайвого пафосу.\nБіла бавовна poplin · Made in Italy\nРозмір 38",
@@ -722,7 +738,7 @@
       "title": "HERMÈS — HERBAG 31 RETOURNE — NOIR/NOIR, GHW",
       "price": "3 500 € у наявності",
       "photos": [
-        "https://cdn4.telesco.pe/file/V2MJyBvfzKheUti4R28i8JzMua9aUZSNYL4oJ8WrObQyGlWKEAOT9aaC3DLAGA3SVw6ZSP0PtrAISL3QfttEmMyefGUSq5-GoETkmFNZlvfSB0PWQoURQexZHneBUpbGBJ0Hkz2qgrMbA13TXj41WF03ksm0Y32Y5GpTq09unouY6eNF58H0m4PwzOsfgTUUHecfQDlkZoRKzd8wosMHWDjcNYxVm0CEJZNXXnek_INmfyj4IU-DO9TjalZwLqZKDR5Cuo45X8axs2AgbJMEkfW5dXWoTlNC7Lp2XsX_c_UJ2F6EMWqV0pt9cfgbyL5DZI8JPbRXBc1HDculji-kbg.jpg"
+        "https://cdn4.telesco.pe/file/beLzpU1dRLQVXkwGGMwPvKSHYClH3_IqkMl1tT48F9otHKjG94rxLXzOaRxYvImNrqxv_SDjHctx_wQjeOTaYVnJIoVrt06veoCp9eNk97eqo1F2sMBIWcZucQd_ly5vgES8xV7xdzN6F5Y-Vu7ahwbn2svqrbS-BEFjCsxvdwiFLsPnb1GQ9vTKWWMUqVRnXb3niZbsqdA91SeYpxPNGWo4iz02ZbxfMCNIECi-x8CkoExA8j_AF4CDLlmSNABhFwvv-EgGG2Jb0v9TpRgZh46yxo20T8nylmSbUEM8Tw8qFEoa6g6gmj5hus74DpKly3hIhfnwl-ltVA1I9Q0KwQ.jpg"
       ],
       "videos": [],
       "description": "Більший формат легендарної Herbag — просторий, зручний та невибагливий у щоденному носінні, але з тим самим впізнаваним шиком Hermès. Поєднання шкіри та канвасу в моноколірному виконанні noir/noir виглядає стримано і водночас дуже дорого. Золота фурнітура GHW додає теплого акценту та завершеності образу.\nHerbag Retourne — практичний вибір для тих, хто цінує функціональність без втрати статусу.",
@@ -736,8 +752,8 @@
       "title": "HERMÈS — HERBAG MINI 20 — це той рідкісний Hermès, де щоденна практичність поєднана з фірмовим шиком. Комбінація шкіри та канвасу, легендарна застібка з ремінцем, легка вага і компактний розмір — сумка, яку хочеться носити щодня.",
       "price": "3200 € у наявності",
       "photos": [
-        "https://cdn4.telesco.pe/file/tLRYFbZ6x27GCQ0y7mb3nPc32JYnLC_th50l6l7rcAZN77gLSiLeSiF8a_tIe7AFLzBlNNXmwydNviwSwlrvOtM4KO3XNMYib3j1Guk5-OUPa7h5Ow3iWAAssD65yvSqe0ToGNUrCrfMwhNIRUsDZ8e3wbHlFFPJrpVyOZcbN6un_-Kyc-Iyj2IwBeKcIzH9Syvn428QwY3nQ6fcUWkF2A46ekaq5HWC6AGzJRbFxpMAgHVbwbTnqh2k-3wnF4AnXEV4RRI93Ys0eooPRiCEgDztaDw1ez2cTf8g-EFwkaIqEMKIwPX0bdSHddNBjsmKAL2N5XrKOdcaCnMVYkAqfg.jpg",
-        "https://cdn4.telesco.pe/file/gHCbIGHfhCUC9YuFGGJU71XdZOQNH1Njb4SCC7HsHpmh12hvlsuBzoBfRLV89Y-5it1rSjb33k2Tk4A1vv8Je5TplUHoZnEiAVsP9rg4FNRDAuMTNjGrpHKR2TIDanKJDDwxj1cbQUyErQgH7_L4Lr5wzR2f3SE0kx73SHxNkg0PB0lPsWHkpRIonKGbf_qZFuFig1u0bc0jWXykS1lbVkJ8tC1ROdRgOl34OTxPawlnugq2J3SQO6PA_xkzwuCi0LPhXZiobAHcb4pyTzVGCckwPO1TSra389Xpm0rPDk0eF0ZISRb8fIbnXWS9roc6j0L4qmMyhdnWglj0X6N8lQ.jpg"
+        "https://cdn4.telesco.pe/file/HlhZlNLq_vN09SA0X9cxHXHQLcEVy4IjNPE2ewI7VZeGOL2NB4p0LBKUUgfHmCgwKGjd6BnGcTFegw2IsHqtF9MM3lYjIDWHS8G0Sv6rjPuoJ2UNgXkQxd454nAWhUDA9uUFc04Ej7Ay2CFpV3eAOrQkFFdTj8NP5lvaeAWsrtc5BSLwzsuTQlCt3arEqrol04w9Gq5GTUUqPJxTNBqIADxjHLy_n2mms3gyeQtNzd3O_GPsmNw56RUO6QKAdF618Bw2bx-2xR3gRrneXm-UrzwpJGsCcCyqy9Cg8rreP27yhjsFyxXqLkvjd2SwApBgjj56DlVi-0p3dyH9b1wFsg.jpg",
+        "https://cdn4.telesco.pe/file/A4OWxFhzGrQ-a08BKer3kXdIbKSCrMHFJrY82h4CZZJgklozuvfpVTPKbTA80SJ5UltvqIqxckSODocmIQDzCv8geOJO52D7VQPO_j_zRlXeRGNsTKo0ez-XZ94Y_OlDurNbiBP2QbpKy0qWfeS5C7QgDbaiEv5X8q6TXWDclgThqqEO0QkJuu82vPLSPuKD-mHcC04da4n9kKPih91O7bZL8K5-hfu5fL92ugAZ6FP9v7lau8yL2pdlPn6pcR0nForMidcurBQcP5hzw0UAQw_N_8PTLlbpvhdt3qb18KRL-I1IShFrlpewgpjw7lZf4sUrHtyRfv4-jENYeR0qKg.jpg"
       ],
       "videos": [],
       "description": "Колір Noir — базовий і водночас статусний, підходить під будь-який образ. Фурнітура PHW (палладій) додає стриманого благородного блиску.",
@@ -751,7 +767,7 @@
       "title": "HERMÈS — MINI CONSTANCE 18",
       "price": "10 800 €+ доставка",
       "photos": [
-        "https://cdn4.telesco.pe/file/lMrwwHQgyKDqbLe9iZITmCGjHFAxupMKM9VmC3-wRCzP_VzfIDKCVEb27XTVXT8KVRiSkq3nO_LKJSaMI3Jcnl7vlnOmR1cGYJh_D7_jid_vYxg3I7sRvXQMBEQWvBnQEDcn0UjI_ql3It5xckugygMrKvwv2sONYauHj5VPysauxaKu2_KUXhQK0ruUhrcpvcShLq7jj3zGiMiDdvZfiACZuy0GEgPf-oxh2f0LxxIZ7jKIkLq-cAepxC8-T845QK-M9HfBDkKj0vPy8IgcSELMq7uM04X3M5FqKkktxPthY7GOAxdLexQAXp43bMyCAtXgxmUBi-YVMNYEzuASDQ.jpg"
+        "https://cdn4.telesco.pe/file/Ryh8kOJ1poQsnm7-I9tNpzLQU_oRl0_h5AZcoZrwhF7rjrqeyzlcScHBt4mxduE-N8c-LGLn2KVxFR-VjMy3dlW6Mb0pWfgE9iknHlevzNxZymhMPIndvOYbLpHo-7lxX5wBo7FZrMJe_Oq2cLNCQbhyeMC8RVvU4yOZ-Slz35Fvdu2Ss6Flfw1gI0di2wSqmzg1Q4-bb3OvuEOwogn5QFEkZGYM3GXpwmuG2MGLl0RP7Yz8XPZK6Fj8pR6v6MIkqz7C_DH63ky1Smz_9a1f6Lre1lyUTJ47aSRNrDjWBlC8qYkxF2Ff_VsZpDrxh8VIgVkm8kOuUXb25r0p5Q1lpw.jpg"
       ],
       "videos": [],
       "description": "\nОдна з найбажаніших сумок Hermès — тепер доступна для вас.\nMini Constance 18 — це той рідкісний випадок, коли культова іконічна пряжка «H» поєднується з компактним, ідеально збалансованим форматом. Шкіра Epsom — структурована, стійка до подряпин і деформацій, тримає форму роками.\nФурнітура Permabrass.\nЦе не просто сумка — це інвестиція, яка тільки зростає в ціні на вторинному ринку.",
@@ -765,11 +781,11 @@
       "title": "VAN CLEEF & ARPELS — PINK ENAMEL ALHAMBRA — ВЖЕ В ПРОДАЖУ!",
       "price": "Підвіска 1 мотив — 3350+10%=1155 € + доставка",
       "photos": [
-        "https://cdn4.telesco.pe/file/N5CNZmMonN1nog996xyofmKrsWy6GhqN_bnbekXphns7FE5EdBOW_3wV1NSwnO7I7gqr4yP-PFW4ajmng3Q5Jq2WF0YW_-nLa6UAvEgsjqWTrX5VCyusQkratSJ-YMXMuhRDNDSAFikQU9esjZHY-1lWsUsruCg0Gb7olm4GtzRx5BBx-aIhZqG4DWFtPNHD6guHVW6ArNYg-xs79Tzh31D8Cf2f9DbwoWe187td1iG4_AwzhuzVzMo_nwNnwPSoMbAMYwo_1EtfgH6eNUGqZszLX5LLCCY5-XXl8wsxxe7mCaGZet1xV34i560sU1Y7CCDNAd3lZETIP0t-hu_4qg.jpg",
-        "https://cdn4.telesco.pe/file/NbX6fxM8MbRhwtqHCAOkar2M6o1M0mPs7CUYL-vV52d5sfxR1E6pNGeVZBMWG3R63YyMxdPXIMsE0y-zEraJXbs8AMAioiJFbUF6hg3GgA4IipUXAIh8DdEG84KTnBrYEjqkldSkQb12UXuDvd1v4HbKhFc75Op5Qy9V4TaN5CcdFcT5Tc_OWrVVX2McU4SQiQHCHI-Ok6boP5-BDbJVnX5_tBiJJqOKpFdQeNvQWNjno5uEffyB6Fykbqkl4aJMszqVbcIUALA4FOnLxLUab4HT9f-wHPFdCO5k1l1pFIhgBoglskvw6VezjM2-QUzMvci3qUDoyiBI7t1NrznJMw.jpg",
-        "https://cdn4.telesco.pe/file/NCY2wKUrbtFRVVAEeDBW4Zjy1fYtHFTY5hjDGbxfI6GO80cXwrB-FnBLUQjxJVwNusssVUoFgeiwZDjmNF4F-CiMH3QvgbtMkxyA6NaNeLOcg0vziNIHTl2RN4kD0KylsojBp_ZktK9LCoqI_DkXKTJIoS1kRR2mc_yXw1Ck1PIPm4neFt39lkQOMngXIgKZ2b60VQdRJkmkhD7pSOJ3CY8a2De-6hNLVsth3pzoqJQRiAtA53LR7lTRvjQADYceMo-kOZ2zT8QGPPT8qc5tkd8fueHIutjdlY9wx1_7gJYearvpKKsDVALKBZcmO_MZE43rmLj8FG0JrtNbS1A3Bw.jpg",
-        "https://cdn4.telesco.pe/file/d-B1LMwk6AcTsdxo8LT9Sy8qwjlru_6vWU9C4jlTKvJZqNpud-sH3pbjYwd9CxK291woqxiSAio_5W2IWlcWzSmoSo7BXGiO2rsGCjhLwVm6XGMuXKX-LUW-rAIk9Sj0UCVpShyIZvQ_k6Kqk8axdeI8sjBJzcvfySg__PZ7JtF5dsUvjN9s65GRBa3xlbcbVyLWn3Qwh53o92VuEABUSsESBn0HqcuiIsy7rEQZqwBZqMReaaWITFwQ2xJ3R36fAd0W6AUkqKHidJdjVHCNVjWzbvlPLRHiHB93mlMGmRO5pGOdEMf68Y7azb3iIUFp2KSFzRryvukrZKXsCg8PdQ.jpg",
-        "https://cdn4.telesco.pe/file/N5CNZmMonN1nog996xyofmKrsWy6GhqN_bnbekXphns7FE5EdBOW_3wV1NSwnO7I7gqr4yP-PFW4ajmng3Q5Jq2WF0YW_-nLa6UAvEgsjqWTrX5VCyusQkratSJ-YMXMuhRDNDSAFikQU9esjZHY-1lWsUsruCg0Gb7olm4GtzRx5BBx-aIhZqG4DWFtPNHD6guHVW6ArNYg-xs79Tzh31D8Cf2f9DbwoWe187td1iG4_AwzhuzVzMo_nwNnwPSoMbAMYwo_1EtfgH6eNUGqZszLX5LLCCY5-XXl8wsxxe7mCaGZet1xV34i560sU1Y7CCDNAd3lZETIP0t-hu_4qg.jpg"
+        "https://cdn4.telesco.pe/file/pcwpWzu5Lm-LceLcEwK9dQFVfZicRSDDw2t1q5sSOyjlMlNUkEuX3OC1gm0UNyNWBpBNsT-CeCxKG1g5l8eoo2T1CAldK1cJZSYyPPsGub2UjAY1h4OZHh45eXbtR-NVhCMFDK7oxuV57YeK-Jnmh8nPxGJS_mcn5l_yIOEmKxzi0xxYLX7zvS77t1N_hMmaRYQMag_oPbf5fMNWS3MF8WXGIrotKjHVPicStQIUtkRZiv3I-XlxdSTxj0iXbfKGqZtvA7Xo7J4sRq09m0ms1WscaCfGxbuy0zEii6uSlnjV50_5IBehCGdWoBl26EreDOLORO4-V--EgmqB7qiyDw.jpg",
+        "https://cdn4.telesco.pe/file/Lf7Te4BVOKP168WAyYDM93vf78Our_vWyoOX_xACu1nv_hRWFF5mka8A2O2yyOT4Nf9bNBLAMPV0A6MclGDKoLX3eHLvkJuNuPyhZEk8Wn4LAwdJLZRGNCjaA_i830Lh3o_eirSSGaL8XUwIDnRyV1I4RM7Dk1V9x-Aw-qjqPaXxChiOSonWR818Ni16xcZbAy6aiuUhRgEUpbh9P1rNok5m4QNO23mu4Q38HoLaWyI1Hb3pgmxfP-8lNsbCpQVRVGgILjZByF78b22LfIFnS_Z0AljWB5qrfDerHzF3x0t-m7CXiKqnMCNflddj9zsX0yTIVT20YtiOn4hq1GeRJg.jpg",
+        "https://cdn4.telesco.pe/file/r4uX2oZZPMaVYqUgGTDzqkeDsbT4tMZaWctvtJR4sbzIFxxnDw1kQkJ35XwVYbHz8AY_mq5QehNZMWngcFsmrcLGF2rC4RBloJkz9h9ylZzvuHqKCVFM6Ka9QiAyBLGX3pkAtWaLBHOet_bYh5AGwspDYXYB-l8ng6G8NmUmRjK1shE_HLMePmHxTZ800mhiEf7qvPO2LI3PN7ZC5jqTAv2Jqis2_GWyhLH2vs-hLaU5rCjQIkE0M6beCUIfGT3E1H68KyyNcE8NhugcbhzCM3v_BQmNBJ_M-HPvqonFPUOE_lY2XZOHX4yUwujtyO5DOJrDZUQWt5gbZodB29htaw.jpg",
+        "https://cdn4.telesco.pe/file/nlRlLwzQAhGhP0KsxXxPqqOSpcYPCAAtktCWoVlEb1OOxcN9A7_cOmdlDaJjHulvylOr0muwIgv2BvAXkFjDQNUz0uUl-A-o7fjUJfKwrpHkRFgbNtR29NZE10iEW0mD3ZSiq2E--jxwqFb-ZxSjA0QCn0hiO79eDxNgHGThx1BUBRrVxRc-fYmXRfj4BjDEsv0r4Zq8h53pbPNzYUXTwViEXP1fwlXiDZxG16NcmMJU3_6louRBBNmQOkfcxlYT98kWkryYD8fWdZqLHRoxv6ed3wazdeQJYtp4HmCeqKaxAISnYBg-A2iQ0MidFr8OTP6XEbO5OuK6j8ARqGt3nA.jpg",
+        "https://cdn4.telesco.pe/file/pcwpWzu5Lm-LceLcEwK9dQFVfZicRSDDw2t1q5sSOyjlMlNUkEuX3OC1gm0UNyNWBpBNsT-CeCxKG1g5l8eoo2T1CAldK1cJZSYyPPsGub2UjAY1h4OZHh45eXbtR-NVhCMFDK7oxuV57YeK-Jnmh8nPxGJS_mcn5l_yIOEmKxzi0xxYLX7zvS77t1N_hMmaRYQMag_oPbf5fMNWS3MF8WXGIrotKjHVPicStQIUtkRZiv3I-XlxdSTxj0iXbfKGqZtvA7Xo7J4sRq09m0ms1WscaCfGxbuy0zEii6uSlnjV50_5IBehCGdWoBl26EreDOLORO4-V--EgmqB7qiyDw.jpg"
       ],
       "videos": [],
       "description": "Колекцію, яку анонсував Van Cleef, офіційно запустили — і ціни нарешті відомі\nБраслет 5 мотивів — 5500+10%=6050 €+ доставка\nНамисто 10 мотивів — 10500+10%=11 550 €+доставка\nСережки Magic 2 мотиви — 9200+10%=10 120 €+доставка\nДовге намисто 20 мотивів — 20400+5%=21 420 €+ доставка\nПопит на новинку вже високий — радимо не зволікати з замовленням\nДля замовлення пишіть в особисті",
@@ -783,11 +799,11 @@
       "title": "LOUIS VUITTON — VINYL EFFECT SET",
       "price": "2 900+10%=3190 €+ доставка",
       "photos": [
-        "https://cdn4.telesco.pe/file/m_VitwEy8tUZBeJyQl-YXgc9HvtZ8SJlZ_WRtZVOQFNgX27_TOT0MnDXQthK4SDY5thkAfFUZJK9IUhYLcjJjknK927mi578YzASUX1i6U-mqr0L8MlyC8pHGEQExy4MR5AXYlGL4Z8ExANfK6TEk7D4tkgNIGeiHqBiMUH7ll9i_ZoDWgoW9p1qQNEKDvGXSrJVAuHKLsdLzrnp-HeO67qSoML_hhdozeGvNMPnTMyGjvFz4ogDoLASqkkgviKEsgRey_PrZkyKcCA1dhAWbM20CZSWxMHkK6dPEnpDCWK4DsYMMrhUGXt2vjgIrt0bjis4jvPXFfhZ5IZStgZJ4g.jpg",
-        "https://cdn4.telesco.pe/file/Q_8UhZq-D6KF6uSEAWjrxSgcl7v-H6jnL4C9hw55TeTa3Kr-SzP2jNvn87cLGyVsl2wjDXHLhP5CTl7Lc1gVF_LAUipok63LTOeRn-d4_c2aq65Fc8KW40K2doyHIELdu3ztHnvq2rpy-fBRwFNljnZTvC9GQkMxO0rrtBy_lguNkgWhAs57YcUVBMMBcAOS9I0IppB_pyrC9frXybYqELp0P5F5f7bXJG_M_Qr8Ju3LJqYPTI-hBqE_4vhHRdwdHaSVeSwkS71KeXi97Rbktx1m-mjd-PcAQSj7Q78EI_jOia0Xhw0hszYZjtRyNqyYkae0vdxfF8boSNDsmHuZrQ.jpg",
-        "https://cdn4.telesco.pe/file/tL-SqHvNb7u8sMAY9_5GJRJnpngAbXMWeFy8rmnoZMwKywcuVljr-UxycwsygdXZ1a267zOkF7JrIUb7Flh8RKVXgdanDPKTyb-X8uh9UC-AH2XrFcNCJ1EZ8YnWkZ-J3JbpNRs9Rdb9aQudut-kt6RPJz090dKi5qjgFs1EO4qBPTZ0COIrMYQxTt9Gc04poRkqCu-hpKUI7-8mRKWqtFBCwiZGMZ-7yzj3oHz-quMYtoXzKyBie6mEdURLxEMRTopCFir5vYPG9oDEgCe3DUif-Tj5_CTeJ4wszSXaR9uksSPw-HFYK8szxJlZVXKPYMjdrBbqODeqhmyEn5Zkvg.jpg",
-        "https://cdn4.telesco.pe/file/DxzJKocKwk8sAx8RiQfWgqs1l124aIypEALiYPEavWkrEaqu5d6DsvccCqiNwa_2Jx7riccoo4KqWzZB5gb_22wFXzoMxEeS-x0UCFRrSez3VOmgjVobDJ8HCFNDxR7dH2Jd8vi6gXn7Pomz3XRSjTJ0SE8BjWAN323hs-t-fpeSY-OuGrClPTxNL3TVPtQi10PJobjiJQs1G7FqdQVM1r2Ca6S81OH2iXczqfC6Hrj3gG1ponv7NCL6hb8gIQLyKXsPAm2YdEy_hTpLrSv1Q_OQpgC0z3MOK1PFBo38pu9o7I9zcWs1LCLVuLhXf7cMNG5uBtNHu9wJRwXiNqzNww.jpg",
-        "https://cdn4.telesco.pe/file/U9aNIXiI6Z_Y1XnPf1jdM1XZhpXCtkq3aMeDMRDXySwqgKrDT_NrtgV3EbzQrElWRRsylZREsUTE3BWafYdeasMK6KBMNgu6MrNJMycWnCF4YUWoY71zFCzs-6I1QnziZ364OhhKPgPaVt5eca6WIGdli_KIqxpfxPpXCk80JBZcZj1kpGEBbJAcMPfPoDkFGkTke0qpGjFFlloIBUWaC77ba6pz2rkToOQ_qeRu82Hu86QooyFGu5chV0avP9psE57iHlgLWiqhtaqlFpoCVPdxGuPVmkXN53VvNnv8VKWW4OTnKPWvkp0OXFJJ5ddfY2YwYb688I3YLmmEB2KH_w.jpg"
+        "https://cdn4.telesco.pe/file/rXu9r19VzSHkK_q2XsKUFCGZLM1RZunTIeuE2NOVAG1VOzY04bvbUFR9TavHjFFzMer_MqUkzHNEs3KxGMsfK1rgLRwQ0xDeFJD_ELERDQpecM4p0vwqbo_8a-DcXda3E365pQkdNx53sXxdvyusOZV3lYd2LDTYwb0hHAz80Uty-SG37TgHEJudI7tOu81HR6svB1ivPqPzGgsfqtla1Mh18kKFyclmrZYRsp8x_IuimSvK7JsepPGn55jLcYFdpLJecJpJ05nUD1AgfS057lNqxxsa1sKJp0GiYckXBXzhOuZDNDxSF-nOiCSXhlkk1GzOsbqXAvliP_u_VMA6fA.jpg",
+        "https://cdn4.telesco.pe/file/K1Y-P-Q2VcNSp83L6vybwUvQIV3jh7IpghWIeRGC9jf7QapQAB0mHb1LvNVSkRq0ieYs5NeMFWe2_yUSID09yoPPwl4CizRtpGTs76JfHXb1_nPOjrrHkI_kAn-H0kIQ3fKnEzZmNIEZXytEOkdtYix7VUdeWWdCcOli5HGHyPlQvI515mTzuxTue9JiHZ2oHfsCe_MWpTUwvPLrKnLVAOQBaChdbeGiU1r6UYoghFLd8A3W3hVveOFO3Cxiu4JVZJ-VuJvwdRGmLbwdybAJwzkPZFusa0L5O7pgDAoEN_2cx6pmHDnigOt_m91xRFwI53EBbetHppn9S4HZrOp97Q.jpg",
+        "https://cdn4.telesco.pe/file/DPU-IibeidrB8ZtQEVVekUMjl33jpEBeP86Zig4K4uJmljFWjrktS41BCQHAgcDW9GEwNRQJCrduFCmm0_be5EOr9ReACpOW8Hum1OgrgPApFLa8e2GiDEvTlrwB1__4AjY7rJJCgrzzcB53P8ew4F2u1heKFYSgXzMxv2RRLbjhkUy092u8wdPL3XZowwpkueeO--o03YTmLdaszmIutkw6YMtYeNdYEQRa6GeLDEv2GzdNTUxADMh2l8rfqe6sich9xU9rTRETYaN1x4aCaF4gRVggvJcIJiJB7pTbdlojTu18_h7q1NQhlsWtc686SMzlA2PtG3aiCLaMuj0xAg.jpg",
+        "https://cdn4.telesco.pe/file/DFFo6cGn-X4gRpkLoMmikT-SqxJAZVwMdR1AK2pgeW5YVUwliMNVU7rN_WTmpMiAFUnpRFk5bqrjpaHQ6zRS42iWjZWM5in1u3j4IaDwJWRKe-A7kTQrhIJcZBelhbIWvofA36A0WuxZfA_ABgUkYqMUNuIVJAHRDfnmx-xtYzal053Lh7hAbsAjR6m1APGH0yvrLROeRBS34POy5OdUOqH53YZn6hsw_gkw85wHbuICu_gav7WHkwVWvtMtB-38gjOD_8dV28fANJvSKhSyTnohK6OK4B8HOPyjFW1-u5gm_Hz8LG2zBLCxAP39O7_ntEgX0NHOqyC6z2kVG3C8mA.jpg",
+        "https://cdn4.telesco.pe/file/XNSRILYggFx6OjFtjZ5x5tw4VQrMzvlu3jsXGU1to8qLzbnNYDw6DWdcy9pdy6PA48q46PHBy8S6N029f7-suwV7eCJntecHHfDeFFgo9yxtgdJJGkioWfRxFot1Hg5MXPSyy2RJx6g-Be9XDZ880Rhkbg5JW0rmYXHnuEPttKrmsLLMD0Y1Hv1Jd07fnm7vVyptkt3HttSeboe5-X5_2rWkkhNm-lefZ6CU_hvlLa6nfp8EDsjD703njc_g_lh3DhaTY1z9TYcOfkiBSgK0GlVX9zW9XhLI4QqFVe45YqNxjBYwsFxe9c1LLx5Jmv7rOPkazZkk5sdt3j_CAPUeXQ.jpg"
       ],
       "videos": [],
       "description": "\nЕкстравагантний та ультрастильний комплект у сучасному бачення довершеної класики Louis Vuitton. Ефект вінілу додає глянцевого шику, а культова монограма підкреслює статус.\nVinyl Effect Cropped Jacket (Вкорочена куртка)\nVinyl Effect A-Line Skirt (Спідниця А-силуету)\n1 800+10%=1980 €+доставка\n⏳ Модель ексклюзивна, кількість розмірів обмежена!",
@@ -801,9 +817,9 @@
       "title": "GUCCI PRINTED SILK SET: TOTAL LOOK",
       "price": "Ціна зі знижкою: 1 600 €  1 280 € (знижка -20%)+ доставка",
       "photos": [
-        "https://cdn4.telesco.pe/file/lALaR_nwWPRX9NAzMTtz0F1qVQ8QOcKQvhPIpWEDJUTrKaMHamjsM5_oZX3aDwxKm3aLDcPP9rCUcV7E4W-XVEYOZE29XFbAUlEA5xvv7F4vQocOBFedFtaD4QyO6pd3F3ud-aXpdWDcvD6kUcemhI0ZBBMWuhOtAcNcsclKxEk0ZEEM0qcUlD8UgIdrtqI0NaPgSe_ZCIt6VoPQrTALH247ZIcnbjxaGy73GtOZ45GL9PxxmkgTDh-OSsCfi9ty4aa5EWWHHEhFF7nDHRGPhop-EgLSGRdteEnFDgvj9BBMqnDyu69P5KCIQZvLJ6-av5h-p2Uu30VB9sdQ3ZdBGA.jpg",
-        "https://cdn4.telesco.pe/file/nC_KSGeUZNvJhCjzyMZPeUfeht3Ly2kI4TuiEqBFJ8uqQqquf_FxvaBanpVaLGTu3rP227d9-lfNrL7K9_OhHhCD7iWnXbKB2LNL4apzbDcTf4M5vprz61McP8cWROMf6nMh3CAmL477NCNsoMshjKWWXfk3BSyYJMDzhAlqOKkezbRepiotnbAe7DbeTnerfrSwrBQYteDKUoN-mZpAMajXst2xaVdh2VlworqZEUv_LxLS0x5U_OBvWPIhRMOcWHasrfbemMq9CqOdz5kL0_uUPyBXVBNCOdVKit6YTiiIFe85yj59NVTCF0rak9VbkRhsLqZ4oUkCGDzlJXel2Q.jpg",
-        "https://cdn4.telesco.pe/file/gnZsj-QRU7wXLsqG_G-QlzeXJUQUTJREaoUV2zQ0z9igXXkn0s77SXtryYJfdHHddFf1Sd3-EFKOLSzHNL6K6HFd3wnOHxdTjbbB31N9bTM9m8xTi1udMWPPDFg6o_X_vUuPWzS123eC15_OWABnXkL5wZtGvPUIrvh2RSefpxn1oddYWdDxWweibjWUur8-e_M_8ydM7FrKTRfiVe0S-PPUSr1--jTDOZtXNG5nfzPaEeZfLTgj_DUnDxMMx01ONp8cQWe-iH2UOINasvA_HhZkk_2XhudnuwkuVLq42ajCp8lPlqx0Q5LQYon9axfGNaUoq8JeEG33SAbdhjh3WA.jpg"
+        "https://cdn4.telesco.pe/file/IiBljGU9lQXHsJEwTW6AF-qhVE4vhYxPm6qqMZjW2lsX9N5sMyJihOU9ZS2TIKLXlcbmGLqEgPLlyyDa1vfwxgTj693EhMCtvvz6hlYXkHjxXjkvZf5zCCpj0ri4vLl0A0BlHo_f8v8xhrCSYEHjEm9k-vqER6rKNU9B_RG0phhgNJejP4pzE5foagAXY7rpSnthTu2UTiyY8UObIN8Q05dM6TE2wKntZuJTL58OLsaqIRkOeUnfGCODwvcfPPoAXK6FFpB_SmjClpcxkEwyOXdLgeAP96f7J4PgxakgJeCFwoAPZ6GTe4Fi-FonrYmDxXF2U95pjpGSxqy29ZxnSw.jpg",
+        "https://cdn4.telesco.pe/file/JCD1vB80n1xxRBQCD5DT4kS0sDR_LzjkViDgnmKdJSY5qzjOBz7sibsKRzelgEzBH9DGVAvWFbEunoRWxqc8EEOxkAFmg5x2PKO27nb_c9wLf-gZ_-9Wot2G0uljr1Kyx0MJ56oRyjIwXxg4oeyQpW3WRUq_lPSXtTkM_Q2iFR_Wo8-aj6iJYYPjkLIVx2Z3MCqwJ0sA8jD7eRfLv4eAiFVVbWtvIo4NN05MTSLX2R9ddoCboMUCka7675SX4mrHcU76r158BImRVCCRzvpmgxpVYtYcyrFcu7_46ONaRBuaPXHv1-2BjBPsy0sxPhEnXnoch_8f2PTats42LLvZpA.jpg",
+        "https://cdn4.telesco.pe/file/en2pcGWJrGZyFJQk_6L-UIlbn0LyWLQ_TOzu22ZtzqbutYhpzyT0LNtElJIDL8deb5WsxpLkmS2zKdW3_F6GvJJfbtUaUojnSo36_O229ZaSUGR1D74p-FvOmdtcxT9v1q0HU_Vbm_2gVnB1mM5Mh1u36qR7h4Oz_5HJtdGCtrp_2qedCh5eqL04b5aOPmBgWpT23skEbp_i9sG-Um1K3IKJc01hjzJRjNO9wvezAlffmrHvdoWfew6m2qrp29_YAd2FD9CQVm-FowuvUEaeC15EEzr4WEIeeMgWDn9s2L_c0bpX3P_QSJVA1fBB2KgzeLPr_5LBfU0FuuQH1BQgaw.jpg"
       ],
       "videos": [],
       "description": "Довершений образ у фірмовому стилі Gucci — монограмний шовковий комплект з натурального крепу (Silk Crepe de Chine).\nЦе ідеальне поєднання невимушеної розкоші, елегантності та максимального комфорту. Носіть як цілісний тотал-лук або стилізуйте речі окремо.\nБлуза\nШтани\nЦіна зі знижкою: 1 400 €  1 120 € (знижка -20%)+доставка",
@@ -815,9 +831,9 @@
       "title": "GUCCI DOUBLE G SLIDE SANDALS: CANVASS & LEATHER",
       "price": "590 €  502 € (знижка -15% на будь-яку модель)+доставка",
       "photos": [
-        "https://cdn4.telesco.pe/file/EtLqeGHObAcOFNcuz8dnBEN5KnGYoawKw-tqg2655WT1yakhpNfVqFUUepbGuMzQqie5oUTZLu2uDDh9uugjpBVrDvWuTkLER-eSrXYtwnWbf5PNILBk6d-2gQpe9vpTuAyFYZk3Q_yzGiw6gWKhctcKsAmxmUhikR9WMWwk-j55iKFrUG7Yfvhz1p8mr55g-38uyA_1VB4B1HxxZfjjVYlV90seVdzQxPux5TSGsxgDUmhrwavAVtvzymR6eNR-rsJF5_VNOm4pnuFE1x45kziGndyZbUzc31ROvC612wsSKhqlrp6jPnzYnSr_nnQt5xVL-ofEcXp39ULQcdzTJw.jpg",
-        "https://cdn4.telesco.pe/file/feRFfgpYSVxmpxX4ERYgp4BTZGQaPS_Xx7zOjZwaLytXwdc9Y5nSrzjHVHisHH8SwFOUBMu220OBOsOygENlojcXl4mZLm23oOAM_R7nYV5ohUJZbpcboq_z_jbOzJgX453rYb9FXhP28CJILVuX3i4rste2HIAkrSvsBqpUdz4tCfwHW3xQleb0hfIjiH8DtrVDGWrNhNfe5_XF4MLbIfbgk7Kpr5tiWVX_Rb6CXwPjb12vMIquGXFj9a_Qt3_H5PEtbprRpL2Zo24VHvpJfVybkHC5MHdcQHYzon5CRGg01K5Ri1I1MyyRDlpxkXl8HS1bClzXkLOQ1bV450-eGA.jpg",
-        "https://cdn4.telesco.pe/file/SCxzXlG-lLv4b1pjxhjNlCZGbCHzrRosHO5uzzl1OPaVQ41CMvrKpGkkwtXbNe1qoFVUUmGrFSPdpAqQ5rB80oexuQRUzh6R82Pb9fV5g5nriQcxUg4txOXrD_l4q7VviAKdgjhfMQ1t4BOccqGDHUjrmGTNYSE6r63HHsWPIwlTVmapGyR4s8FncLgA1vt3Jh8gNfhKi7Eex7RmGOWv0-iM42sFY8598k0-hAa1agooVhpeSjaYfdllyg9ogqS5F_KMGfmis_wCa3ax3PILhj3l1RHASYwcMrisx6gVgqAGG5op2j82GGtp4xSlCPs5pVxjtYOhM6WuRLHEtPdiSw.jpg"
+        "https://cdn4.telesco.pe/file/k5NcT8T0_hvaGdwEDv-pmCYBSEAKs-TfgwSEmjPuPmXa9r-yoqZhRz13OMNjW15GNjuWomLVcOUloMBqMs2kCuiAY4fClYsRQLw279AAC_kP2T0B_0zlDfe-rLageOzKZ8HE0qszYMBqmxoWi7mPMbHLMHq7y3bDDcLvBpLxifVJEdPLBhb-GrNoCmkpVa4ZIrVvkaan7DbNOTKslbC6eiAehHm2TX9Bj6sVlWp75AwPy-i9pQDLkSfvAk7TNeyf3hiEcIx1M0f84vlCCaoNSTvFP3wHgZvV6ehOwbeOfzrNHTOwit6zUhxPAJWh7L62bEl4euXDUZY331R_-aMioA.jpg",
+        "https://cdn4.telesco.pe/file/kbmR45vqzGsSL1DcaRRT2zlqhgh2GmUUiJksrEabtpu2g69Ej33nQttNPwh0JsLG4s6UApVTufQxW458yjkcF0XfCtXGDp_5jZcDHKDOjLj7qPaq-yNWRn3KhX5ly8f4lSMY4czRf7yB9y5i0cHd5sIMNUgHyE3HVqhfDJ568ug11NGLMNH3_id6C65pM0BG8fxLvkm_MMpxeG9Fp_wU4yVTbYHajq6oub-yFB5Y-AOV6U4YPCqFyT6-VUCVHaeawahzshHh46va_5Ox6qTuzLXm4PRKceNIepuKymiiezjt_9hSTxNxau_0ye51MZKumxK3RIeDgK0pOpL8pl1R0A.jpg",
+        "https://cdn4.telesco.pe/file/AxcgWVBt5bUDdgovgKfgyzxnngY6NREy8vUrLMmQRUOP5CBuW4xUrMJyohN7sD8k1zDIsl59mSU0H3huOQrAt7b5SN8cwl2n-he2go1wJ1RLWwQPJ0GWnJfzH3TXJMayI_Wil2uKX66aM8sSqjPxV40qnKKof5bMana7cFtM6QvvaJcEXHIpcZo0LfSnN2GKkoWFM2Kb7HTo0LZGRx50L1xOAl81PwvV2Pld6PDUIsYP-XkUoo-GrwvHit0HtBKb8a6BYccDOEEl992I4-uZJJ_PQ34rpDceyvC4a6nvwn_nTw5IslAaUSgDOIuNDY29EBZxEmYXn7BVTTa3UyhNiw.jpg"
       ],
       "videos": [],
       "description": "Два втілення італійської розкоші. Обирайте свою ідеальну пару — легендарний текстиль GG Supreme чи класичну гладку чорну шкіру.\n▫ Матеріал: Текстиль GG Supreme / Гладка натуральна шкіра\n▫ Деталі: Золотиста фурнітура Double G, шкіряна устілка\nСпеціальна пропозиція зі знижкою:",
